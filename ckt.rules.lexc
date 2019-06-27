@@ -1,0 +1,424 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Multichar_Symbols
+%.n                     ! Noun
+%.prn                   ! Pronoun
+%.ij                    ! Interjection
+%.cnjcoo                ! Co%-ordinating conjunction
+%.cnjadv                ! Adverbial conjunction
+%.v                     ! Verb
+%.adv                   ! Adverb
+%.adj                   ! Adjective
+%.part                  ! Particle
+%.ptcp                  ! Participle
+%.cmp                   ! Compound
+%.incorp                ! Incorporated stem
+%.clitic                ! Clitic
+%.emph                  ! Emphatic clitic
+
+%.lpar
+%.rpar
+%.sent
+%.rquot
+%.lquot
+%.guio
+%.cm
+%.apos
+%.quot
+
+
+%.iv                    ! Intransitive
+%.tv                    ! Transitive
+
+! %<stat%>                  ! Stative forms
+!
+! %<neut%>                  ! Neutral aspect
+! %<prog%>                  ! Progressive aspect
+!
+! %<aor%>                   ! Non%-future
+! %<fut%>                   ! Future
+! %<intn%>                  ! Intentional
+! %<cond%>                  ! Conditional
+!
+! %<inf%>                   ! Infinitive
+! %<perf%>                  ! Perfect
+! %<hab%>                   ! Habitual
+
+! %<gna_sim%>               ! Simultaneous converb
+! %<gna_ant%>               ! Anterior temporal converb (temporal sequence)
+! %<gna_res%>               ! Anterior temporal converb (consequence)
+!
+! %<act%>
+! %<pass%>
+! %<ger%>
+
+DES
+TR
+MUT
+MUT
+FIN
+RES
+REV
+TRSF
+EAT
+SEARCH
+DRAG
+GO
+VERS
+GET
+FUND
+GO
+GO
+CATCH
+MULT
+PLUR
+COMB
+FREQ
+MCP
+RAPID
+GRAD
+LIBER
+REC
+VB
+CS
+DES
+ITER
+DISTR
+PLAC
+INCH
+COMPL
+INS
+CAR
+
+1SG%.S%/A
+1PL%.S%/A
+2%.S%/A%.SUBJ
+3%.S%/A%.SUBJ
+2%/3%.S%/A
+LOW%.A
+LOW%.A%.SUBJ
+PF
+ST
+FUT
+COND
+INV
+IPFV
+! NON-FIN
+INF
+SIM
+LOC
+TOOL
+CONC
+PURP
+
+NP%.1SG
+NP%.1PL
+NP%.2SG
+NP%.2PL
+
+TH
+1SG%.S
+1PL%.S%/O
+2%/3SG%.S
+2PL%.S%/O
+2%/3SG%.S
+PL
+IRR
+IRR%.2%/3SG%.S
+1SG%.O
+1PL%.O
+2SG%.O
+3SG%.O
+2PL%.A%.3%.O
+3SG%.A%.3%.O
+
+
+
+%<pl%>                    ! Plural
+%<sg%>                    ! Singular
+
+%<sing%>                  ! Singulative
+
+%<aa%>                    ! Animates
+
+%<def%>                   ! Definite
+
+%<abl%>                   ! Ablative
+%<abs%>                   ! Absolutive
+%<ori%>                   ! Orientative
+%<erg%>                   ! Ergative
+%<all%>                   ! Allative
+%<ess%>                   ! Essive [Equative]
+%<loc%>                   ! Locative
+
+%<ine%>                   ! Inessive
+%<subst%>                 ! Substantive
+%<per%>                   ! Perlative
+%<com%>                   ! Comitative
+%<assoc%>                 ! Associative
+%<prv%>                   ! Privative
+
+%<nmzr%>                  ! Nominalizer
+
+%<px1sg%>                 ! 1sg possessor
+%<px2sg%>                 ! 2sg possessor
+%<px3sg%>                 ! 3sg possessor
+%<px1pl%>                 ! 1pl possessor
+%<px2pl%>                 ! 2pl possessor
+%<px3pl%>                 ! 3pl possessor
+
+%<poss%>                  ! Possessor
+
+%<1sg%>                   ! 1sg possessed
+%<2sg%>                   ! 2sg possessed
+%<3sg%>                   ! 3sg possessed
+%<1pl%>                   ! 1pl possessed
+%<2pl%>                   ! 2pl possessed
+%<3pl%>                   ! 3pl possessed
+
+%<top%>                   ! Spatial derivations
+%<side%>
+%<edge%>
+%<near%>
+%<bottom%>
+%<ext%>
+%<among%>
+%<in%>
+%<surf%>
+%<front%>
+
+
+%<adv_prol%>              ! Prolative adverb
+
+%<dim%>
+%<aug%>
+%<coop%>
+%<prtt%>                  ! Part of
+%<pers_n%>                ! Personal name
+
+%<pers%>                  ! Personal pronoun
+%<itg%>                   ! Interrogative pronoun
+%<ind%>                   ! Indicative?
+%<dem%>                   ! Demonstrative pronoun
+%<quant%>                 ! Quantifier pronoun
+%<p1%>                    ! First person
+%<p2%>                    ! Second person
+%<p3%>                    ! Third person
+%<der%>
+%<subst%>
+
+%{Æ%}                     ! э or а
+%{T%}                     ! latin; erg & com т ot 0
+%{G%}                     ! all & abl; г/й/э
+%{ы%}                     ! Epenthetic schwa: ы or 0
+%{и%}                     ! For plural: и or 0
+%{N%}                     ! allophones of ng
+%{R%}                     ! р or н
+%{I%}                     ! и or й in suffixes
+
+%{⁺ⱽᴴ%}                   ! Trigger for dominant harmony
+%{·%}                     ! Trigger for stem%-final vowel deletion
+%{°%}                     ! Trigger for stem%-final vowel reduction
+%{☭%}                     ! Trigger for loan word phonology
+
+%+                        ! Incorporation boundary
+%>                        ! Morpheme boundary
+
+! flag diacritics
+@P.CASE.com@ @R.CASE.com@
+@P.CASE.assoc@ @R.CASE.assoc@
+@P.CASE.prv@ @R.CASE.prv@
+@D.CASE@
+@P.VPR.t@ @R.VPR.t@
+@P.VPR.myt@ @R.VPR.myt@
+@P.VPR.m@ @R.VPR.m@
+@P.VPR.myn@ @R.VPR.myn@
+@P.VPR.myns@ @R.VPR.myns@
+@P.VPR.q@ @R.VPR.q@
+@P.VPR.n@ @R.VPR.n@
+@P.VPR.ne@ @R.VPR.ne@
+@P.VPR.yn@ @R.VPR.yn@
+@P.VPR.perf@ @R.VPR.perf@
+@P.VPR.hab@ @R.VPR.hab@
+@P.VPR.vb_com@ @R.VPR.vb_com@
+@P.VPR.vb_restr@ @R.VPR.vb_restr@
+@P.VPR.vb_intens@ @R.VPR.vb_intens@
+@P.VPR.vb_approx@ @R.VPR.vb_approx@
+@P.VPR.vb_neg@ @R.VPR.vb_neg@
+@P.VPR.vb_neg2@ @R.VPR.vb_neg2@
+@P.VPR.imposs@ @R.VPR.imposs@
+@D.VPR@
+@D.TENSE@
+@U.V.iv@ @R.V.iv@ @P.V.iv@
+@U.V.tv@ @R.V.tv@ @P.V.tv@
+@P.ADJ.n@ @R.ADJ.n@
+@P.ADJ.e@ @R.ADJ.e@
+@P.itsa.verb@ @R.itsa.verb@ @U.itsa.adj@ @U.itsa.noun@
+@P.complex.incorp@ @P.complex.cmp@ @D.complex@
+
+%[%+approx%]
+%[%+ints%]
+%[%+ints2%]
+%[%+ints3%]
+%[%+desid%]
+%[%+ap%]
+%[%+caus%]
+%[%+fut%]
+%[%+cond%]
+%[%+inv%]       ! тку
+%[%+inv2%]       ! инэ
+%[%+f%]        ! female of all types of animals
+%[%+restr%]
+%[%+approx%]
+%[%+auth%]
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                       M O R P H O T A C T I C S                         !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+
+!Temp ;
+Case-prefixes ;
+Adj-prefixes ;
+Intensifiers ;
+N-deriv-prefixes ;
+Nouns ;
+Adverbs ;
+Adjectives ;
+Interjections ;
+Participles ;
+Conjunctions ;
+Miscellaneous ;
+Postpositions ;
+Punctuation ;
+Pronouns ;
+Verb-prefixes ;
+V-Tense-Prefixes ;
+! Verb-deriv-prefixes ;
+! Verbs ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+LEXICON ADV
+%.adv: # ;
+%.adv%.rel:%>%{ы%}ԓь N-DERIV-III ;
+
+
+LEXICON ADJ
+! @U.itsa.verb@%<v%>%<iv%>:@U.itsa.verb@ V-IV ;
+: ADJ-FIN ;
+%.adj%.3sg: # ;
+
+
+LEXICON ADJ-FIN
+
+@R.ADJ.n@%.adj:@R.ADJ.n@ PERS-NUM-CLITICS ;
+%.adj: PERS-NUM-CLITICS ;
+@R.ADJ.n@%.adj%<dim%>3:@R.ADJ.n@%>ӄин%{Æ%}ӄ%{Æ%}й # ;
+@R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэначгын # ;
+@R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэнайӈын # ;
+@R.ADJ.n@%.adj%<aug%>3pl:@R.ADJ.n@%>ӄэначгыт # ;
+@R.ADJ.n@%.adj%<aug%>%<3pl%>:@R.ADJ.n@%>ӄэнайӈыт # ;
+@R.ADJ.n@%.adj[%+ints%]:@R.ADJ.n@%> PERS-NUM-CLITICS ;
+@R.ADJ.n@%.adj[%+ints2%]:@R.ADJ.n@%> PERS-NUM-CLITICS ;
+@R.ADJ.n@%.adj[%+approx%]:@R.ADJ.n@%> PERS-NUM-CLITICS ;
+@R.ADJ.ynan@%.adj%:@R.ADJ.ynan@ PERS-NUM-CLITICS ;
+@R.ADJ.ynan@%.adj%-AD:@R.ADJ.ynan@ӈ%{⁺ⱽᴴ%} PERS-NUM-CLITICS ;
+
+! Crosspos
+!! Adverbs
+@R.ADJ.n@%.adj%-adv:@R.ADJ.n@%>%{ʔ%}%{Æ%}ʼв # ;
+@R.ADJ.n@%.adj%-adv:@R.ADJ.n@%>%{ы%}ӈ # ;
+@D.ADJ@%.adj%-vb:@D.ADJ@%>%{ы%}гты # ;
+@R.ADJ.n@%.adj%<ints%-adv[%+ints2%]:@R.ADJ.n@%>%{ʔ%}%{Æ%}ʼв # ;
+@D.ADJ@%.adj%<ints%-adv[%+ints3%]:@D.ADJ@%>%{ы%}ӈ # ;
+@R.ADJ.e@%.adj%<vb%-neg:@R.ADJ.e@%>%{ы%}к%{Æ%} # ;
+!! Nouns
+@D.ADJ@%.adj%<rel_n:@D.ADJ@%>%{ы%}ԓь N-III-AVYNRAL ; ! INTO-N-III ;
+@D.ADJ@%.adj%<rel_n:@D.ADJ@%>%{ы%}чь N-III-AVYNRAL ; ! INTO-N-III ;
+@D.ADJ@%.adj%-NMLZ:@D.ADJ@%>%{ы%}гырг%{⁺ⱽᴴ%} N-III-AVYNRAL ; ! INTO-N-III ;
+@D.ADJ@%.adj%<ger:@D.ADJ@%>я N-III-AVYNRAL ; ! INTO-N-III ;       ! 'age' nominalisation
+
+@D.ADJ@@U.itsa.verb@%-VB:@D.ADJ@@U.itsa.verb@%>%{Æ%}т V ;
+@D.ADJ@@U.itsa.verb@%-CS:@D.ADJ@@U.itsa.verb@%>%{Æ%}в V ;
+
+
+
+LEXICON Adj-prefixes
+@P.ADJ.n@ST%-:@P.ADJ.n@н%{ы%}%> Adjectives ;
+@P.ADJ.e@:@P.ADJ.e@%{Æ%}%> Adjectives ;   !!! FIND ME
+@P.ADJ.n@@U.itsa.adj@ST%-:@P.ADJ.n@@U.itsa.adj@н%{ы%}%> NOMINALS ;
+@P.ADJ.e@@U.itsa.adj@:@P.ADJ.e@@U.itsa.adj@%{Æ%}%> NOMINALS ;
+@P.ADJ.ynan@SUPER%-:@P.ADJ.ynan@ынан%{ы%}%> Adjectives ;
+
+LEXICON Intensifiers
+[%+ints%]GOOD%-:т%{Æ%}%{N%}%{ы%}%> Adj-prefixes ;
+[%+ints%]GOOD%-:т%{Æ%}%{N%}%{ы%}%> NOMINALS ;
+NEG%-:т%{Æ%}%{N%}%{ы%}%> NEG ;
+[%+ints2%]INTS%-:ԓ%{ы%}ги%> Adj-prefixes ;
+[%+approx%]SEEM%-:м%{Æ%}ԓ%> Adj-prefixes ;
+[%+ints2%]INTS%-:ԓ%{ы%}ги%> NOMINALS ;
+[%+approx%]SEEM%-:м%{Æ%}ԓ%> NOMINALS ;
+NEG%-:м%{Æ%}ԓ%> NEG ;
+[%+ints3%]INTS%-:ныԓги%> Adj-prefixes ;
+
+
+
+
+LEXICON INTJ
+%.ij: # ;
+
+LEXICON PTCP
+%.ptcp: # ;
+
+LEXICON CONJ          ! ?
+%.cnjcoo: # ;
+
+LEXICON CONJ-CA
+%.cnjadv: # ;
+
+LEXICON PART
+%.part: # ;
+
+LEXICON POST
+%.post: # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                          L E X I C O N                                  !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Punctuation
+
+%.:%.sent # ;
+%.%.:%.sent # ;
+%.%.%.:%.sent # ;
+…:%.sent # ;
+%;%:%.sent # ;
+%:%.:%.sent # ;
+%!%:%.sent # ;
+%-%-:%.guio # ;
+%-%:%.guio # ;
+%−%:%.guio # ;
+%—%:%.guio # ;
+%–%:%.guio # ;
+,:%.cm # ;
+%?%:%.sent # ;
+%'%:%.apos # ;
+%"%:%.quot # ;
+%«%:%.lquot # ;
+%»%:%.rquot # ;
+%”%:%.rquot # ;
+%“%:%.lquot # ;
+%(%:%.lpar # ;
+%]%:%.rpar # ;
+%[%:%.lpar # ;
+%)%:%.rpar # ;
+%\%:%.sent # ;
+%/%:%.sent # ;

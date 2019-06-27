@@ -1,0 +1,192 @@
+
+
+LEXICON PRON-GYM
+
+%<prn%>%<pers%>%<p1%>%<sg%>%<abs%>:о # ;
+%<prn%>%<pers%>%<p1%>%<sg%>%<abs%>: # ;
+! %<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:ык # ;
+! %<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:ыкы # ;
+! %<prn%>%<pers%>%<p1%>%<sg%>%<all%>:ыкагты # ;
+! %<prn%>%<pers%>%<p1%>%<sg%>%<equ%>:ыгмил # ;
+%<prn%>%<pers%>%<p1%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
+%<prn%>%<pers%>%<p1%>%<sg%>: PRON-PERS-CASES ;
+%<prn%>%<pers%>%<p1%>%<sg%>:н POSS ;
+
+LEXICON PRON-GYT
+
+%<prn%>%<pers%>%<p2%>%<sg%>%<abs%>:то # ;
+%<prn%>%<pers%>%<p2%>%<sg%>%<abs%>:т # ;
+! %<prn%>%<pers%>%<p2%>%<sg%>%<erg%>:тнан # ;
+! %<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:тык # ;
+! %<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:тыкы # ;
+! %<prn%>%<pers%>%<p2%>%<sg%>%<all%>:тыкагты # ;
+! %<prn%>%<pers%>%<p2%>%<sg%>%<equ%>:тыгмил # ;
+%<prn%>%<pers%>%<p2%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
+%<prn%>%<pers%>%<p2%>%<sg%>:н PRON-PERS-CASES ;
+
+LEXICON PRON-YTLJON
+
+@D.CASE@%<prn%>%<pers%>%<p3%>%<sg%>%<abs%>:@D.CASE@тԓён # ;
+! %<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:нык # ;
+! %<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ныкагты # ;
+@D.CASE@%<abl%>:@D.CASE@%>нка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
+@D.CASE@%<ori%>:@D.CASE@%>нк%{Æ%}%>%{ы%}гйит # ;
+%<prn%>%<pers%>%<p3%>%<sg%>:н PRON-PERS-CASES ;
+
+LEXICON PRON-MURI
+%<prn%>%<pers%>%<p1%>%<pl%>%<abs%>:и # ;
+%<prn%>%<pers%>%<p1%>%<pl%>: PRON-PERS-CASES ;
+
+LEXICON PRON-TURI
+%<prn%>%<pers%>%<p2%>%<pl%>%<abs%>:и # ;
+%<prn%>%<pers%>%<p2%>%<pl%>: PRON-PERS-CASES ;
+
+LEXICON PRON-YCCI-ABS
+%<prn%>%<pers%>%<p3%>%<pl%>%<abs%>:и # ;
+
+LEXICON PRON-YCCI-OBL
+%<prn%>%<pers%>%<p3%>%<pl%>: PRON-PERS-CASES ;
+
+
+LEXICON PRON-PERS-CASES
+@D.CASE@%<erg%>:@D.CASE@%>нан # ;
+@D.CASE@%<erg%>:@D.CASE@%>ан # ;
+@D.CASE@%<ess%>:@D.CASE@%>%{ы%}ку # ;
+@D.CASE@%<loc%>:@D.CASE@%>%{ы%}к # ;
+@D.CASE@%<all%>:@D.CASE@%>ыкы%{⁺ⱽᴴ%} # ;
+@D.CASE@%<all%>:@D.CASE@%>ыка%>%{G%}ты%{⁺ⱽᴴ%} # ;
+@D.CASE@%<abl%>:@D.CASE@%>ыка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
+@D.CASE@%<ori%>:@D.CASE@%>ык%{Æ%}%>%{ы%}гйит # ;
+@D.CASE@%<ine%>:@D.CASE@%>ык%{Æ%}%>%{ы%}чыку # ;
+@D.CASE@%<per%>:@D.CASE@%>ык%{Æ%}%>%{ы%}йэквэ%{⁺ⱽᴴ%} # ;
+@D.CASE@%<sub%>:@D.CASE@%>ык%{Æ%}%>%{ы%}йиӈкы # ;
+@R.CASE.com@%<com%>:@R.CASE.com@%>ык%>%{T%}%{Æ%} # ;
+@R.CASE.assoc@%<assoc%>:@R.CASE.assoc@%>ыг%>%{ы%}ма%{⁺ⱽᴴ%} # ;
+@R.CASE.prv@%<prv%>:@R.CASE.prv@%>ык%>%{ы%}к%{Æ%} # ;
+: POSS ;
+:%{ы%}к%{Æ%} REL ;
+: PRON-REL ;
+
+
+LEXICON PRON-REL
+%<rel%>%<1sg%>:нин%{Æ%}кин N-DERIV-I ;
+%<rel%>%<1pl%>:гин%{Æ%}кин N-DERIV-I ;
+%<rel%>%<2sg%>:ин%{Æ%}кин N-DERIV-I ;
+%<rel%>%<2pl%>:гин%{Æ%}кин N-DERIV-I ;
+
+
+
+LEXICON PRON-RXENUT-ABS
+
+@D.CASE@%<prn%>%<itg%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+
+LEXICON PRON-RXENUT-OBL
+
+%<prn%>%<itg%>: CASES-OBL ;
+%<prn%>%<itg%>: CASES-ANIM ;
+
+
+LEXICON PRON-IMYRXENUT-ABS
+
+@D.CASE@%<prn%>%<ind%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+
+LEXICON PRON-IMYRXENUT-OBL
+
+%<prn%>%<ind%>: CASES-OBL ;
+%<prn%>%<ind%>: CASES-ANIM ;
+
+LEXICON PRON-YNQEN
+
+@D.CASE@%<prn%>%<dem%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+%<prn%>%<dem%>: CASES-OBL ;
+%<prn%>%<dem%>: CASES-ANIM ;
+%<prn%>%<dem%>: POSS ;
+
+
+LEXICON PRON-YMYLJO
+
+%<prn%>%<quant%>%<sg%>: # ;
+%<prn%>%<quant%>: CASES-ANIM ;
+%<prn%>%<quant%>: POSS ;
+
+
+LEXICON PRON-QOL-SG
+
+%<prn%>%<quant%>%<sg%>%<abs%>: # ;
+
+LEXICON PRON-QOL ! p.173 Inenlikei
+
+%<prn%>%<quant%>: CASES-OBL ;
+
+
+LEXICON PRON-CINIT
+
+%<prn%>%<ref%>%<sg%>%<abs%>: # ;
+%<prn%>%<ref%>: CASES-OBL ;
+
+
+LEXICON PRON-AMYNAN
+
+%<prn%>%<restr%>%<p1%>%<sg%>:гымнан # ;
+%<prn%>%<restr%>%<p2%>%<sg%>:гынан # ;
+%<prn%>%<restr%>%<p3%>%<sg%>:ынан # ;
+%<prn%>%<restr%>%<p1%>%<pl%>:моргынан # ;
+%<prn%>%<restr%>%<p2%>%<pl%>:торгынан # ;
+%<prn%>%<restr%>%<p3%>%<pl%>:ыргынан # ;
+%<prn%>%<restr%>%<p3%>%<pl%>:ыччынан # ;
+
+
+LEXICON PRON-ITG
+%<prn%>%<itg%>: # ;
+
+! LEXICON PRON                                 !! Generic pronoun [to be categorised]
+
+! %<prn%>: # ;
+
+
+
+
+
+
+LEXICON Pronouns
+
+гым:гым PRON-GYM ;
+гыт:гы PRON-GYT ;
+гыт:гыы PRON-GYT ;  ! Dir/LR
+ытԓён:ы PRON-YTLJON ;
+мури:мур PRON-MURI ;  ! 1pl
+тури:тур PRON-TURI ;  ! 2pl
+ыччи:ычч PRON-YCCI-ABS ;     ! 3pl females
+ыччи:ычч PRON-YCCI-OBL ;     ! 3pl females
+ытри:ытр PRON-YCCI-ABS ;     ! 3pl males
+ытри:ырг PRON-YCCI-OBL ;     ! 3pl males
+
+
+ымыԓьо:ымыԓьо PRON-YMYLJO ;
+
+ӄоԓ:ӄоԓ PRON-QOL-SG ;
+ӄоԓ:ӄут PRON-QOL ;
+
+
+чиниткин:чиниткин PRON-CINIT ; ! "свой"
+
+
+ӈотӄэн:ӈотӄэна PRON-YNQEN ;
+ӈанӄэн:ӈанӄэна PRON-YNQEN ;
+ӈаанӄэн:ӈаанӄэна PRON-YNQEN ;
+ӈоонӄэн:ӈоонӄэна PRON-YNQEN ;
+ынӄэн:ынӄэна PRON-YNQEN ;
+
+мэӈин:мэӈин%{Æ%} PRON-RXENUT-ABS ;     ! кто
+мэӈин:мик PRON-RXENUT-OBL ;   ! кто
+ръэнут:ръэнут%{Æ%} PRON-RXENUT-ABS ;     ! что
+ръэнут:рэӄ PRON-RXENUT-OBL ;  ! что
+
+имыръэнут:имыръэнут%{Æ%} PRON-IMYRXENUT-ABS ;   ! всё
+имыръэнут:имырэӄ PRON-IMYRXENUT-OBL ;  ! всё
+имымэӈин:имымэӈин%{Æ%} PRON-IMYRXENUT-ABS ;     ! все
+имымэӈин:имымик PRON-IMYRXENUT-OBL ;   ! все
+
+ам:ам PRON-AMYNAN ;
+
+эʼми:эʼми PRON-ITG ;    ! где (с существитеԓьными)
