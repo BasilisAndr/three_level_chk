@@ -25,6 +25,9 @@ Alphabet
  %{°%}:0         ! Stem-final vowel reduction
  %{⁺ⱽᴴ%}:0       ! Dominant vowel harmony
 
+ %.
+ %:
+
  %→:0            ! Incorporation boundary
  %>:0            ! Morpheme boundary
  %{☭%}:0         ! Trigger for loan word phonology
@@ -327,7 +330,7 @@ V:ы <=>  _ %{°%}: .#. ;
 !
 ! ! Where an underlying uvular stop q precedes any consonants except another q
 ! ! it is deleted, and the syllable acquires the glottalisation prosody (p.44)
-! 
+!
 ! "q deletion"
 ! ӄ:0 <=> _ (:0) (:0) [ :Cns - :ӄ ] ;
 !       except

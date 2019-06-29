@@ -107,6 +107,116 @@ LEXICON V-IV-AFFIX
 
 
 
+
+
+!!!!!! Subject suffixes
+
+LEXICON V-IV-NEUT
+
+! LEXICON V-IV-NEUT-AOR
+@R.VPR.t@%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;
+@R.VPR.myt@%-1PL%.S%/O:@R.VPR.myt@%>%{ы%}мык # ;
+@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
+@R.VPR.nil@%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}тык # ;
+@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
+@R.VPR.nil@%-PL:@R.VPR.nil@%>%{ы%}т # ;
+! +thematic suff
+@R.VPR.t@%-TH%-1SG%.S:@R.VPR.t@%>%{ы%}гъ%{Æ%}к # ;
+@R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
+! @R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
+@R.VPR.nil@%-TH%-PL:@R.VPR.nil@%>%{ы%}гъ%{Æ%}т # ;
+
+
+! LEXICON V-IV-NEUT-FUT == будущее, неимперфективный
+
+@R.VPR.t@%[%+fut%]:@R.VPR.t@ы # ;
+@R.VPR.myt@%[%+fut%]:@R.VPR.myt@ы # ;
+@R.VPR.nil@%[%+fut%]:@R.VPR.nil@ы # ;
+@R.VPR.nil@%[%+fut%]%-FUT%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}ӈытык # ;
+! @R.VPR.nil@%[%+fut%]:@R.VPR.nil@ # ;
+@R.VPR.nil@%[%+fut%]%-FUT%-PL:@R.VPR.nil@%>%{ы%}ӈыт # ;
+! +thematic suff
+@R.VPR.t@%[%+fut%]%-TH:@R.VPR.t@%>%{ы%}гъ%{Æ%} # ;
+@R.VPR.myt@%[%+fut%]%-TH:@R.VPR.myt@%>%{ы%}гъ%{Æ%} # ;
+@R.VPR.nil@%[%+fut%]%-TH:@R.VPR.nil@%>%{ы%}гъ%{Æ%} # ;
+! @R.VPR.nil@%[%+fut%]%-TH:@R.VPR.nil@%>%{ы%}гъ%{Æ%} # ;
+
+
+! LEXICON V-IV-NEUT-INTN == императив, неимперфективный
+
+@R.VPR.m@%-1SG%.S:@R.VPR.m@%>%{ы%}к # ;
+
+@R.VPR.myn@%-1PL%.S:@R.VPR.myn@%>%{ы%}мык # ;
+
+@R.VPR.q@%-IRR%-2%/3SG%.S:@R.VPR.q@%>%{ы%}ги # ;
+@R.VPR.q@%-2PL%.S%/O:@R.VPR.q@%>%{ы%}тык # ;
+@R.VPR.n@%IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}н # ;
+@R.VPR.n@%-IRR%.2%/3SG%.S%-PL:@R.VPR.n@%>%{ы%}н%{Æ%}т # ;
+! +thematic suff
+@R.VPR.m@%-TH%-1SG.S:@R.VPR.m@%>%{ы%}гъ%{Æ%}к # ;
+@R.VPR.n@%-TH%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}гъ%{Æ%}н # ;
+
+
+! LEXICON V-IV-NEUT-COND == кондиционал, неимперфективный
+
+@R.VPR.t@%[%+cond%]%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;
+@R.VPR.myn@%[%+cond%]%-1PL%.S%/O:@R.VPR.myn@%>%{ы%}мык # ;
+@R.VPR.n@%[%+cond%]%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}н # ;
+@R.VPR.n@%[%+cond%]%-2PL%.S%/O:@R.VPR.n@%>%{ы%}тык # ;
+! @R.VPR.n@%[%+cond%]%<s_sg3%>:@R.VPR.n@%>%{ы%}н # ;
+@R.VPR.n@%[%+cond%]%-IRR%.2%/3SG%.S%-PL:@R.VPR.n@%>%{ы%}н%{Æ%}т # ;
+! +thematic suff
+@R.VPR.m@%[%+cond%]%-TH%-1SG%.S:@R.VPR.m@%>%{ы%}гъ%{Æ%}к # ;
+@R.VPR.n@%[%+cond%]%-TH%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}гъ%{Æ%}н # ;
+
+
+!! Progressive
+
+LEXICON V-IV-PROG
+
+! LEXICON V-IV-PROG-AOR
+
+@R.VPR.t@%:@R.VPR.t@н # ;
+@R.VPR.myt@:@R.VPR.myt@н # ;
+@R.VPR.nil@:@R.VPR.nil@н # ;
+@R.VPR.nil@%-2PL%.S%/O:@R.VPR.nil@ни%>тык # ;
+! @R.VPR.nil@%<aor%>%<s_sg3%>:@R.VPR.nil@н # ;
+@R.VPR.nil@%-PL:@R.VPR.nil@т # ;
+
+
+! LEXICON V-IV-PROG-FUT == будущее имперфективное
+
+@R.VPR.t@%[%+fut%]:@R.VPR.t@н # ;
+@R.VPR.myt@%[%+fut%]:@R.VPR.myt@н # ;
+@R.VPR.nil@%[%+fut%]:@R.VPR.nil@н # ;
+@R.VPR.nil@%[%+fut%]%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}нитык # ;
+! @R.VPR.nil@%[%+fut%]%<s_sg3%>:@R.VPR.nil@ # ;
+@R.VPR.nil@%[%+fut%]%-FUT%-PL:@R.VPR.nil@%>%{ы%}ниӈыт # ;
+
+
+! LEXICON V-IV-PROG-INTN == императив имперфективный
+
+@R.VPR.m@:@R.VPR.m@н # ;
+@R.VPR.myn@:@R.VPR.myn@н # ;
+@R.VPR.q@:@R.VPR.q@н # ;
+@R.VPR.q@%-2PL%.S%/O:@R.VPR.q@ни%>тык # ;
+@R.VPR.n@:@R.VPR.n@н # ;
+@R.VPR.n@%-PL:@R.VPR.n@н%{Æ%}%>%т # ;
+
+
+! LEXICON V-IV-PROG-COND == кондиционал имперфективный
+
+@R.VPR.m@%[%+cond%]:@R.VPR.m@н # ;
+@R.VPR.myn@%[%+cond%]:@R.VPR.myn@н # ;
+@R.VPR.n@%[%+cond%]:@R.VPR.n@н # ;
+@R.VPR.n@%[%+cond%]%-2PL%.S%/O:@R.VPR.n@ни%>тык # ;
+! @R.VPR.n@%[%+cond%]:@R.VPR.n@н # ;
+@R.VPR.n@%[%+cond%]%-PL:@R.VPR.n@н%{Æ%}%>%т # ;
+
+
+
+!!! Transitive
+
 LEXICON V-TV
 
 ! : V-TV-AFFIX ;
@@ -127,6 +237,12 @@ LEXICON V-TV-AFFIX
 %-IPFV:%>%{ы%}ркыни%{·%} V-TV-PROG ;
 %-IPFV%[%+inv%]:%>ткуркыни%{·%} V-TV-PROG ;
 
+@D.VPR@%-INF:@D.VPR@%>%{ы%}к # ;
+@D.VPR@%-SIM:@D.VPR@%>%{ы%}ма # ;
+@D.VPR@%-LOC:@D.VPR@%>%{ы%}к # ;
+@D.VPR@%-TOOL%-EQU:@D.VPR@%>%{и%}н%{Æ%}ӈу # ;
+@D.VPR@%-CONC:@D.VPR@%>%{ы%}масы # ;
+@D.VPR@%-PURP:@D.VPR@%>%{ы%}йгут # ;
 ! LEXICON V-TV-STATIVE
 
 ! @R.VPR.perf@%<stat%>%<perf%>:@R.VPR.perf@ V-TV-PERFECT ;
@@ -228,113 +344,6 @@ LEXICON V-TV-AFFIX
 
 
 
-
-!!!!!! Subject suffixes
-
-LEXICON V-IV-NEUT
-
-! LEXICON V-IV-NEUT-AOR
-
-@R.VPR.t@%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;
-@R.VPR.myt@%-1PL%.S%/O:@R.VPR.myt@%>%{ы%}мык # ;
-@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
-@R.VPR.nil@%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}тык # ;
-@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
-@R.VPR.nil@%-PL:@R.VPR.nil@%>%{ы%}т # ;
-! +thematic suff
-@R.VPR.t@%-TH%-1SG%.S:@R.VPR.t@%>%{ы%}гъ%{Æ%}к # ;
-@R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
-! @R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
-@R.VPR.nil@%-TH%-PL:@R.VPR.nil@%>%{ы%}гъ%{Æ%}т # ;
-
-
-! LEXICON V-IV-NEUT-FUT == будущее, неимперфективный
-
-@R.VPR.t@%[%+fut%]:@R.VPR.t@ы # ;
-@R.VPR.myt@%[%+fut%]:@R.VPR.myt@ы # ;
-@R.VPR.nil@%[%+fut%]:@R.VPR.nil@ы # ;
-@R.VPR.nil@%[%+fut%]%-FUT%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}ӈытык # ;
-! @R.VPR.nil@%[%+fut%]:@R.VPR.nil@ # ;
-@R.VPR.nil@%[%+fut%]%-FUT%-PL:@R.VPR.nil@%>%{ы%}ӈыт # ;
-! +thematic suff
-@R.VPR.t@%[%+fut%]%-TH:@R.VPR.t@%>%{ы%}гъ%{Æ%} # ;
-@R.VPR.myt@%[%+fut%]%-TH:@R.VPR.myt@%>%{ы%}гъ%{Æ%} # ;
-@R.VPR.nil@%[%+fut%]%-TH:@R.VPR.nil@%>%{ы%}гъ%{Æ%} # ;
-! @R.VPR.nil@%[%+fut%]%-TH:@R.VPR.nil@%>%{ы%}гъ%{Æ%} # ;
-
-
-! LEXICON V-IV-NEUT-INTN == императив, неимперфективный
-
-@R.VPR.m@%-1SG%.S:@R.VPR.m@%>%{ы%}к # ;
-@R.VPR.myn@%-1PL%.S:@R.VPR.myn@%>%{ы%}мык # ;
-@R.VPR.q@%-IRR%-2%/3SG%.S:@R.VPR.q@%>%{ы%}ги # ;
-@R.VPR.q@%-2PL%.S%/O:@R.VPR.q@%>%{ы%}тык # ;
-@R.VPR.n@%IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}н # ;
-@R.VPR.n@%-IRR%.2%/3SG%.S%-PL:@R.VPR.n@%>%{ы%}н%{Æ%}т # ;
-! +thematic suff
-@R.VPR.m@%-TH%-1SG.S:@R.VPR.m@%>%{ы%}гъ%{Æ%}к # ;
-@R.VPR.n@%-TH%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}гъ%{Æ%}н # ;
-
-
-! LEXICON V-IV-NEUT-COND == кондиционал, неимперфективный
-
-@R.VPR.t@%[%+cond%]%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;
-@R.VPR.myn@%[%+cond%]%-1PL%.S%/O:@R.VPR.myn@%>%{ы%}мык # ;
-@R.VPR.n@%[%+cond%]%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}н # ;
-@R.VPR.n@%[%+cond%]%-2PL%.S%/O:@R.VPR.n@%>%{ы%}тык # ;
-! @R.VPR.n@%[%+cond%]%<s_sg3%>:@R.VPR.n@%>%{ы%}н # ;
-@R.VPR.n@%[%+cond%]%-IRR%.2%/3SG%.S%-PL:@R.VPR.n@%>%{ы%}н%{Æ%}т # ;
-! +thematic suff
-@R.VPR.m@%[%+cond%]%-TH%-1SG%.S:@R.VPR.m@%>%{ы%}гъ%{Æ%}к # ;
-@R.VPR.n@%[%+cond%]%-TH%-IRR%.2%/3SG%.S:@R.VPR.n@%>%{ы%}гъ%{Æ%}н # ;
-
-
-!! Progressive
-
-LEXICON V-IV-PROG
-
-! LEXICON V-IV-PROG-AOR
-
-@R.VPR.t@%:@R.VPR.t@н # ;
-@R.VPR.myt@:@R.VPR.myt@н # ;
-@R.VPR.nil@:@R.VPR.nil@н # ;
-@R.VPR.nil@%-2PL%.S%/O:@R.VPR.nil@ни%>тык # ;
-! @R.VPR.nil@%<aor%>%<s_sg3%>:@R.VPR.nil@н # ;
-@R.VPR.nil@%-PL:@R.VPR.nil@т # ;
-
-
-! LEXICON V-IV-PROG-FUT == будущее имперфективное
-
-@R.VPR.t@%[%+fut%]:@R.VPR.t@н # ;
-@R.VPR.myt@%[%+fut%]:@R.VPR.myt@н # ;
-@R.VPR.nil@%[%+fut%]:@R.VPR.nil@н # ;
-@R.VPR.nil@%[%+fut%]%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}нитык # ;
-! @R.VPR.nil@%[%+fut%]%<s_sg3%>:@R.VPR.nil@ # ;
-@R.VPR.nil@%[%+fut%]%-FUT%-PL:@R.VPR.nil@%>%{ы%}ниӈыт # ;
-
-
-! LEXICON V-IV-PROG-INTN == императив имперфективный
-
-@R.VPR.m@:@R.VPR.m@н # ;
-@R.VPR.myn@:@R.VPR.myn@н # ;
-@R.VPR.q@:@R.VPR.q@н # ;
-@R.VPR.q@%-2PL%.S%/O:@R.VPR.q@ни%>тык # ;
-@R.VPR.n@:@R.VPR.n@н # ;
-@R.VPR.n@%-PL:@R.VPR.n@н%{Æ%}%>%т # ;
-
-
-! LEXICON V-IV-PROG-COND == кондиционал имперфективный
-
-@R.VPR.m@%[%+cond%]:@R.VPR.m@н # ;
-@R.VPR.myn@%[%+cond%]:@R.VPR.myn@н # ;
-@R.VPR.n@%[%+cond%]:@R.VPR.n@н # ;
-@R.VPR.n@%[%+cond%]%-2PL%.S%/O:@R.VPR.n@ни%>тык # ;
-! @R.VPR.n@%[%+cond%]:@R.VPR.n@н # ;
-@R.VPR.n@%[%+cond%]%-PL:@R.VPR.n@н%{Æ%}%>%т # ;
-
-
-
-!!! Transitive
 
 LEXICON V-TV-NEUT
 
