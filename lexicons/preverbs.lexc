@@ -2324,7 +2324,7 @@ LEXICON PRE-VERBS
 @U.V.iv@утгыԓьэтык:@U.V.iv@утгыԓьэт INTER-V ;        ! to be tender (of the meat)
 @U.V.tv@пытӄытиӈук:@U.V.tv@пытӄытиӈу INTER-V ;        ! to stretch again
 @U.V.iv@э’четык:@U.V.iv@э’чет INTER-V ;        ! to lack
-@U.V.tv@%{R%}эмнуӈэвык:@U.V.tv@%{R%}эмнуӈэв INTER-V ;        ! to take s.o
+@U.V.tv@рэмнуӈэвык:@U.V.tv@%{R%}эмнуӈэв INTER-V ;        ! to take s.o
 @U.V.iv@ырыткук:@U.V.iv@ырытку INTER-V ;        ! to shoot
 @U.V.iv@анэк:@U.V.iv@анэ INTER-V ;        ! to be wrong
 @U.V.iv@гиԓыннэк:@U.V.iv@гиԓыннэ INTER-V ;        ! to get rid of the ice
@@ -2367,7 +2367,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӄэпԓынинтэтык:@U.V.iv@ӄэпԓынинтэт INTER-V ;        ! to throw the ball during a play
 @U.V.iv@ӄэймэтык:@U.V.iv@ӄэймэт INTER-V ;        ! to be covered with scabies
 @U.V.iv@тъэтйик:@U.V.iv@тъэтйи INTER-V ;        ! to kill a few animals at hunting
-@U.V.tv@%{R%}эмчетыӈӈок:@U.V.tv@%{R%}эмчетыӈӈо INTER-V ;        ! to begin to ship water
+@U.V.tv@рэмчетыӈӈок:@U.V.tv@%{R%}эмчетыӈӈо INTER-V ;        ! to begin to ship water
 @U.V.iv@йъарантатык:@U.V.iv@йъарантат INTER-V ;        ! to go too far
 @U.V.iv@четԓыӄатык:@U.V.iv@четԓыӄат INTER-V ;        ! to fly
 @U.V.tv@р%{ы%}ӄэюԓтэвык:@U.V.tv@р%{ы%}ӄэюԓтэв INTER-V ;        ! to eat a little
@@ -2389,7 +2389,7 @@ LEXICON PRE-VERBS
 @U.V.tv@рыкытгынтыԓьавык:@U.V.tv@рыкытгынтыԓьав INTER-V ;        ! to drag off at a run
 @U.V.iv@о'мрытвак:@U.V.iv@о'мрытва INTER-V ;        ! to strengthen
 @U.V.iv@в%{ы%}ёткок:@U.V.iv@в%{ы%}ётко INTER-V ;        ! to throw stones with a sling
-@U.V.tv@%{R%}агновык:@U.V.tv@%{R%}агнов INTER-V ;        ! to misappropriate
+@U.V.tv@рагновык:@U.V.tv@%{R%}агнов INTER-V ;        ! to misappropriate
 @U.V.tv@въэетык:@U.V.tv@въэет INTER-V ;        ! to make inner soles with dry grass
 @U.V.iv@aйвэчатык:@U.V.iv@aйвэчат INTER-V ;        ! to organize an evening
 @U.V.tv@рыкимыԓтэвык:@U.V.tv@рыкимыԓтэв INTER-V ;        ! to delay
@@ -2410,7 +2410,7 @@ LEXICON PRE-VERBS
 @U.V.tv@нотԓык:@U.V.tv@нотԓ INTER-V ;        ! to cut out a garment
 @U.V.iv@вэнвымэрэнтывак:@U.V.iv@вэнвымэрэнтыва INTER-V ;        ! to wipe tears secretly
 @U.V.iv@гагчычак:@U.V.iv@гагчыча INTER-V ;        ! to go quickly
-@U.V.tv@%{R%}эчьэвык:@U.V.tv@%{R%}эчьэв INTER-V ;        ! to fatten an animal
+@U.V.tv@рэчьэвык:@U.V.tv@%{R%}эчьэв INTER-V ;        ! to fatten an animal
 @U.V.tv@коргынвэтгавaтык:@U.V.tv@коргынвэтгавaт INTER-V ;        ! to cheer s.o
 @U.V.iv@г%{ы%}варъок:@U.V.iv@г%{ы%}варъо INTER-V ;        ! to be caught
 @U.V.iv@тиркыԓьэтык:@U.V.iv@тиркыԓьэт INTER-V ;        ! to be flooded with sun
@@ -2419,7 +2419,7 @@ LEXICON PRE-VERBS
 @U.V.tv@мэнъояаткок:@U.V.tv@мэнъояатко INTER-V ;        ! разумно испоԓьзовать
 @U.V.tv@р%{ы%}ԓыԓяӄэргавык:@U.V.tv@р%{ы%}ԓыԓяӄэргав INTER-V ;        ! to blind
 @U.V.tv@р%{ы%}ԓгэтык:@U.V.tv@р%{ы%}ԓгэт INTER-V ;        ! to warm up
-@U.V.iv@%{R%}ъэӄэтэгъеӈык:@U.V.iv@%{R%}ъэӄэтэгъеӈ INTER-V ;        ! to be capricious
+@U.V.iv@ръэӄэтэгъеӈык:@U.V.iv@%{R%}ъэӄэтэгъеӈ INTER-V ;        ! to be capricious
 @U.V.tv@э'тйивык:@U.V.tv@э'тйив INTER-V ;        ! to thread
 @U.V.iv@мыԓьурэк:@U.V.iv@мыԓьурэ INTER-V ;        ! to turn the wrong way (of the team)
 @U.V.iv@эвмык:@U.V.iv@эвм INTER-V ;        ! to get used to
@@ -2433,10 +2433,10 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}пыгԓявык:@U.V.tv@р%{ы%}пыгԓяв INTER-V ;        ! to fill
 @U.V.iv@виврэԓьытвик:@U.V.iv@виврэԓьытви INTER-V ;        ! to begin to shake
 @U.V.tv@рывэчепытвэвык:@U.V.tv@рывэчепытвэв INTER-V ;        ! to arouse disorders
-@U.V.tv@%{R%}ъэптыӈэтык:@U.V.tv@%{R%}ъэптыӈэт INTER-V ;        ! to work a skin with the heels
+@U.V.tv@ръэптыӈэтык:@U.V.tv@%{R%}ъэптыӈэт INTER-V ;        ! to work a skin with the heels
 @U.V.iv@ойпытвак:@U.V.iv@ойпытва INTER-V ;        ! to put in
 @U.V.tv@а'ӄантытватык:@U.V.tv@а'ӄантытват INTER-V ;        ! to betray
-@U.V.tv@%{R%}иԓьуткувык:@U.V.tv@%{R%}иԓьуткув INTER-V ;        ! to ask s.o
+@U.V.tv@риԓьуткувык:@U.V.tv@%{R%}иԓьуткув INTER-V ;        ! to ask s.o
 @U.V.tv@ванватъевык:@U.V.tv@ванватъев INTER-V ;        ! to take possession of a place
 @U.V.iv@имръэтык:@U.V.iv@имръэт INTER-V ;        ! to have turbid water
 @U.V.iv@тымӈэмэгчератыԓьатык:@U.V.iv@тымӈэмэгчератыԓьат INTER-V ;        ! to work without payment
@@ -2445,13 +2445,13 @@ LEXICON PRE-VERBS
 @U.V.iv@м%{ы%}ԓычьатык:@U.V.iv@м%{ы%}ԓычьат INTER-V ;        ! to frolick
 @U.V.iv@этъопэԓявык:@U.V.iv@этъопэԓяв INTER-V ;        ! to feel better
 @U.V.iv@энаныгтамавык:@U.V.iv@энаныгтамав INTER-V ;        ! to clean up
-@U.V.tv@%{R%}эԓкыӈэтык:@U.V.tv@%{R%}эԓкыӈэт INTER-V ;        ! to compel to go out at sea
+@U.V.tv@рэԓкыӈэтык:@U.V.tv@%{R%}эԓкыӈэт INTER-V ;        ! to compel to go out at sea
 @U.V.tv@йыръэтык:@U.V.tv@йыръэт INTER-V ;        ! to fill
 @U.V.tv@р%{ы%}вытрэвык:@U.V.tv@р%{ы%}вытрэв INTER-V ;        ! to obtain
 @U.V.iv@тэгӈытак:@U.V.iv@тэгӈыта INTER-V ;        ! to go and fetch skis
 @U.V.iv@мутԓыгрэԓык:@U.V.iv@мутԓыгрэԓ INTER-V ;        ! to vomit blood
 @U.V.tv@р%{ы%}руткук:@U.V.tv@р%{ы%}рутку INTER-V ;        ! to touch lightly
-@U.V.tv@%{R%}эргээвык:@U.V.tv@%{R%}эргээв INTER-V ;        ! to make s.o
+@U.V.tv@рэргээвык:@U.V.tv@%{R%}эргээв INTER-V ;        ! to make s.o
 @U.V.tv@кагрэԓвъёпчак:@U.V.tv@кагрэԓвъёпча INTER-V ;        ! to whistle in one’s palms
 @U.V.tv@рыгэԓевык:@U.V.tv@рыгэԓев INTER-V ;        ! to welcome s.o
 @U.V.iv@имчивирик:@U.V.iv@имчивири INTER-V ;        ! to pour out (of water)
@@ -2537,7 +2537,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}мэтэвэтык:@U.V.tv@р%{ы%}мэтэвэт INTER-V ;        ! not to be stronger
 @U.V.tv@тӄэгток:@U.V.tv@тӄэгто INTER-V ;        ! to give birth (with a touch of regret and of gladness at once)
 @U.V.tv@рыгыргоԓявык:@U.V.tv@рыгыргоԓяв INTER-V ;        ! to lift
-@U.V.tv@%{R%}энаматавык:@U.V.tv@%{R%}энаматав INTER-V ;        ! to give a share
+@U.V.tv@рэнаматавык:@U.V.tv@%{R%}энаматав INTER-V ;        ! to give a share
 @U.V.tv@о'мрынныматык:@U.V.tv@о'мрыннымат INTER-V ;        ! to close tight
 @U.V.iv@к%{ы%}вавык:@U.V.iv@к%{ы%}вав INTER-V ;        ! to widen
 @U.V.tv@р%{ы%}чарэйпатык:@U.V.tv@р%{ы%}чарэйпат INTER-V ;        ! to soil
@@ -2596,7 +2596,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тыгаръэԓяк:@U.V.iv@тыгаръэԓя INTER-V ;        ! to run away being wounded
 @U.V.iv@тэӈыпчирык:@U.V.iv@тэӈыпчир INTER-V ;        ! to enjoy
 @U.V.tv@ӈыркыԓятык:@U.V.tv@ӈыркыԓят INTER-V ;        ! to be embarrassed
-@U.V.tv@%{R%}увъэԓевык:@U.V.tv@%{R%}увъэԓев INTER-V ;        ! to blacken
+@U.V.tv@рувъэԓевык:@U.V.tv@%{R%}увъэԓев INTER-V ;        ! to blacken
 @U.V.tv@р%{ы%}вэԓёкаԓтавык:@U.V.tv@р%{ы%}вэԓёкаԓтав INTER-V ;        ! to be blocked (of ears)
 @U.V.iv@кэԓивытрэтык:@U.V.iv@кэԓивытрэт INTER-V ;        ! to be many-coloured
 @U.V.iv@э’йӈэк:@U.V.iv@э’йӈэ INTER-V ;        ! to snort during the heat (of male reindeer)
@@ -2642,7 +2642,7 @@ LEXICON PRE-VERBS
 @U.V.tv@йыкыргайпык:@U.V.tv@йыкыргайп INTER-V ;        ! to close s.o.’s mouth
 @U.V.tv@рыкъаԓейпатык:@U.V.tv@рыкъаԓейпат INTER-V ;        ! to cover one’s head with a cap
 @U.V.iv@гырэвык:@U.V.iv@гырэв INTER-V ;        ! to get worried
-@U.V.tv@%{R%}иичгэвык:@U.V.tv@%{R%}иичгэв INTER-V ;        ! to remove
+@U.V.tv@риичгэвык:@U.V.tv@%{R%}иичгэв INTER-V ;        ! to remove
 @U.V.iv@пааӄок:@U.V.iv@пааӄо INTER-V ;        ! eat flipper
 @U.V.iv@кэԓвайынтак:@U.V.iv@кэԓвайынта INTER-V ;        ! to go celebrate kilwey
 @U.V.iv@ԓьопачьовык:@U.V.iv@ԓьопачьов INTER-V ;        ! to turn pale
@@ -2664,7 +2664,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тэӈэвӈык:@U.V.iv@тэӈэвӈ INTER-V ;        ! to imitate women
 @U.V.iv@ымӈытатык:@U.V.iv@ымӈытат INTER-V ;        ! to shut
 @U.V.tv@т%{ы%}кэйӈок:@U.V.tv@т%{ы%}кэйӈо INTER-V ;        ! to nose out the smell of sth
-@U.V.tv@%{R%}эйычгэвык:@U.V.tv@%{R%}эйычгэв INTER-V ;        ! to arouse waves
+@U.V.tv@рэйычгэвык:@U.V.tv@%{R%}эйычгэв INTER-V ;        ! to arouse waves
 @U.V.tv@эмытԓёк:@U.V.tv@эмытԓё INTER-V ;        ! to ship water
 @U.V.iv@итъывиритык:@U.V.iv@итъывирит INTER-V ;        ! to sweat with fat
 @U.V.iv@пэнъёԓгатык:@U.V.iv@пэнъёԓгат INTER-V ;        ! to prepare a camp-fire
@@ -2769,7 +2769,7 @@ LEXICON PRE-VERBS
 @U.V.iv@чечьыпонток:@U.V.iv@чечьыпонто INTER-V ;        ! to eat appetizing liver
 @U.V.tv@р%{ы%}йгуԓевык:@U.V.tv@р%{ы%}йгуԓев INTER-V ;        ! to train
 @U.V.iv@аратычгатык:@U.V.iv@аратычгат INTER-V ;        ! to collapse
-@U.V.tv@%{R%}итчевык:@U.V.tv@%{R%}итчев INTER-V ;        ! to overload
+@U.V.tv@ритчевык:@U.V.tv@%{R%}итчев INTER-V ;        ! to overload
 @U.V.iv@маԓытватык:@U.V.iv@маԓытват INTER-V ;        ! to summon fine weather
 @U.V.iv@увичвыничук:@U.V.iv@увичвыничу INTER-V ;        ! to sway one’s hips
 @U.V.iv@очыԓьавторак:@U.V.iv@очыԓьавтора INTER-V ;        ! to become free
@@ -2825,7 +2825,7 @@ LEXICON PRE-VERBS
 @U.V.iv@раԓӄаквыръок:@U.V.iv@раԓӄаквыръо INTER-V ;        ! to appear (of a mirage)
 @U.V.iv@ыпэвтатык:@U.V.iv@ыпэвтат INTER-V ;        ! to grow yellow, to fade
 @U.V.tv@гамгатъёк:@U.V.tv@гамгатъё INTER-V ;        ! ch
-@U.V.tv@%{R%}ичичевык:@U.V.tv@%{R%}ичичев INTER-V ;        ! to exhaust
+@U.V.tv@ричичевык:@U.V.tv@%{R%}ичичев INTER-V ;        ! to exhaust
 @U.V.tv@чимгъучвик:@U.V.tv@чимгъучви INTER-V ;        ! to interrupt
 @U.V.iv@инэнъэӄэвык:@U.V.iv@инэнъэӄэв INTER-V ;        ! to harm s.o
 @U.V.iv@вакӄъочак:@U.V.iv@вакӄъоча INTER-V ;        ! 'to howl" (of nails which are so long that you cannot work)
@@ -2869,7 +2869,7 @@ LEXICON PRE-VERBS
 @U.V.iv@и'рэймэвык:@U.V.iv@и'рэймэв INTER-V ;        ! to come running up
 @U.V.tv@р%{ы%}гынтэвэтык:@U.V.tv@р%{ы%}гынтэвэт INTER-V ;        ! to despoil
 @U.V.tv@рывэчвавык:@U.V.tv@рывэчвав INTER-V ;        ! to come unexpectedly
-@U.V.tv@%{R%}омавык:@U.V.tv@%{R%}омав INTER-V ;        ! to shut
+@U.V.tv@ромавык:@U.V.tv@%{R%}омав INTER-V ;        ! to shut
 @U.V.iv@э’ӄэчитык:@U.V.iv@э’ӄэчит INTER-V ;        ! to conflict
 @U.V.tv@ръарэӈык:@U.V.tv@ръарэӈ INTER-V ;        ! to try to stop
 @U.V.tv@рывысӄырэвык:@U.V.tv@рывысӄырэв INTER-V ;        ! to disturb
@@ -2895,7 +2895,7 @@ LEXICON PRE-VERBS
 @U.V.tv@э’птык:@U.V.tv@э’пт INTER-V ;        ! to kick
 @U.V.iv@р%{ы%}мычвынавык:@U.V.iv@р%{ы%}мычвынав INTER-V ;        ! to give hope
 @U.V.tv@р%{ы%}йытъатык:@U.V.tv@р%{ы%}йытъат INTER-V ;        ! to throw down
-@U.V.tv@%{R%}эпйъэвык:@U.V.tv@%{R%}эпйъэв INTER-V ;        ! to spread
+@U.V.tv@рэпйъэвык:@U.V.tv@%{R%}эпйъэв INTER-V ;        ! to spread
 @U.V.iv@кынԓыватык:@U.V.iv@кынԓыват INTER-V ;        ! to suckle a child
 @U.V.iv@тыроочгынавык:@U.V.iv@тыроочгынав INTER-V ;        ! to dig a hollow
 @U.V.iv@ӈэвиткэк:@U.V.iv@ӈэвиткэ INTER-V ;        ! to ravish a woman
@@ -2919,7 +2919,7 @@ LEXICON PRE-VERBS
 @U.V.tv@кыԓеԓьэтык:@U.V.tv@кыԓеԓьэт INTER-V ;        ! to pursue
 @U.V.iv@и'мпык:@U.V.iv@и'мп INTER-V ;        ! to bend down
 @U.V.iv@ԓыԓянӈатык:@U.V.iv@ԓыԓянӈат INTER-V ;        ! to have a feeling
-@U.V.tv@%{R%}омаватык:@U.V.tv@%{R%}омават INTER-V ;        ! to block up
+@U.V.tv@ромаватык:@U.V.tv@%{R%}омават INTER-V ;        ! to block up
 @U.V.iv@кыкватчычак:@U.V.iv@кыкватчыча INTER-V ;        ! to dry up
 @U.V.iv@ԓьупээтык:@U.V.iv@ԓьупээт INTER-V ;        ! to be swollen (of the face)
 @U.V.iv@ӈ%{ы%}рэмчеткук:@U.V.iv@ӈ%{ы%}рэмчетку INTER-V ;        ! to flex one’s knees
@@ -2958,7 +2958,7 @@ LEXICON PRE-VERBS
 @U.V.tv@пытӄытвык:@U.V.tv@пытӄытв INTER-V ;        ! to repeat
 @U.V.tv@рывиԓыткувык:@U.V.tv@рывиԓыткув INTER-V ;        ! to buy
 @U.V.iv@и'вэтык:@U.V.iv@и'вэт INTER-V ;        ! to grow stiff
-@U.V.tv@%{R%}эргыпавык:@U.V.tv@%{R%}эргыпав INTER-V ;        ! to make famous
+@U.V.tv@рэргыпавык:@U.V.tv@%{R%}эргыпав INTER-V ;        ! to make famous
 @U.V.iv@эԓкык:@U.V.iv@эԓк INTER-V ;        ! to put to sea
 @U.V.iv@гынкойӈыԓьатык:@U.V.iv@гынкойӈыԓьат INTER-V ;        ! to be hale and hearty
 @U.V.iv@раԓвык:@U.V.iv@раԓв INTER-V ;        ! to burn
@@ -2990,17 +2990,17 @@ LEXICON PRE-VERBS
 @U.V.tv@рычавчываторавык:@U.V.tv@рычавчываторав INTER-V ;        ! to be deprived of all one’s herd
 @U.V.tv@пытӄырыԓгык:@U.V.tv@пытӄырыԓг INTER-V ;        ! to recount
 @U.V.tv@рывэтгынԓяк:@U.V.tv@рывэтгынԓя INTER-V ;        ! to turn s.o
-@U.V.tv@%{R%}иԓгиӄэвык:@U.V.tv@%{R%}иԓгиӄэв INTER-V ;        ! to make sth
+@U.V.tv@риԓгиӄэвык:@U.V.tv@%{R%}иԓгиӄэв INTER-V ;        ! to make sth
 @U.V.tv@йъок:@U.V.tv@йъо INTER-V ;        ! to have one’s period for the first time
 @U.V.iv@энанъяԓгытатыткок:@U.V.iv@энанъяԓгытатытко INTER-V ;        ! to move a chessman
 @U.V.iv@эвмэвык:@U.V.iv@эвмэв INTER-V ;        ! to become attached to
 @U.V.iv@ԓьутԓепвыԓгык:@U.V.iv@ԓьутԓепвыԓг INTER-V ;        ! to exchange glances
 @U.V.iv@мыркэтык:@U.V.iv@мыркэт INTER-V ;        ! to get lighter
 @U.V.iv@ууйгыткук:@U.V.iv@ууйгытку INTER-V ;        ! to lose one’s balance
-@U.V.tv@%{R%}арычгавык:@U.V.tv@%{R%}арычгав INTER-V ;        ! to lay
+@U.V.tv@рарычгавык:@U.V.tv@%{R%}арычгав INTER-V ;        ! to lay
 @U.V.tv@йыԓыӈок:@U.V.tv@йыԓыӈо INTER-V ;        ! before paying a debt
 @U.V.tv@тумгыԓьэтык:@U.V.tv@тумгыԓьэт INTER-V ;        ! to keep s.o
-@U.V.tv@%{R%}оԓвытвавык:@U.V.tv@%{R%}оԓвытвав INTER-V ;        ! to leave s.o
+@U.V.tv@роԓвытвавык:@U.V.tv@%{R%}оԓвытвав INTER-V ;        ! to leave s.o
 @U.V.tv@р%{ы%}пиӈкувык:@U.V.tv@р%{ы%}пиӈкув INTER-V ;        ! to make s.o
 @U.V.tv@тэнкэвӈыткук:@U.V.tv@тэнкэвӈытку INTER-V ;        ! to repair
 @U.V.tv@чивмычвиткук:@U.V.tv@чивмычвитку INTER-V ;        ! to cut into little bits
@@ -3020,7 +3020,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}рочгыпатык:@U.V.tv@р%{ы%}рочгыпат INTER-V ;        ! to exhaust
 @U.V.tv@гитэйиквик:@U.V.tv@гитэйикви INTER-V ;        ! to look around
 @U.V.iv@умӄэӈыттык:@U.V.iv@умӄэӈытт INTER-V ;        ! to hunt polar bear
-@U.V.tv@%{R%}иԓгыпэтык:@U.V.tv@%{R%}иԓгыпэт INTER-V ;        ! то strangle
+@U.V.tv@риԓгыпэтык:@U.V.tv@%{R%}иԓгыпэт INTER-V ;        ! то strangle
 @U.V.iv@ынрэвык:@U.V.iv@ынрэв INTER-V ;        ! to slow down
 @U.V.iv@ронтыӈпэравык:@U.V.iv@ронтыӈпэрав INTER-V ;        ! to try to look quiet
 @U.V.iv@тымԓык:@U.V.iv@тымԓ INTER-V ;        ! to join
@@ -3028,7 +3028,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ръэтыгъевыԓьатык:@U.V.iv@ръэтыгъевыԓьат INTER-V ;        ! to find one’s way
 @U.V.iv@чыгэгчыкутык:@U.V.iv@чыгэгчыкут INTER-V ;        ! to go deep into the sand
 @U.V.iv@ёргывэтгавык:@U.V.iv@ёргывэтгав INTER-V ;        ! to be delirious
-@U.V.tv@%{R%}энчек:@U.V.tv@%{R%}энче INTER-V ;        ! to bring, to drag a prey on its side
+@U.V.tv@рэнчек:@U.V.tv@%{R%}энче INTER-V ;        ! to bring, to drag a prey on its side
 @U.V.iv@уквэтыткук:@U.V.iv@уквэтытку INTER-V ;        ! to kiss each other
 @U.V.iv@кытчынъётвак:@U.V.iv@кытчынъётва INTER-V ;        ! to brood
 @U.V.iv@йыԓӄыԓтэтык:@U.V.iv@йыԓӄыԓтэт INTER-V ;        ! to be drowsy
@@ -3099,7 +3099,7 @@ LEXICON PRE-VERBS
 @U.V.iv@нотапэнрыткок:@U.V.iv@нотапэнрытко INTER-V ;        ! to invade
 @U.V.tv@йиритык:@U.V.tv@йирит INTER-V ;        ! to belt
 @U.V.tv@тывъёок:@U.V.tv@тывъёо INTER-V ;        ! to tell, to relate
-@U.V.tv@%{R%}ъомравык:@U.V.tv@%{R%}ъомрав INTER-V ;        ! to appoint
+@U.V.tv@ръомравык:@U.V.tv@%{R%}ъомрав INTER-V ;        ! to appoint
 @U.V.iv@вэгчучык:@U.V.iv@вэгчуч INTER-V ;        ! to be sensual (of a man)
 @U.V.iv@ӄычаргавык:@U.V.iv@ӄычаргав INTER-V ;        ! to get bald (of the forehead)
 @U.V.iv@э’ӈойпыткок:@U.V.iv@э’ӈойпытко INTER-V ;        ! to stick one’s nose
@@ -3137,7 +3137,7 @@ LEXICON PRE-VERBS
 @U.V.iv@мынгынэԓёк:@U.V.iv@мынгынэԓё INTER-V ;        ! to wave one’s hands, e.g
 @U.V.iv@йытыткок:@U.V.iv@йытытко INTER-V ;        ! to come back
 @U.V.tv@нутэргык:@U.V.tv@нутэрг INTER-V ;        ! to dig the ground
-@U.V.tv@%{R%}эймысӄэвык:@U.V.tv@%{R%}эймысӄэв INTER-V ;        ! to stick
+@U.V.tv@рэймысӄэвык:@U.V.tv@%{R%}эймысӄэв INTER-V ;        ! to stick
 @U.V.tv@рывэнвэпатык:@U.V.tv@рывэнвэпат INTER-V ;        ! lead on a track
 @U.V.tv@ръэтгыпык:@U.V.tv@ръэтгып INTER-V ;        ! to follow s.o.’s tracks
 @U.V.tv@эмчемэк:@U.V.tv@эмчемэ INTER-V ;        ! to give s.o
@@ -3187,7 +3187,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тэԓгэтытвик:@U.V.iv@тэԓгэтытви INTER-V ;        ! to get out of breath
 @U.V.tv@нутынԓьэтэтык:@U.V.tv@нутынԓьэтэт INTER-V ;        ! to bury
 @U.V.tv@р%{ы%}рагтатык:@U.V.tv@р%{ы%}рагтат INTER-V ;        ! to take s.o
-@U.V.tv@%{R%}ээ'куткувык:@U.V.tv@%{R%}ээ'куткув INTER-V ;        ! to lean out to look
+@U.V.tv@рээ'куткувык:@U.V.tv@%{R%}ээ'куткув INTER-V ;        ! to lean out to look
 @U.V.iv@и'рэсӄычетык:@U.V.iv@и'рэсӄычет INTER-V ;        ! to rush aside
 @U.V.tv@чисӄуук:@U.V.tv@чисӄуу INTER-V ;        ! to draw marrow out of a bone
 @U.V.iv@пытвавэръэпык:@U.V.iv@пытвавэръэп INTER-V ;        ! to put on a double fur suit
@@ -3204,7 +3204,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӈэвпирик:@U.V.iv@ӈэвпири INTER-V ;        ! to take a wife, to marry a woman
 @U.V.iv@тапэнъёԓгыӈык:@U.V.iv@тапэнъёԓгыӈ INTER-V ;        ! to light a fire
 @U.V.tv@рыноматык:@U.V.tv@рыномат INTER-V ;        ! to be washed up by the sea
-@U.V.tv@%{R%}эӈъэчевык:@U.V.tv@%{R%}эӈъэчев INTER-V ;        ! to make more difficult
+@U.V.tv@рэӈъэчевык:@U.V.tv@%{R%}эӈъэчев INTER-V ;        ! to make more difficult
 @U.V.iv@кэмчичыԓтэтык:@U.V.iv@кэмчичыԓтэт INTER-V ;        ! to be bewildered
 @U.V.iv@ԓыԓeԓьук:@U.V.iv@ԓыԓeԓьу INTER-V ;        ! to see with one's own eyes
 @U.V.tv@чарэнмык:@U.V.tv@чарэнм INTER-V ;        ! to kill with challenge
@@ -3212,7 +3212,7 @@ LEXICON PRE-VERBS
 @U.V.iv@о'пторатвак:@U.V.iv@о'пторатва INTER-V ;        ! ch
 @U.V.tv@р%{ы%}вэтгавык:@U.V.tv@р%{ы%}вэтгав INTER-V ;        ! to straighten
 @U.V.iv@нымэвык:@U.V.iv@нымэв INTER-V ;        ! to take place
-@U.V.tv@%{R%}умкэвык:@U.V.tv@%{R%}умкэв INTER-V ;        ! to bury
+@U.V.tv@румкэвык:@U.V.tv@%{R%}умкэв INTER-V ;        ! to bury
 @U.V.tv@нэԓгэтык:@U.V.tv@нэԓгэт INTER-V ;        ! to cover with a skin
 @U.V.iv@гагԓытыԓяк:@U.V.iv@гагԓытыԓя INTER-V ;        ! to go quickly
 @U.V.tv@киԓитык:@U.V.tv@киԓит INTER-V ;        ! to knead
@@ -3280,13 +3280,13 @@ LEXICON PRE-VERBS
 @U.V.tv@ройпытковык:@U.V.tv@ройпытков INTER-V ;        ! to thread
 @U.V.tv@тинивтэтык:@U.V.tv@тинивтэт INTER-V ;        ! to damp
 @U.V.iv@кэрмэвык:@U.V.iv@кэрмэв INTER-V ;        ! тo become an аdult
-@U.V.tv@%{R%}эмтэйпатык:@U.V.tv@%{R%}эмтэйпат INTER-V ;        ! ch
+@U.V.tv@рэмтэйпатык:@U.V.tv@%{R%}эмтэйпат INTER-V ;        ! ch
 @U.V.tv@туупэткук:@U.V.tv@туупэтку INTER-V ;        ! to drill with a pick
 @U.V.tv@э’ӄэтык:@U.V.tv@э’ӄэт INTER-V ;        ! to scorn
 @U.V.iv@йъотыԓяк:@U.V.iv@йъотыԓя INTER-V ;        ! to go during the blizzard
 @U.V.tv@чичиккэнык:@U.V.tv@чичиккэн INTER-V ;        ! procéder à un rite chamanique pour quelqu’un
 @U.V.iv@э’ӄэчьусӄычевык:@U.V.iv@э’ӄэчьусӄычев INTER-V ;        ! to grieve
-@U.V.iv@%{R%}иӄэётык:@U.V.iv@%{R%}иӄэёт INTER-V ;        ! to blow (of earth wind)
+@U.V.iv@риӄэётык:@U.V.iv@%{R%}иӄэёт INTER-V ;        ! to blow (of earth wind)
 @U.V.tv@рэтчыӈык:@U.V.tv@рэтчыӈ INTER-V ;        ! to want to let do
 @U.V.iv@выйитурэк:@U.V.iv@выйитурэ INTER-V ;        ! to recover one’s breath
 @U.V.iv@чимгъуԓьэтык:@U.V.iv@чимгъуԓьэт INTER-V ;        ! to think over
@@ -3361,7 +3361,7 @@ LEXICON PRE-VERBS
 @U.V.iv@гытыквык:@U.V.iv@гытыкв INTER-V ;        ! to have frost-bitten legs
 @U.V.iv@отганӈэнайпык:@U.V.iv@отганӈэнайп INTER-V ;        ! to flare up
 @U.V.iv@тэгрыткук:@U.V.iv@тэгрытку INTER-V ;        ! to handle a harpoon
-@U.V.tv@%{R%}ачгытатык:@U.V.tv@%{R%}ачгытат INTER-V ;        ! to stand up on a rank
+@U.V.tv@рачгытатык:@U.V.tv@%{R%}ачгытат INTER-V ;        ! to stand up on a rank
 @U.V.tv@р%{ы%}рык:@U.V.tv@р%{ы%}р INTER-V ;        ! to untie
 @U.V.iv@уутчак:@U.V.iv@уутча INTER-V ;        ! the mother says to her child : « my child is so cold »
 @U.V.iv@камчечвэтгавык:@U.V.iv@камчечвэтгав INTER-V ;        ! to say inopportunely
@@ -3386,7 +3386,7 @@ LEXICON PRE-VERBS
 @U.V.iv@о'птавык:@U.V.iv@о'птав INTER-V ;        ! to develop
 @U.V.iv@гаԓгаргытвэтԓяк:@U.V.iv@гаԓгаргытвэтԓя INTER-V ;        ! to ruffle up
 @U.V.tv@рыйыԓгынтэтык:@U.V.tv@рыйыԓгынтэт INTER-V ;        ! to twist
-@U.V.tv@%{R%}эмунтэтык:@U.V.tv@%{R%}эмунтэт INTER-V ;        ! ch
+@U.V.tv@рэмунтэтык:@U.V.tv@%{R%}эмунтэт INTER-V ;        ! ch
 @U.V.tv@р%{ы%}гагчавык:@U.V.tv@р%{ы%}гагчав INTER-V ;        ! to hasten
 @U.V.iv@эмтэтвак:@U.V.iv@эмтэтва INTER-V ;        ! to hang
 @U.V.iv@рывоԓватытвак:@U.V.iv@рывоԓватытва INTER-V ;        ! to lie aslant
@@ -3394,7 +3394,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тагыԓгычыгычак:@U.V.iv@тагыԓгычыгыча INTER-V ;        ! to itch
 @U.V.tv@р%{ы%}ԓык:@U.V.tv@р%{ы%}ԓ INTER-V ;        ! to become a member
 @U.V.iv@копрантыватык:@U.V.iv@копрантыват INTER-V ;        ! to set a net
-@U.V.tv@%{R%}эпыркагтавык:@U.V.tv@%{R%}эпыркагтав INTER-V ;        ! to throw spindrift
+@U.V.tv@рэпыркагтавык:@U.V.tv@%{R%}эпыркагтав INTER-V ;        ! to throw spindrift
 @U.V.iv@туппэӈкэӈык:@U.V.iv@туппэӈкэӈ INTER-V ;        ! to shelter ones’ eyes
 @U.V.tv@рэрмэԓтэвык:@U.V.tv@рэрмэԓтэв INTER-V ;        ! to vanquish, to beat
 @U.V.iv@ӄаанъаӄавык:@U.V.iv@ӄаанъаӄав INTER-V ;        ! to lead a herd
@@ -3425,19 +3425,19 @@ LEXICON PRE-VERBS
 @U.V.iv@атчьэԓяк:@U.V.iv@атчьэԓя INTER-V ;        ! to sneeze
 @U.V.tv@р%{ы%}кычгэпатык:@U.V.tv@р%{ы%}кычгэпат INTER-V ;        ! to propose a riddle
 @U.V.iv@ӄавъеԓёԓьатык:@U.V.iv@ӄавъеԓёԓьат INTER-V ;        ! to swing
-@U.V.tv@%{R%}ъэӄэԓтэвык:@U.V.tv@%{R%}ъэӄэԓтэв INTER-V ;        ! to avenge
+@U.V.tv@ръэӄэԓтэвык:@U.V.tv@%{R%}ъэӄэԓтэв INTER-V ;        ! to avenge
 @U.V.iv@тапэӈкоӈынвык:@U.V.iv@тапэӈкоӈынв INTER-V ;        ! to mark one’s jumps
 @U.V.iv@а'а'гаԓяк:@U.V.iv@а'а'гаԓя INTER-V ;        ! to disappear (of an offence)
 @U.V.tv@ръысӄэтык:@U.V.tv@ръысӄэт INTER-V ;        ! to put in a sheath
 @U.V.iv@рэԓӄытыёк:@U.V.iv@рэԓӄытыё INTER-V ;        ! to take soup
 @U.V.tv@упынъыԓиткучитык:@U.V.tv@упынъыԓиткучит INTER-V ;        ! to push each other
 @U.V.iv@гытгыԓӄатык:@U.V.iv@гытгыԓӄат INTER-V ;        ! to get out of a lake
-@U.V.tv@%{R%}эюпэтык:@U.V.tv@%{R%}эюпэт INTER-V ;        ! to prick
-@U.V.tv@%{R%}очгатык:@U.V.tv@%{R%}очгат INTER-V ;        ! to swallow
+@U.V.tv@рэюпэтык:@U.V.tv@%{R%}эюпэт INTER-V ;        ! to prick
+@U.V.tv@рочгатык:@U.V.tv@%{R%}очгат INTER-V ;        ! to swallow
 @U.V.iv@ӈыԓетык:@U.V.iv@ӈыԓет INTER-V ;        ! to burn
 @U.V.tv@тъививык:@U.V.tv@тъивив INTER-V ;        ! to command
 @U.V.iv@тывыткок:@U.V.iv@тывытко INTER-V ;        ! describe
-@U.V.tv@%{R%}ититык:@U.V.tv@%{R%}итит INTER-V ;        ! to boil
+@U.V.tv@рититык:@U.V.tv@%{R%}итит INTER-V ;        ! to boil
 @U.V.iv@аргаатвак:@U.V.iv@аргаатва INTER-V ;        ! to dive
 @U.V.iv@г%{ы%}рыпык:@U.V.iv@г%{ы%}рып INTER-V ;        ! to contract
 @U.V.iv@инэнԓек:@U.V.iv@инэнԓе INTER-V ;        ! to administer
@@ -3464,8 +3464,8 @@ LEXICON PRE-VERBS
 @U.V.iv@риԓгитык:@U.V.iv@риԓгит INTER-V ;        ! to moult
 @U.V.iv@ыԓпынӈэк:@U.V.iv@ыԓпынӈэ INTER-V ;        ! to fill out (of cheeks)
 @U.V.iv@а'ӄатвак:@U.V.iv@а'ӄатва INTER-V ;        ! to grieve
-@U.V.tv@%{R%}ъэӄэрэвык:@U.V.tv@%{R%}ъэӄэрэв INTER-V ;        ! to mutilate
-@U.V.iv@%{R%}энтытвак:@U.V.iv@%{R%}энтытва INTER-V ;        ! to be thrown away
+@U.V.tv@ръэӄэрэвык:@U.V.tv@%{R%}ъэӄэрэв INTER-V ;        ! to mutilate
+@U.V.iv@рэнтытвак:@U.V.iv@%{R%}энтытва INTER-V ;        ! to be thrown away
 @U.V.iv@ырпэгԓяк:@U.V.iv@ырпэгԓя INTER-V ;        ! to resound (of the report of firearm)
 @U.V.tv@ымысӄытааӈык:@U.V.tv@ымысӄытааӈ INTER-V ;        ! to measure the depth
 @U.V.iv@эвыԓӄык:@U.V.iv@эвыԓӄ INTER-V ;        ! to lose its edge
@@ -3512,7 +3512,7 @@ LEXICON PRE-VERBS
 @U.V.tv@рыԓвэтык:@U.V.tv@рыԓвэт INTER-V ;        ! to burn
 @U.V.iv@мыркучьэтык:@U.V.iv@мыркучьэт INTER-V ;        ! ch
 @U.V.iv@инэнԓьуткувык:@U.V.iv@инэнԓьуткув INTER-V ;        ! to show
-@U.V.tv@%{R%}анӈавык:@U.V.tv@%{R%}анӈав INTER-V ;        ! to overload
+@U.V.tv@ранӈавык:@U.V.tv@%{R%}анӈав INTER-V ;        ! to overload
 @U.V.iv@аакатвак:@U.V.iv@аакатва INTER-V ;        ! to keep alight
 @U.V.iv@вуутыԓек:@U.V.iv@вуутыԓе INTER-V ;        ! to move with the herd at night
 @U.V.iv@кэтгуԓтэтык:@U.V.iv@кэтгуԓтэт INTER-V ;        ! to overcome
@@ -3553,7 +3553,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тавэмэнӈыкаԓготкэк:@U.V.iv@тавэмэнӈыкаԓготкэ INTER-V ;        ! to complain about one’s fate
 @U.V.iv@йыркэвык:@U.V.iv@йыркэв INTER-V ;        ! to become milder
 @U.V.iv@винвытэгнэтык:@U.V.iv@винвытэгнэт INTER-V ;        ! to inspect the pastures
-@U.V.tv@%{R%}ъивэвык:@U.V.tv@%{R%}ъивэв INTER-V ;        ! to wind up
+@U.V.tv@ръивэвык:@U.V.tv@%{R%}ъивэв INTER-V ;        ! to wind up
 @U.V.iv@мигԓик:@U.V.iv@мигԓи INTER-V ;        ! to serve
 @U.V.iv@кимыԓтэтык:@U.V.iv@кимыԓтэт INTER-V ;        ! to lose time
 @U.V.iv@тымӈэраӄык:@U.V.iv@тымӈэраӄ INTER-V ;        ! to be busy with different things
@@ -3722,7 +3722,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}ръарӄаторавык:@U.V.tv@р%{ы%}ръарӄаторав INTER-V ;        ! to undo the harness
 @U.V.tv@р%{ы%}тъивычьэвык:@U.V.tv@р%{ы%}тъивычьэв INTER-V ;        ! to demand
 @U.V.tv@р%{ы%}пынчивык:@U.V.tv@р%{ы%}пынчив INTER-V ;        ! to turn over
-@U.V.tv@%{R%}инэпыткычитэвык:@U.V.tv@%{R%}инэпыткычитэв INTER-V ;        ! compete in skill
+@U.V.tv@ринэпыткычитэвык:@U.V.tv@%{R%}инэпыткычитэв INTER-V ;        ! compete in skill
 @U.V.tv@ранпыӈык:@U.V.tv@ранпыӈ INTER-V ;        ! to want to place as a target
 @U.V.tv@р%{ы%}кэтэмэвык:@U.V.tv@р%{ы%}кэтэмэв INTER-V ;        ! to ask to be more explicit
 @U.V.tv@р%{ы%}тоԓтатык:@U.V.tv@р%{ы%}тоԓтат INTER-V ;        ! ch
@@ -3778,7 +3778,7 @@ LEXICON PRE-VERBS
 @U.V.iv@м%{ы%}ӈэкаврак:@U.V.iv@м%{ы%}ӈэкавра INTER-V ;        ! to go round in a circle during a ritual
 @U.V.tv@к%{ы%}тыйгыръок:@U.V.tv@к%{ы%}тыйгыръо INTER-V ;        ! to be caught by the wind
 @U.V.tv@р%{ы%}гынтэвык:@U.V.tv@р%{ы%}гынтэв INTER-V ;        ! to frighten
-@U.V.tv@%{R%}импэтвэтык:@U.V.tv@%{R%}импэтвэт INTER-V ;        ! to slow down
+@U.V.tv@римпэтвэтык:@U.V.tv@%{R%}импэтвэт INTER-V ;        ! to slow down
 @U.V.iv@ратаӈык:@U.V.iv@ратаӈ INTER-V ;        ! to intend to pass
 @U.V.iv@кивԓетык:@U.V.iv@кивԓет INTER-V ;        ! to make soup with reindeer blood
 @U.V.tv@рыԓгынйивэтык:@U.V.tv@рыԓгынйивэт INTER-V ;        ! to show with one’s finger
@@ -3790,7 +3790,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӈэвъэнӄэтык:@U.V.iv@ӈэвъэнӄэт INTER-V ;        ! to refuse to marry
 @U.V.iv@таӈпэрак:@U.V.iv@таӈпэра INTER-V ;        ! to be appraised
 @U.V.tv@э’йӈэвык:@U.V.tv@э’йӈэв INTER-V ;        ! to call
-@U.V.tv@%{R%}эрэтык:@U.V.tv@%{R%}эрэт INTER-V ;        ! to let fall
+@U.V.tv@рэрэтык:@U.V.tv@%{R%}эрэт INTER-V ;        ! to let fall
 @U.V.iv@тапамъяйӈык:@U.V.iv@тапамъяйӈ INTER-V ;        ! to make inner fur boots
 @U.V.iv@инэгнитԓитык:@U.V.iv@инэгнитԓит INTER-V ;        ! to lift up
 @U.V.tv@мэмԓытыёк:@U.V.tv@мэмԓытыё INTER-V ;        ! to fill with water
@@ -3832,7 +3832,7 @@ LEXICON PRE-VERBS
 @U.V.iv@увикэрмэвык:@U.V.iv@увикэрмэв INTER-V ;        ! to harden
 @U.V.iv@ӄаймаромчынток:@U.V.iv@ӄаймаромчынто INTER-V ;        ! to convey scabies
 @U.V.iv@рыԓтэԓытваԓьатык:@U.V.iv@рыԓтэԓытваԓьат INTER-V ;        ! to lie idle
-@U.V.tv@%{R%}ъэӄэԓтэтык:@U.V.tv@%{R%}ъэӄэԓтэт INTER-V ;        ! to do harm to s.o
+@U.V.tv@ръэӄэԓтэтык:@U.V.tv@%{R%}ъэӄэԓтэт INTER-V ;        ! to do harm to s.o
 @U.V.iv@инэнйигычгэвык:@U.V.iv@инэнйигычгэв INTER-V ;        ! to tickle
 @U.V.iv@ръораръок:@U.V.iv@ръораръо INTER-V ;        ! to swarm
 @U.V.tv@рыматык:@U.V.tv@рымат INTER-V ;        ! to hold in one’s teeth
@@ -3862,13 +3862,13 @@ LEXICON PRE-VERBS
 @U.V.iv@пэркыԓытвак:@U.V.iv@пэркыԓытва INTER-V ;        ! to suffocate
 @U.V.tv@пынрыткок:@U.V.tv@пынрытко INTER-V ;        ! to distribute
 @U.V.tv@р%{ы%}кыргэԓгавык:@U.V.tv@р%{ы%}кыргэԓгав INTER-V ;        ! to blow about
-@U.V.iv@%{R%}отвак:@U.V.iv@%{R%}отва INTER-V ;        ! to pitch an inner tent
+@U.V.iv@ротвак:@U.V.iv@%{R%}отва INTER-V ;        ! to pitch an inner tent
 @U.V.iv@ыԓвэтъуԓюк:@U.V.iv@ыԓвэтъуԓю INTER-V ;        ! to eat wild reindeer
 @U.V.iv@маԓятытвак:@U.V.iv@маԓятытва INTER-V ;        ! to hold (of the weather)
 @U.V.tv@кымгытычьэтык:@U.V.tv@кымгытычьэт INTER-V ;        ! to tie
 @U.V.tv@а'ӄатвык:@U.V.tv@а'ӄатв INTER-V ;        ! to disparage
-@U.V.iv@%{R%}итԓитык:@U.V.iv@%{R%}итԓит INTER-V ;        ! to moult
-@U.V.tv@%{R%}урэтвэтык:@U.V.tv@%{R%}урэтвэт INTER-V ;        ! to lengthen
+@U.V.iv@ритԓитык:@U.V.iv@%{R%}итԓит INTER-V ;        ! to moult
+@U.V.tv@рурэтвэтык:@U.V.tv@%{R%}урэтвэт INTER-V ;        ! to lengthen
 @U.V.iv@ръамынӈык:@U.V.iv@ръамынӈ INTER-V ;        ! to freeze one’s hands
 @U.V.iv@урэнԓетык:@U.V.iv@урэнԓет INTER-V ;        ! to burn a long time
 @U.V.iv@гыттэӈатык:@U.V.iv@гыттэӈат INTER-V ;        ! to approach in single file
@@ -3886,10 +3886,10 @@ LEXICON PRE-VERBS
 @U.V.tv@аймэк:@U.V.tv@аймэ INTER-V ;        ! to draw (of a liquid)
 @U.V.tv@тэныгйиӈык:@U.V.tv@тэныгйиӈ INTER-V ;        ! to tempt
 @U.V.iv@пԓегчимэтык:@U.V.iv@пԓегчимэт INTER-V ;        ! to tear (of fur boots)
-@U.V.tv@%{R%}ъаӄапэравык:@U.V.tv@%{R%}ъаӄапэрав INTER-V ;        ! to spoil the view
+@U.V.tv@ръаӄапэравык:@U.V.tv@%{R%}ъаӄапэрав INTER-V ;        ! to spoil the view
 @U.V.iv@аётвак:@U.V.iv@аётва INTER-V ;        ! to be alive
 @U.V.iv@ӄэчейыръук:@U.V.iv@ӄэчейыръу INTER-V ;        ! to eat entrails
-@U.V.tv@%{R%}ъэтйивэтык:@U.V.tv@%{R%}ъэтйивэт INTER-V ;        ! to raise an objection
+@U.V.tv@ръэтйивэтык:@U.V.tv@%{R%}ъэтйивэт INTER-V ;        ! to raise an objection
 @U.V.iv@п%{ы%}гэтык:@U.V.iv@п%{ы%}гэт INTER-V ;        ! to bubble
 @U.V.tv@ваарватык:@U.V.tv@ваарват INTER-V ;        ! to tighten a strap
 @U.V.iv@эмӈоԓторак:@U.V.iv@эмӈоԓтора INTER-V ;        ! to relieve one’s boredom
@@ -3928,13 +3928,13 @@ LEXICON PRE-VERBS
 @U.V.iv@юӈэвгыркик:@U.V.iv@юӈэвгырки INTER-V ;        ! to gather roseroot
 @U.V.tv@пэчаткок:@U.V.tv@пэчатко INTER-V ;        ! to forsake
 @U.V.tv@тачематгыргыӈык:@U.V.tv@тачематгыргыӈ INTER-V ;        ! to fissure
-@U.V.tv@%{R%}эргавык:@U.V.tv@%{R%}эргав INTER-V ;        ! to celebrate, to exalt, to extol
+@U.V.tv@рэргавык:@U.V.tv@%{R%}эргав INTER-V ;        ! to celebrate, to exalt, to extol
 @U.V.iv@ӄэргыпэрак:@U.V.iv@ӄэргыпэра INTER-V ;        ! to be clear
 @U.V.tv@тайвачгыӈык:@U.V.tv@тайвачгыӈ INTER-V ;        ! to protect
 @U.V.tv@винвынук:@U.V.tv@винвыну INTER-V ;        ! to eat secretly
 @U.V.iv@витэтык:@U.V.iv@витэт INTER-V ;        ! to vibrate
 @U.V.iv@инэнчимгъунӈэвык:@U.V.iv@инэнчимгъунӈэв INTER-V ;        ! to coach s.o
-@U.V.tv@%{R%}эӈъэԓевык:@U.V.tv@%{R%}эӈъэԓев INTER-V ;        ! to torment
+@U.V.tv@рэӈъэԓевык:@U.V.tv@%{R%}эӈъэԓев INTER-V ;        ! to torment
 @U.V.iv@ӄупӄынтэтык:@U.V.iv@ӄупӄынтэт INTER-V ;        ! to become emaciated
 @U.V.iv@уӄэԓетык:@U.V.iv@уӄэԓет INTER-V ;        ! to stint
 @U.V.iv@черытвэк:@U.V.iv@черытвэ INTER-V ;        ! to become yellow
@@ -3976,11 +3976,11 @@ LEXICON PRE-VERBS
 @U.V.iv@четԓёвык:@U.V.iv@четԓёв INTER-V ;        ! to turn reddish, to become yellow
 @U.V.iv@кооԓгык:@U.V.iv@кооԓг INTER-V ;        ! to collapse in a dead faint
 @U.V.iv@вэнвъатчак:@U.V.iv@вэнвъатча INTER-V ;        ! to lie in wait
-@U.V.tv@%{R%}эвчирык:@U.V.tv@%{R%}эвчир INTER-V ;        ! to perforate, to make a lot of holes
+@U.V.tv@рэвчирык:@U.V.tv@%{R%}эвчир INTER-V ;        ! to perforate, to make a lot of holes
 @U.V.iv@кэмԓитԓьэтык:@U.V.iv@кэмԓитԓьэт INTER-V ;        ! to spin (of a herd)
 @U.V.iv@окканчейпык:@U.V.iv@окканчейп INTER-V ;        ! to put on a waterproof
 @U.V.iv@мъэмитык:@U.V.iv@мъэмит INTER-V ;        ! to shoot an arrow
-@U.V.iv@%{R%}эԓeӈитэвык:@U.V.iv@%{R%}эԓeӈитэв INTER-V ;        ! to remain for the summer
+@U.V.iv@рэԓeӈитэвык:@U.V.iv@%{R%}эԓeӈитэв INTER-V ;        ! to remain for the summer
 @U.V.iv@aмрыԓытвак:@U.V.iv@aмрыԓытва INTER-V ;        ! to stay in bed all the time
 @U.V.iv@энъычаёк:@U.V.iv@энъычаё INTER-V ;        ! to drink morning tea
 @U.V.tv@э’мэтык:@U.V.tv@э’мэт INTER-V ;        ! to roll
@@ -3994,7 +3994,7 @@ LEXICON PRE-VERBS
 @U.V.iv@гагтык:@U.V.iv@гагт INTER-V ;        ! to slide down
 @U.V.tv@чигԓек:@U.V.tv@чигԓе INTER-V ;        ! un moteur)
 @U.V.iv@э’ӄэӈыттык:@U.V.iv@э’ӄэӈытт INTER-V ;        ! to spread (of an epidemic)
-@U.V.tv@%{R%}умэкэвык:@U.V.tv@%{R%}умэкэв INTER-V ;        ! to gather
+@U.V.tv@румэкэвык:@U.V.tv@%{R%}умэкэв INTER-V ;        ! to gather
 @U.V.iv@чемгъопэтгатык:@U.V.iv@чемгъопэтгат INTER-V ;        ! to agree
 @U.V.iv@ԓеӈпыгтык:@U.V.iv@ԓеӈпыгт INTER-V ;        ! to sink (of the heart)
 @U.V.iv@тэнйыръэтык:@U.V.iv@тэнйыръэт INTER-V ;        ! to be crammed
@@ -4096,7 +4096,7 @@ LEXICON PRE-VERBS
 @U.V.iv@какаватык:@U.V.iv@какават INTER-V ;        ! to crackle
 @U.V.iv@гынтэвыԓьэтык:@U.V.iv@гынтэвыԓьэт INTER-V ;        ! to avoid
 @U.V.iv@кавраторак:@U.V.iv@кавратора INTER-V ;        ! to unroll
-@U.V.tv@%{R%}интивык:@U.V.tv@%{R%}интив INTER-V ;        ! to throw lots of
+@U.V.tv@ринтивык:@U.V.tv@%{R%}интив INTER-V ;        ! to throw lots of
 @U.V.tv@каӈъэӈыток:@U.V.tv@каӈъэӈыто INTER-V ;        ! to eviscerate
 @U.V.iv@ӄорапатык:@U.V.iv@ӄорапат INTER-V ;        ! to boil reindeer meat
 @U.V.iv@пэтвэԓӄэтык:@U.V.iv@пэтвэԓӄэт INTER-V ;        ! to climb a mountain sometimes within sight, sometimes out of sight
@@ -4114,15 +4114,15 @@ LEXICON PRE-VERBS
 @U.V.iv@тъыԓраӈык:@U.V.iv@тъыԓраӈ INTER-V ;        ! to build a snow house
 @U.V.tv@инэнйыркытвэтык:@U.V.tv@инэнйыркытвэт INTER-V ;        ! to knead
 @U.V.iv@эргавыԓьатык:@U.V.iv@эргавыԓьат INTER-V ;        ! to be excited
-@U.V.iv@%{R%}атчыӈатытвак:@U.V.iv@%{R%}атчыӈатытва INTER-V ;        ! to be hidden
+@U.V.iv@ратчыӈатытвак:@U.V.iv@%{R%}атчыӈатытва INTER-V ;        ! to be hidden
 @U.V.iv@пэԓгомавык:@U.V.iv@пэԓгомав INTER-V ;        ! to satisfy one’s hunger
 @U.V.tv@йынатык:@U.V.tv@йынат INTER-V ;        ! to request
-@U.V.tv@%{R%}этынватык:@U.V.tv@%{R%}этынват INTER-V ;        ! to adopt a child
+@U.V.tv@рэтынватык:@U.V.tv@%{R%}этынват INTER-V ;        ! to adopt a child
 @U.V.iv@в%{ы%}тынтак:@U.V.iv@в%{ы%}тынта INTER-V ;        ! to go and gather eatable leaves
 @U.V.iv@кувԓыԓӄытык:@U.V.iv@кувԓыԓӄыт INTER-V ;        ! to climb
 @U.V.iv@никэк:@U.V.iv@никэ INTER-V ;        ! ch
 @U.V.iv@эӈӄарэтык:@U.V.iv@эӈӄарэт INTER-V ;        ! to snort (of an animal)
-@U.V.tv@%{R%}уткуӈэтык:@U.V.tv@%{R%}уткуӈэт INTER-V ;        ! to bump
+@U.V.tv@руткуӈэтык:@U.V.tv@%{R%}уткуӈэт INTER-V ;        ! to bump
 @U.V.iv@энаарванԓяк:@U.V.iv@энаарванԓя INTER-V ;        ! to ask for a second helping
 @U.V.iv@мычвынръок:@U.V.iv@мычвынръо INTER-V ;        ! to regain confidence
 @U.V.iv@пиԓгыԓвэтык:@U.V.iv@пиԓгыԓвэт INTER-V ;        ! to cut a tasty bit for s.o
@@ -4145,7 +4145,7 @@ LEXICON PRE-VERBS
 @U.V.iv@рыӄавык:@U.V.iv@рыӄав INTER-V ;        ! to be greedy
 @U.V.iv@ԓеӈынтак:@U.V.iv@ԓеӈынта INTER-V ;        ! to go and gather eggs
 @U.V.tv@р%{ы%}ԓеӈэтавык:@U.V.tv@р%{ы%}ԓеӈэтав INTER-V ;        ! to keep, to take care
-@U.V.tv@%{R%}аройвавык:@U.V.tv@%{R%}аройвав INTER-V ;        ! to fortify
+@U.V.tv@раройвавык:@U.V.tv@%{R%}аройвав INTER-V ;        ! to fortify
 @U.V.iv@к%{ы%}тыйгатык:@U.V.iv@к%{ы%}тыйгат INTER-V ;        ! to blow (of the wind)
 @U.V.iv@йыныпык:@U.V.iv@йынып INTER-V ;        ! то blaze
 @U.V.tv@р%{ы%}виԓевык:@U.V.tv@р%{ы%}виԓев INTER-V ;        ! to let sth
@@ -4177,7 +4177,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}тыӈӈок:@U.V.tv@р%{ы%}тыӈӈо INTER-V ;        ! to begin to proceed, act
 @U.V.iv@пытԓиӈэвык:@U.V.iv@пытԓиӈэв INTER-V ;        ! to be courageous
 @U.V.iv@выԓтэвык:@U.V.iv@выԓтэв INTER-V ;        ! to crowd
-@U.V.tv@%{R%}эвчивык:@U.V.tv@%{R%}эвчив INTER-V ;        ! to perforate, to make holes
+@U.V.tv@рэвчивык:@U.V.tv@%{R%}эвчив INTER-V ;        ! to perforate, to make holes
 @U.V.iv@энэвнаткок:@U.V.iv@энэвнатко INTER-V ;        ! to steal
 @U.V.tv@р%{ы%}рыԓӄэвык:@U.V.tv@р%{ы%}рыԓӄэв INTER-V ;        ! to blunt (of teeth)
 @U.V.iv@мачытвак:@U.V.iv@мачытва INTER-V ;        ! to be left (of a little quantity)
@@ -4222,7 +4222,7 @@ LEXICON PRE-VERBS
 @U.V.iv@энаԓгыԓятык:@U.V.iv@энаԓгыԓят INTER-V ;        ! to obstruct аn eye
 @U.V.iv@эвэнэгтык:@U.V.iv@эвэнэгт INTER-V ;        ! to go hunting
 @U.V.iv@э’ӄэԓтэтык:@U.V.iv@э’ӄэԓтэт INTER-V ;        ! to feel sick
-@U.V.tv@%{R%}ъээ’вык:@U.V.tv@%{R%}ъээ’в INTER-V ;        ! to offend
+@U.V.tv@ръээ’вык:@U.V.tv@%{R%}ъээ’в INTER-V ;        ! to offend
 @U.V.iv@тарайвачӈык:@U.V.iv@тарайвачӈ INTER-V ;        ! to shelter
 @U.V.tv@энарэрык:@U.V.tv@энарэр INTER-V ;        ! to look for
 @U.V.iv@ӄавчеэръыръок:@U.V.iv@ӄавчеэръыръо INTER-V ;        ! to fly into pieces
@@ -4274,13 +4274,13 @@ LEXICON PRE-VERBS
 @U.V.iv@тиԓиръук:@U.V.iv@тиԓиръу INTER-V ;        ! to run
 @U.V.iv@и'ӈтиӈук:@U.V.iv@и'ӈтиӈу INTER-V ;        ! to sniff because of a cold
 @U.V.iv@мыӈэгтык:@U.V.iv@мыӈэгт INTER-V ;        ! to go and attend a rite
-@U.V.iv@%{R%}эԓепык:@U.V.iv@%{R%}эԓеп INTER-V ;        ! to cover with humidity
+@U.V.iv@рэԓепык:@U.V.iv@%{R%}эԓеп INTER-V ;        ! to cover with humidity
 @U.V.iv@рыгыԓӄотaтык:@U.V.iv@рыгыԓӄотaт INTER-V ;        ! to rumple
 @U.V.tv@аёпатык:@U.V.tv@аёпат INTER-V ;        ! to thread
 @U.V.iv@чемгъонватык:@U.V.iv@чемгъонват INTER-V ;        ! tо talk to oneself
 @U.V.iv@инэӈэԓӄивык:@U.V.iv@инэӈэԓӄив INTER-V ;        ! to sit down in a canoe, on a sledge
 @U.V.iv@чинъюргыгиԓик:@U.V.iv@чинъюргыгиԓи INTER-V ;        ! to go and hope that
-@U.V.tv@%{R%}атвык:@U.V.tv@%{R%}атв INTER-V ;        ! to bring home
+@U.V.tv@ратвык:@U.V.tv@%{R%}атв INTER-V ;        ! to bring home
 @U.V.iv@инъытэԓпык:@U.V.iv@инъытэԓп INTER-V ;        ! to finish soon
 @U.V.iv@тъытвыраӈык:@U.V.iv@тъытвыраӈ INTER-V ;        ! to pitch a home under a turned over canoe
 @U.V.tv@р%{ы%}рэӄыткувык:@U.V.tv@р%{ы%}рэӄыткув INTER-V ;        ! to observe a ritual
@@ -4292,7 +4292,7 @@ LEXICON PRE-VERBS
 @U.V.tv@эмръэԓетык:@U.V.tv@эмръэԓет INTER-V ;        ! to oint according to a ritual
 @U.V.iv@пыӈычгэчек:@U.V.iv@пыӈычгэче INTER-V ;        ! to fetch news
 @U.V.tv@рэсӄэтык:@U.V.tv@рэсӄэт INTER-V ;        ! to build a roof
-@U.V.tv@%{R%}ъававыӈӈок:@U.V.tv@%{R%}ъававыӈӈо INTER-V ;        ! to surround
+@U.V.tv@ръававыӈӈок:@U.V.tv@%{R%}ъававыӈӈо INTER-V ;        ! to surround
 @U.V.iv@пыгԓынанӄавык:@U.V.iv@пыгԓынанӄав INTER-V ;        ! to become pot-bellied
 @U.V.iv@й%{ы%}ӈатвак:@U.V.iv@й%{ы%}ӈатва INTER-V ;        ! to be loaded
 @U.V.iv@и'ӈыпруӈэк:@U.V.iv@и'ӈыпруӈэ INTER-V ;        ! to fall on the nose
@@ -4359,8 +4359,8 @@ LEXICON PRE-VERBS
 @U.V.iv@мэрэнаратык:@U.V.iv@мэрэнарат INTER-V ;        ! to shed tears
 @U.V.iv@кытгынтатык:@U.V.iv@кытгынтат INTER-V ;        ! to run
 @U.V.iv@aкавкэёк:@U.V.iv@aкавкэё INTER-V ;        ! to feel uncomfortable
-@U.V.tv@%{R%}агтатавык:@U.V.tv@%{R%}агтатав INTER-V ;        ! to steal
-@U.V.tv@%{R%}эрэтыткук:@U.V.tv@%{R%}эрэтытку INTER-V ;        ! to throw down
+@U.V.tv@рагтатавык:@U.V.tv@%{R%}агтатав INTER-V ;        ! to steal
+@U.V.tv@рэрэтыткук:@U.V.tv@%{R%}эрэтытку INTER-V ;        ! to throw down
 @U.V.iv@энанкэтъовык:@U.V.iv@энанкэтъов INTER-V ;        ! to remind
 @U.V.iv@кэвымчук:@U.V.iv@кэвымчу INTER-V ;        ! to lend a hand
 @U.V.iv@кыргысӄэтык:@U.V.iv@кыргысӄэт INTER-V ;        ! to сome out in a dry place
@@ -4385,7 +4385,7 @@ LEXICON PRE-VERBS
 @U.V.iv@иривык:@U.V.iv@ирив INTER-V ;        ! there to be draughts
 @U.V.tv@а’ёйпык:@U.V.tv@а’ёйп INTER-V ;        ! to put into
 @U.V.iv@ԓьутԓепычьэтык:@U.V.iv@ԓьутԓепычьэт INTER-V ;        ! to glance from time to time
-@U.V.tv@%{R%}ъомрайпык:@U.V.tv@%{R%}ъомрайп INTER-V ;        ! to protect
+@U.V.tv@ръомрайпык:@U.V.tv@%{R%}ъомрайп INTER-V ;        ! to protect
 @U.V.iv@инээнӈык:@U.V.iv@инээнӈ INTER-V ;        ! to cutup a slaughtered reindeer
 @U.V.iv@онматык:@U.V.iv@онмат INTER-V ;        ! to take refuge
 @U.V.iv@инэнръэԓтурэвык:@U.V.iv@инэнръэԓтурэв INTER-V ;        ! to disentangle
@@ -4404,7 +4404,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӄэргыткок:@U.V.iv@ӄэргытко INTER-V ;        ! to sparkle
 @U.V.iv@чиӈкэвирик:@U.V.iv@чиӈкэвири INTER-V ;        ! to make your mouth water
 @U.V.tv@инэгтык:@U.V.tv@инэгт INTER-V ;        ! to cut off, to break off
-@U.V.iv@%{R%}инэпиривык:@U.V.iv@%{R%}инэпирив INTER-V ;        ! to decorate
+@U.V.iv@ринэпиривык:@U.V.iv@%{R%}инэпирив INTER-V ;        ! to decorate
 @U.V.iv@мачвэтъоԓёк:@U.V.iv@мачвэтъоԓё INTER-V ;        ! eat breast
 @U.V.iv@чьумэткук:@U.V.iv@чьумэтку INTER-V ;        ! to play chess
 @U.V.iv@вэймэнытгиԓивык:@U.V.iv@вэймэнытгиԓив INTER-V ;        ! to serve
@@ -4539,7 +4539,7 @@ LEXICON PRE-VERBS
 @U.V.iv@кымъык:@U.V.iv@кымъ INTER-V ;        ! to sit curled up in one’s shirt with covered knees
 @U.V.iv@уччыкутык:@U.V.iv@уччыкут INTER-V ;        ! to go into a wood
 @U.V.tv@рутгэвык:@U.V.tv@рутгэв INTER-V ;        ! to soften
-@U.V.tv@%{R%}авэръэпатык:@U.V.tv@%{R%}авэръэпат INTER-V ;        ! to dress
+@U.V.tv@равэръэпатык:@U.V.tv@%{R%}авэръэпат INTER-V ;        ! to dress
 @U.V.iv@энанотԓятык:@U.V.iv@энанотԓят INTER-V ;        ! to cut out
 @U.V.iv@откочьыёпатык:@U.V.iv@откочьыёпат INTER-V ;        ! to check traps
 @U.V.tv@р%{ы%}ԓик:@U.V.tv@р%{ы%}ԓи INTER-V ;        ! ch
@@ -4548,7 +4548,7 @@ LEXICON PRE-VERBS
 @U.V.iv@мрэнэтык:@U.V.iv@мрэнэт INTER-V ;        ! to set in (of the mosquito period)
 @U.V.iv@тэминӈэтык:@U.V.iv@тэминӈэт INTER-V ;        ! to do odd jobs
 @U.V.iv@чемычыӈатык:@U.V.iv@чемычыӈат INTER-V ;        ! to crack
-@U.V.tv@%{R%}ъимпэвык:@U.V.tv@%{R%}ъимпэв INTER-V ;        ! to bend down
+@U.V.tv@ръимпэвык:@U.V.tv@%{R%}ъимпэв INTER-V ;        ! to bend down
 @U.V.tv@р%{ы%}въиӈэтык:@U.V.tv@р%{ы%}въиӈэт INTER-V ;        ! to put to death
 @U.V.tv@ԓеваԓык:@U.V.tv@ԓеваԓ INTER-V ;        ! to signal the start of sth
 @U.V.iv@кэнтук:@U.V.iv@кэнту INTER-V ;        ! to eat sweets, candies
@@ -4563,7 +4563,7 @@ LEXICON PRE-VERBS
 @U.V.tv@энаԓгыԓявык:@U.V.tv@энаԓгыԓяв INTER-V ;        ! to blind
 @U.V.iv@кувԓыткук:@U.V.iv@кувԓытку INTER-V ;        ! to tip over
 @U.V.iv@тъымыркэюк:@U.V.iv@тъымыркэю INTER-V ;        ! to regain consciousness after fainting
-@U.V.tv@%{R%}имэвык:@U.V.tv@%{R%}имэв INTER-V ;        ! to thicken
+@U.V.tv@римэвык:@U.V.tv@%{R%}имэв INTER-V ;        ! to thicken
 @U.V.iv@ԓюԓюкыԓьэтык:@U.V.iv@ԓюԓюкыԓьэт INTER-V ;        ! to bubble
 @U.V.tv@рынгыпчетык:@U.V.tv@рынгыпчет INTER-V ;        ! to pick one’steeth
 @U.V.tv@рэмтэйпыӈык:@U.V.tv@рэмтэйпыӈ INTER-V ;        ! to try to load sth
@@ -4591,7 +4591,7 @@ LEXICON PRE-VERBS
 @U.V.iv@kымъукэтык:@U.V.iv@kымъукэт INTER-V ;        ! to be rolled into a ball
 @U.V.iv@кэрватчотытвак:@U.V.iv@кэрватчотытва INTER-V ;        ! to be leaning on the pillow
 @U.V.tv@рэчыёвык:@U.V.tv@рэчыёв INTER-V ;        ! to damp
-@U.V.tv@%{R%}иԓюк:@U.V.tv@%{R%}иԓю INTER-V ;        ! to mix
+@U.V.tv@риԓюк:@U.V.tv@%{R%}иԓю INTER-V ;        ! to mix
 @U.V.iv@чычепык:@U.V.iv@чычеп INTER-V ;        ! to look round
 @U.V.iv@энарэракватык:@U.V.iv@энарэракват INTER-V ;        ! to go to look for s.o
 @U.V.iv@тэвэнаӈаткок:@U.V.iv@тэвэнаӈатко INTER-V ;        ! to row
@@ -4611,7 +4611,7 @@ LEXICON PRE-VERBS
 @U.V.iv@кытыӈэнак:@U.V.iv@кытыӈэна INTER-V ;        ! to blow (of the west wind)
 @U.V.tv@восӄынтак:@U.V.tv@восӄынта INTER-V ;        ! to hide light, to darken
 @U.V.iv@и'вчейвык:@U.V.iv@и'вчейв INTER-V ;        ! to walk rapidly
-@U.V.tv@%{R%}атватык:@U.V.tv@%{R%}атват INTER-V ;        ! to practise magic
+@U.V.tv@ратватык:@U.V.tv@%{R%}атват INTER-V ;        ! to practise magic
 @U.V.tv@пиԓгыԓвик:@U.V.tv@пиԓгыԓви INTER-V ;        ! to slit s.o.’s throat
 @U.V.iv@ръэԓягтык:@U.V.iv@ръэԓягт INTER-V ;        ! to take part in a run
 @U.V.iv@пэԓгъарэтвак:@U.V.iv@пэԓгъарэтва INTER-V ;        ! to fast
@@ -4620,9 +4620,9 @@ LEXICON PRE-VERBS
 @U.V.tv@рывэԓювык:@U.V.tv@рывэԓюв INTER-V ;        ! to prove
 @U.V.iv@тэпичгыӈык:@U.V.iv@тэпичгыӈ INTER-V ;        ! to prepare a meal
 @U.V.tv@р%{ы%}кувыԓпэвык:@U.V.tv@р%{ы%}кувыԓпэв INTER-V ;        ! to cork
-@U.V.tv@%{R%}эԓкэвык:@U.V.tv@%{R%}эԓкэв INTER-V ;        ! to take away to the open sea
+@U.V.tv@рэԓкэвык:@U.V.tv@%{R%}эԓкэв INTER-V ;        ! to take away to the open sea
 @U.V.iv@авэръыныпъавык:@U.V.iv@авэръыныпъав INTER-V ;        ! to dry one’s clothes
-@U.V.tv@%{R%}ъымӈычвынавык:@U.V.tv@%{R%}ъымӈычвынав INTER-V ;        ! to drive s.o
+@U.V.tv@ръымӈычвынавык:@U.V.tv@%{R%}ъымӈычвынав INTER-V ;        ! to drive s.o
 @U.V.tv@р%{ы%}мӈыԓявык:@U.V.tv@р%{ы%}мӈыԓяв INTER-V ;        ! to tell the news, to let know
 @U.V.iv@тэӈкэвык:@U.V.iv@тэӈкэв INTER-V ;        ! to become close friends with
 @U.V.tv@р%{ы%}ӄытрирэвык:@U.V.tv@р%{ы%}ӄытрирэв INTER-V ;        ! to pester, to get on one’s nerves
@@ -4678,7 +4678,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӄаԓяйӈатык:@U.V.iv@ӄаԓяйӈат INTER-V ;        ! to commit adultery
 @U.V.iv@ӈинӄэйыԓьэтык:@U.V.iv@ӈинӄэйыԓьэт INTER-V ;        ! to be a child
 @U.V.tv@отгынԓек:@U.V.tv@отгынԓе INTER-V ;        ! to make easier
-@U.V.tv@%{R%}иквичетык:@U.V.tv@%{R%}иквичет INTER-V ;        ! to water
+@U.V.tv@риквичетык:@U.V.tv@%{R%}иквичет INTER-V ;        ! to water
 @U.V.iv@ӄоранматык:@U.V.iv@ӄоранмат INTER-V ;        ! to kill a reindeer
 @U.V.iv@иръычвыттурэк:@U.V.iv@иръычвыттурэ INTER-V ;        ! to take off one’s upper fur coat
 @U.V.iv@таӄонайӈык:@U.V.iv@таӄонайӈ INTER-V ;        ! to sew trousers
@@ -4700,7 +4700,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ӈэючитык:@U.V.iv@ӈэючит INTER-V ;        ! to compete with s.o
 @U.V.iv@етык:@U.V.iv@ет INTER-V ;        ! to say goodbye
 @U.V.iv@в%{ы%}йиԓетык:@U.V.iv@в%{ы%}йиԓет INTER-V ;        ! to react
-@U.V.tv@%{R%}эргыпатык:@U.V.tv@%{R%}эргыпат INTER-V ;        ! to make well-known
+@U.V.tv@рэргыпатык:@U.V.tv@%{R%}эргыпат INTER-V ;        ! to make well-known
 @U.V.tv@тамайӈык:@U.V.tv@тамайӈ INTER-V ;        ! to fold
 @U.V.iv@а’ӄавэнвывэтгавык:@U.V.iv@а’ӄавэнвывэтгав INTER-V ;        ! to spy
 @U.V.iv@выръиткук:@U.V.iv@выръитку INTER-V ;        ! to weaken
@@ -4725,8 +4725,8 @@ LEXICON PRE-VERBS
 @U.V.iv@ԓейвыткувыԓгык:@U.V.iv@ԓейвыткувыԓг INTER-V ;        ! to visit each other
 @U.V.tv@танатчьанӈык:@U.V.tv@танатчьанӈ INTER-V ;        ! to propose to go to bed
 @U.V.iv@тэӈувик:@U.V.iv@тэӈуви INTER-V ;        ! to prepare a good meal
-@U.V.tv@%{R%}уԓвыткук:@U.V.tv@%{R%}уԓвытку INTER-V ;        ! to support, prop up
-@U.V.tv@%{R%}эмкумъэвык:@U.V.tv@%{R%}эмкумъэв INTER-V ;        ! to collect
+@U.V.tv@руԓвыткук:@U.V.tv@%{R%}уԓвытку INTER-V ;        ! to support, prop up
+@U.V.tv@рэмкумъэвык:@U.V.tv@%{R%}эмкумъэв INTER-V ;        ! to collect
 @U.V.iv@ӈытоӈӈок:@U.V.iv@ӈытоӈӈо INTER-V ;        ! before going out
 @U.V.iv@кытгынтынтомакатык:@U.V.iv@кытгынтынтомакат INTER-V ;        ! to come running
 @U.V.iv@ойӈысӄынтатык:@U.V.iv@ойӈысӄынтат INTER-V ;        ! to lose one’s balance
@@ -4769,7 +4769,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}витыткувык:@U.V.tv@р%{ы%}витыткув INTER-V ;        ! to make s.o
 @U.V.tv@чемгъоӈӈок:@U.V.tv@чемгъоӈӈо INTER-V ;        ! to invent
 @U.V.iv@а’ӄаԓьыпаак:@U.V.iv@а’ӄаԓьыпаа INTER-V ;        ! to make it up
-@U.V.tv@%{R%}эквэтэвык:@U.V.tv@%{R%}эквэтэв INTER-V ;        ! to start
+@U.V.tv@рэквэтэвык:@U.V.tv@%{R%}эквэтэв INTER-V ;        ! to start
 @U.V.iv@ԓ%{ы%}ԓепчитык:@U.V.iv@ԓ%{ы%}ԓепчит INTER-V ;        ! to exchange glances
 @U.V.iv@уннумэкэвык:@U.V.iv@уннумэкэв INTER-V ;        ! to gather firewood
 @U.V.tv@рунтымэвык:@U.V.tv@рунтымэв INTER-V ;        ! to calm
@@ -4834,7 +4834,7 @@ LEXICON PRE-VERBS
 @U.V.tv@тэнкэвнэтык:@U.V.tv@тэнкэвнэт INTER-V ;        ! to adjust
 @U.V.tv@рыԓгатык:@U.V.tv@рыԓгат INTER-V ;        ! to count
 @U.V.iv@ынкаткынатык:@U.V.iv@ынкаткынат INTER-V ;        ! to climb
-@U.V.tv@%{R%}инъытвэтык:@U.V.tv@%{R%}инъытвэт INTER-V ;        ! to make s.o
+@U.V.tv@ринъытвэтык:@U.V.tv@%{R%}инъытвэт INTER-V ;        ! to make s.o
 @U.V.iv@кувԓитԓьэтык:@U.V.iv@кувԓитԓьэт INTER-V ;        ! to whirl
 @U.V.iv@егъекыкватык:@U.V.iv@егъекыкват INTER-V ;        ! to dry up (of entrails)
 @U.V.iv@э’йӈэвыткувыԓгык:@U.V.iv@э’йӈэвыткувыԓг INTER-V ;        ! to call one another
@@ -4842,7 +4842,7 @@ LEXICON PRE-VERBS
 @U.V.iv@инэԓьуткувык:@U.V.iv@инэԓьуткув INTER-V ;        ! to trade
 @U.V.tv@р%{ы%}пынмэвык:@U.V.tv@р%{ы%}пынмэв INTER-V ;        ! ch
 @U.V.iv@ӄорантакватык:@U.V.iv@ӄорантакват INTER-V ;        ! to go and pasture a herd in the daytime
-@U.V.tv@%{R%}отԓык:@U.V.tv@%{R%}отԓ INTER-V ;        ! to advise
+@U.V.tv@ротԓык:@U.V.tv@%{R%}отԓ INTER-V ;        ! to advise
 @U.V.tv@э’ԓыткук:@U.V.tv@э’ԓытку INTER-V ;        ! to dig
 @U.V.iv@йъакоргавык:@U.V.iv@йъакоргав INTER-V ;        ! to rejoice
 @U.V.iv@н%{ы%}ватык:@U.V.iv@н%{ы%}ват INTER-V ;        ! to happen again
@@ -4852,7 +4852,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тыӄэԓпэрак:@U.V.iv@тыӄэԓпэра INTER-V ;        ! to shine
 @U.V.iv@арэтак:@U.V.iv@арэта INTER-V ;        ! to hurry when walking
 @U.V.iv@инэнԓиԓьэтык:@U.V.iv@инэнԓиԓьэт INTER-V ;        ! to furrow
-@U.V.tv@%{R%}ээтэтык:@U.V.tv@%{R%}ээтэт INTER-V ;        ! to assemble pieces (fur scraps)
+@U.V.tv@рээтэтык:@U.V.tv@%{R%}ээтэт INTER-V ;        ! to assemble pieces (fur scraps)
 @U.V.iv@йыпык:@U.V.iv@йып INTER-V ;        ! to be mad with food
 @U.V.iv@кымгытыткук:@U.V.iv@кымгытытку INTER-V ;        ! to wind, to twist
 @U.V.iv@м%{ы%}ԓычетык:@U.V.iv@м%{ы%}ԓычет INTER-V ;        ! to train
@@ -4864,11 +4864,11 @@ LEXICON PRE-VERBS
 @U.V.iv@ӄораеԓёк:@U.V.iv@ӄораеԓё INTER-V ;        ! to eat reindeer tongue
 @U.V.tv@рытъыԓыӈӈовык:@U.V.tv@рытъыԓыӈӈов INTER-V ;        ! to send down illness
 @U.V.iv@кыргэпык:@U.V.iv@кыргэп INTER-V ;        ! to put on dry clothes
-@U.V.tv@%{R%}иԓюԓьэвык:@U.V.tv@%{R%}иԓюԓьэв INTER-V ;        ! to move
+@U.V.tv@риԓюԓьэвык:@U.V.tv@%{R%}иԓюԓьэв INTER-V ;        ! to move
 @U.V.iv@тээӈӈэтык:@U.V.iv@тээӈӈэт INTER-V ;        ! to make a lamp
 @U.V.iv@выԓьиӈынӈэк:@U.V.iv@выԓьиӈынӈэ INTER-V ;        ! to catch a cold
 @U.V.tv@р%{ы%}чвачгынԓевык:@U.V.tv@р%{ы%}чвачгынԓев INTER-V ;        ! to turn
-@U.V.tv@%{R%}эйычгыръувык:@U.V.tv@%{R%}эйычгыръув INTER-V ;        ! to lift waves
+@U.V.tv@рэйычгыръувык:@U.V.tv@%{R%}эйычгыръув INTER-V ;        ! to lift waves
 @U.V.tv@ԓёнԓятвык:@U.V.tv@ԓёнԓятв INTER-V ;        ! to remove the fat
 @U.V.tv@тармачьэнэвнак:@U.V.tv@тармачьэнэвна INTER-V ;        ! to plunder
 @U.V.iv@ваараԓек:@U.V.iv@ваараԓе INTER-V ;        ! to attack from above
@@ -4877,7 +4877,7 @@ LEXICON PRE-VERBS
 @U.V.tv@ӄоԓетааӈык:@U.V.tv@ӄоԓетааӈ INTER-V ;        ! to mimic
 @U.V.iv@кыргонпатык:@U.V.iv@кыргонпат INTER-V ;        ! to stand a scarecrow
 @U.V.tv@р%{ы%}мык:@U.V.tv@р%{ы%}м INTER-V ;        ! to catch
-@U.V.tv@%{R%}оратвавӄаатык:@U.V.tv@%{R%}оратвавӄаат INTER-V ;        ! to spend a certain time
+@U.V.tv@роратвавӄаатык:@U.V.tv@%{R%}оратвавӄаат INTER-V ;        ! to spend a certain time
 @U.V.tv@пэвэԓитык:@U.V.tv@пэвэԓит INTER-V ;        ! ытԓыгэ нинэпэвэԓитӄин туркупрэн
 @U.V.tv@иԓгэтык:@U.V.tv@иԓгэт INTER-V ;        ! to tie
 @U.V.tv@раратвыӈӈык:@U.V.tv@раратвыӈӈ INTER-V ;        ! to try to take in
@@ -4904,7 +4904,7 @@ LEXICON PRE-VERBS
 @U.V.tv@выԓпаткок:@U.V.tv@выԓпатко INTER-V ;        ! to shovel
 @U.V.iv@расӄыткынатык:@U.V.iv@расӄыткынат INTER-V ;        ! to climb on a roof
 @U.V.iv@йъотвэвык:@U.V.iv@йъотвэв INTER-V ;        ! to send the blizzard
-@U.V.tv@%{R%}эмӈоԓявык:@U.V.tv@%{R%}эмӈоԓяв INTER-V ;        ! to cause anguish
+@U.V.tv@рэмӈоԓявык:@U.V.tv@%{R%}эмӈоԓяв INTER-V ;        ! to cause anguish
 @U.V.iv@вэԓвавык:@U.V.iv@вэԓвав INTER-V ;        ! to release attention
 @U.V.iv@оттынтак:@U.V.iv@оттынта INTER-V ;        ! to fetch wood
 @U.V.tv@м%{ы%}ԓюк:@U.V.tv@м%{ы%}ԓю INTER-V ;        ! to delouse
@@ -4937,7 +4937,7 @@ LEXICON PRE-VERBS
 @U.V.tv@чуутэтык:@U.V.tv@чуутэт INTER-V ;        ! to dress someone in an upper suit
 @U.V.iv@тэгинӈэтык:@U.V.iv@тэгинӈэт INTER-V ;        ! to kill a man
 @U.V.iv@иквичиԓгэтык:@U.V.iv@иквичиԓгэт INTER-V ;        ! to drink a little
-@U.V.tv@%{R%}уԓвык:@U.V.tv@%{R%}уԓв INTER-V ;        ! to hold out
+@U.V.tv@руԓвык:@U.V.tv@%{R%}уԓв INTER-V ;        ! to hold out
 @U.V.iv@эгынток:@U.V.iv@эгынто INTER-V ;        ! to refresh oneself
 @U.V.iv@кычьымавэръэпык:@U.V.iv@кычьымавэръэп INTER-V ;        ! to array o.s
 @U.V.iv@ӈаквъэтвак:@U.V.iv@ӈаквъэтва INTER-V ;        ! to be a widower
@@ -4989,7 +4989,7 @@ LEXICON PRE-VERBS
 @U.V.iv@м%{ы%}ымгэтык:@U.V.iv@м%{ы%}ымгэт INTER-V ;        ! to bustle about
 @U.V.iv@ымысӄавык:@U.V.iv@ымысӄав INTER-V ;        ! to go up (of the level of a river)
 @U.V.iv@упынпэтык:@U.V.iv@упынпэт INTER-V ;        ! to stick pegs
-@U.V.tv@%{R%}ъэтйивэвык:@U.V.tv@%{R%}ъэтйивэв INTER-V ;        ! to contradict
+@U.V.tv@ръэтйивэвык:@U.V.tv@%{R%}ъэтйивэв INTER-V ;        ! to contradict
 @U.V.iv@аромкэйпык:@U.V.iv@аромкэйп INTER-V ;        ! to begin to bustle
 @U.V.iv@кэгытрэтръук:@U.V.iv@кэгытрэтръу INTER-V ;        ! to faint
 @U.V.iv@томгатык:@U.V.iv@томгат INTER-V ;        ! to ferment
@@ -5034,10 +5034,10 @@ LEXICON PRE-VERBS
 @U.V.tv@кивԓыпириткук:@U.V.tv@кивԓыпиритку INTER-V ;        ! to crush clots of blood
 @U.V.iv@инэнрэԓевыткук:@U.V.iv@инэнрэԓевытку INTER-V ;        ! to bring evil on s.o
 @U.V.iv@йъэтвык:@U.V.iv@йъэтв INTER-V ;        ! to clear (of the sky)
-@U.V.tv@%{R%}эйичгэтык:@U.V.tv@%{R%}эйичгэт INTER-V ;        ! to make sth
+@U.V.tv@рэйичгэтык:@U.V.tv@%{R%}эйичгэт INTER-V ;        ! to make sth
 @U.V.tv@танайыԓгывык:@U.V.tv@танайыԓгыв INTER-V ;        ! to threaten
 @U.V.iv@выквачьатык:@U.V.iv@выквачьат INTER-V ;        ! to splutter
-@U.V.tv@%{R%}иттиԓевык:@U.V.tv@%{R%}иттиԓев INTER-V ;        ! to collide
+@U.V.tv@риттиԓевык:@U.V.tv@%{R%}иттиԓев INTER-V ;        ! to collide
 @U.V.iv@рыръамынӈавык:@U.V.iv@рыръамынӈав INTER-V ;        ! to freeze
 @U.V.iv@ӄонӄаԓятык:@U.V.iv@ӄонӄаԓят INTER-V ;        ! to reach the second part of the journey
 @U.V.tv@риԓик:@U.V.tv@риԓи INTER-V ;        ! to shroud
@@ -5089,7 +5089,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}чеэкэвык:@U.V.tv@р%{ы%}чеэкэв INTER-V ;        ! to unite
 @U.V.tv@й%{ы%}кыргатык:@U.V.tv@й%{ы%}кыргат INTER-V ;        ! to abuse
 @U.V.iv@пывэнӈэк:@U.V.iv@пывэнӈэ INTER-V ;        ! to remain (of fat)
-@U.V.tv@%{R%}этчаӄавык:@U.V.tv@%{R%}этчаӄав INTER-V ;        ! to make well-known
+@U.V.tv@рэтчаӄавык:@U.V.tv@%{R%}этчаӄав INTER-V ;        ! to make well-known
 @U.V.iv@ч%{ы%}вачгынԓек:@U.V.iv@ч%{ы%}вачгынԓе INTER-V ;        ! to turn round
 @U.V.iv@кочыраткок:@U.V.iv@кочыратко INTER-V ;        ! to play cards
 @U.V.tv@г%{ы%}йивыԓьэтык:@U.V.tv@г%{ы%}йивыԓьэт INTER-V ;        ! to lead
@@ -5154,7 +5154,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ачымъек:@U.V.iv@ачымъе INTER-V ;        ! to kill two animals
 @U.V.iv@йъатык:@U.V.iv@йъат INTER-V ;        ! to get wet
 @U.V.iv@кыкватъоԓёк:@U.V.iv@кыкватъоԓё INTER-V ;        ! to eat dried meat
-@U.V.tv@%{R%}интысӄивык:@U.V.tv@%{R%}интысӄив INTER-V ;        ! to be tossed
+@U.V.tv@ринтысӄивык:@U.V.tv@%{R%}интысӄив INTER-V ;        ! to be tossed
 @U.V.iv@нирык:@U.V.iv@нир INTER-V ;        ! to grunt (of a mother calling its fawn, or of a male calling a female)
 @U.V.iv@воԓӄытвэӄамэтвак:@U.V.iv@воԓӄытвэӄамэтва INTER-V ;        ! to have supper
 @U.V.iv@рамэгԓетык:@U.V.iv@рамэгԓет INTER-V ;        ! to do the housework
@@ -5175,7 +5175,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тинэнъэӄэвык:@U.V.iv@тинэнъэӄэв INTER-V ;        ! to terrorize
 @U.V.iv@ырынпыткок:@U.V.iv@ырынпытко INTER-V ;        ! to behave rudely
 @U.V.tv@и'ԓгыттурэк:@U.V.tv@и'ԓгыттурэ INTER-V ;        ! to untie
-@U.V.tv@%{R%}иԓюткук:@U.V.tv@%{R%}иԓютку INTER-V ;        ! to move
+@U.V.tv@риԓюткук:@U.V.tv@%{R%}иԓютку INTER-V ;        ! to move
 @U.V.iv@увъэтык:@U.V.iv@увъэт INTER-V ;        ! то come (of sth
 @U.V.iv@pыԓтэԓытвак:@U.V.iv@pыԓтэԓытва INTER-V ;        ! to lie
 @U.V.iv@йъиԓкээвръук:@U.V.iv@йъиԓкээвръу INTER-V ;        ! to break out (of the thunder)
@@ -5278,7 +5278,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тэрмэӈык:@U.V.iv@тэрмэӈ INTER-V ;        ! to boast of one’s strength
 @U.V.tv@эпыԓмэркивык:@U.V.tv@эпыԓмэркив INTER-V ;        ! to disturb
 @U.V.tv@р%{ы%}ттувык:@U.V.tv@р%{ы%}ттув INTER-V ;        ! to give to drink urine (of reindeer)
-@U.V.tv@%{R%}этԓявык:@U.V.tv@%{R%}этԓяв INTER-V ;        ! to rest s.o
+@U.V.tv@рэтԓявык:@U.V.tv@%{R%}этԓяв INTER-V ;        ! to rest s.o
 @U.V.iv@винвэквэтръук:@U.V.iv@винвэквэтръу INTER-V ;        ! to disappear (of several persons)
 @U.V.iv@тутъытвик:@U.V.iv@тутъытви INTER-V ;        ! to get mad
 @U.V.iv@ԓыԓячгатык:@U.V.iv@ԓыԓячгат INTER-V ;        ! to wink
@@ -5306,7 +5306,7 @@ LEXICON PRE-VERBS
 @U.V.iv@пиԓгук:@U.V.iv@пиԓгу INTER-V ;        ! to get hoarse
 @U.V.tv@гаймаӈгэтак:@U.V.tv@гаймаӈгэта INTER-V ;        ! to consider s.o
 @U.V.iv@мъиръук:@U.V.iv@мъиръу INTER-V ;        ! to break (of the ice)
-@U.V.tv@%{R%}иттиԓетык:@U.V.tv@%{R%}иттиԓет INTER-V ;        ! to hurt a part of one’s body
+@U.V.tv@риттиԓетык:@U.V.tv@%{R%}иттиԓет INTER-V ;        ! to hurt a part of one’s body
 @U.V.tv@ръэмуԓевык:@U.V.tv@ръэмуԓев INTER-V ;        ! to vanquish
 @U.V.iv@урэтыԓек:@U.V.iv@урэтыԓе INTER-V ;        ! go a long time
 @U.V.tv@рэԓкыԓӈык:@U.V.tv@рэԓкыԓӈ INTER-V ;        ! to try to recognize
@@ -5366,7 +5366,7 @@ LEXICON PRE-VERBS
 @U.V.iv@мыԓытвэк:@U.V.iv@мыԓытвэ INTER-V ;        ! to become agile
 @U.V.iv@пириткучитык:@U.V.iv@пириткучит INTER-V ;        ! to grasp each other
 @U.V.iv@тапӄантак:@U.V.iv@тапӄанта INTER-V ;        ! to go to the spit (near the shore)
-@U.V.tv@%{R%}эймэвык:@U.V.tv@%{R%}эймэв INTER-V ;        ! to lead
+@U.V.tv@рэймэвык:@U.V.tv@%{R%}эймэв INTER-V ;        ! to lead
 @U.V.iv@гатгаткок:@U.V.iv@гатгатко INTER-V ;        ! to carve with an adze
 @U.V.tv@рэнаԓванӈык:@U.V.tv@рэнаԓванӈ INTER-V ;        ! to try to expel
 @U.V.iv@ӄивъетъыԓык:@U.V.iv@ӄивъетъыԓ INTER-V ;        ! to be feverish
@@ -5505,7 +5505,7 @@ LEXICON PRE-VERBS
 @U.V.iv@пэкуԓымнэк:@U.V.iv@пэкуԓымнэ INTER-V ;        ! to grind a woman’s knife
 @U.V.iv@тэвиԓӈык:@U.V.iv@тэвиԓӈ INTER-V ;        ! to trade
 @U.V.iv@копрагтык:@U.V.iv@копрагт INTER-V ;        ! to go and bring back one’s net
-@U.V.tv@%{R%}иӄӄэвык:@U.V.tv@%{R%}иӄӄэв INTER-V ;        ! to cool
+@U.V.tv@риӄӄэвык:@U.V.tv@%{R%}иӄӄэв INTER-V ;        ! to cool
 @U.V.tv@т%{ы%}ниткук:@U.V.tv@т%{ы%}нитку INTER-V ;        ! to patch
 @U.V.iv@кытыԓӄыторак:@U.V.iv@кытыԓӄытора INTER-V ;        ! to soften
 @U.V.iv@йыԓгэтык:@U.V.iv@йыԓгэт INTER-V ;        ! to knit (of bones)
@@ -5567,13 +5567,13 @@ LEXICON PRE-VERBS
 @U.V.iv@камэчгавык:@U.V.iv@камэчгав INTER-V ;        ! to disappear, to go far away
 @U.V.tv@мэтъанрамавык:@U.V.tv@мэтъанрамав INTER-V ;        ! to slice beforehand
 @U.V.tv@р%{ы%}рэсӄивэтык:@U.V.tv@р%{ы%}рэсӄивэт INTER-V ;        ! to bring in
-@U.V.tv@%{R%}эрык:@U.V.tv@%{R%}эр INTER-V ;        ! to roast, to grill
+@U.V.tv@рэрык:@U.V.tv@%{R%}эр INTER-V ;        ! to roast, to grill
 @U.V.iv@пэгыттик:@U.V.iv@пэгытти INTER-V ;        ! celebrate the rite of the morning star at the end of the polar night
 @U.V.iv@тэвуйвуйӈык:@U.V.iv@тэвуйвуйӈ INTER-V ;        ! to build a fortified village
 @U.V.iv@инэгнинтыткук:@U.V.iv@инэгнинтытку INTER-V ;        ! to make an offering
 @U.V.iv@кытгынтыятык:@U.V.iv@кытгынтыят INTER-V ;        ! to come running
 @U.V.iv@тымӈэԓяйвык:@U.V.iv@тымӈэԓяйв INTER-V ;        ! to wander
-@U.V.tv@%{R%}ъивэпык:@U.V.tv@%{R%}ъивэп INTER-V ;        ! to stretch
+@U.V.tv@ръивэпык:@U.V.tv@%{R%}ъивэп INTER-V ;        ! to stretch
 @U.V.iv@инэнвииԓевык:@U.V.iv@инэнвииԓев INTER-V ;        ! to cast a shadow
 @U.V.iv@вусӄынкиръук:@U.V.iv@вусӄынкиръу INTER-V ;        ! to come (of the period of long nights)
 @U.V.tv@таӈынтэнмавык:@U.V.tv@таӈынтэнмав INTER-V ;        ! to organize
@@ -5674,7 +5674,7 @@ LEXICON PRE-VERBS
 @U.V.tv@ръиӈыпэтык:@U.V.tv@ръиӈыпэт INTER-V ;        ! to moor
 @U.V.iv@риӈэвык:@U.V.iv@риӈэв INTER-V ;        ! to rejoice
 @U.V.iv@пэгчак:@U.V.iv@пэгча INTER-V ;        ! to knock
-@U.V.tv@%{R%}эпырӄагтавык:@U.V.tv@%{R%}эпырӄагтав INTER-V ;        ! to spray
+@U.V.tv@рэпырӄагтавык:@U.V.tv@%{R%}эпырӄагтав INTER-V ;        ! to spray
 @U.V.tv@мъамэнранъававык:@U.V.tv@мъамэнранъавав INTER-V ;        ! то raise the cock /of a gun/
 @U.V.tv@р%{ы%}въeнтэвык:@U.V.tv@р%{ы%}въeнтэв INTER-V ;        ! to perforate
 @U.V.iv@тыттэтысӄычетык:@U.V.iv@тыттэтысӄычет INTER-V ;        ! ch
@@ -5684,7 +5684,7 @@ LEXICON PRE-VERBS
 @U.V.tv@чигԓепык:@U.V.tv@чигԓеп INTER-V ;        ! to pull sharply
 @U.V.tv@атӄатык:@U.V.tv@атӄат INTER-V ;        ! to miss
 @U.V.iv@инэйӈэтык:@U.V.iv@инэйӈэт INTER-V ;        ! to load
-@U.V.tv@%{R%}аԓянтатык:@U.V.tv@%{R%}аԓянтат INTER-V ;        ! to pour out
+@U.V.tv@раԓянтатык:@U.V.tv@%{R%}аԓянтат INTER-V ;        ! to pour out
 @U.V.iv@йыӄгаԓяк:@U.V.iv@йыӄгаԓя INTER-V ;        ! to flash by
 @U.V.iv@вантытвак:@U.V.iv@вантытва INTER-V ;        ! to be open
 @U.V.tv@кавмаԓек:@U.V.tv@кавмаԓе INTER-V ;        ! to stroke
@@ -5707,7 +5707,7 @@ LEXICON PRE-VERBS
 @U.V.tv@таӈрытрэԓык:@U.V.tv@таӈрытрэԓ INTER-V ;        ! to lean
 @U.V.iv@ԓыԓенчьувэвык:@U.V.iv@ԓыԓенчьувэв INTER-V ;        ! to screw up one’s eyes
 @U.V.iv@р%{ы%}кэватык:@U.V.iv@р%{ы%}кэват INTER-V ;        ! to match
-@U.V.tv@%{R%}эймыкэӈэвык:@U.V.tv@%{R%}эймыкэӈэв INTER-V ;        ! to make s.o
+@U.V.tv@рэймыкэӈэвык:@U.V.tv@%{R%}эймыкэӈэв INTER-V ;        ! to make s.o
 @U.V.tv@рымыԓюк:@U.V.tv@рымыԓю INTER-V ;        ! to lick
 @U.V.iv@и'вивык:@U.V.iv@и'вив INTER-V ;        ! to order
 @U.V.iv@тъымымчеткук:@U.V.iv@тъымымчетку INTER-V ;        ! to break one’s bones
@@ -5792,7 +5792,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}ёпатык:@U.V.tv@р%{ы%}ёпат INTER-V ;        ! to put
 @U.V.iv@мыӈэпэтык:@U.V.iv@мыӈэпэт INTER-V ;        ! to joke
 @U.V.tv@вэтгытрэԓык:@U.V.tv@вэтгытрэԓ INTER-V ;        ! to release
-@U.V.tv@%{R%}ъимпэтык:@U.V.tv@%{R%}ъимпэт INTER-V ;        ! son nez)
+@U.V.tv@ръимпэтык:@U.V.tv@%{R%}ъимпэт INTER-V ;        ! son nez)
 @U.V.iv@тымӈэгэԓытвак:@U.V.iv@тымӈэгэԓытва INTER-V ;        ! to be or not to be icebound
 @U.V.tv@рэгыттэӈык:@U.V.tv@рэгыттэӈ INTER-V ;        ! to try to fool s.o
 @U.V.iv@а’ӄаԓенъёк:@U.V.iv@а’ӄаԓенъё INTER-V ;        ! to be startled
@@ -5878,7 +5878,7 @@ LEXICON PRE-VERBS
 @U.V.iv@рыԓгытвак:@U.V.iv@рыԓгытва INTER-V ;        ! to number
 @U.V.iv@э’ӈтааӄок:@U.V.iv@э’ӈтааӄо INTER-V ;        ! to take snuff
 @U.V.iv@манаӈавык:@U.V.iv@манаӈав INTER-V ;        ! thinner (to become)
-@U.V.tv@%{R%}эръэвык:@U.V.tv@%{R%}эръэв INTER-V ;        ! to infuse
+@U.V.tv@рэръэвык:@U.V.tv@%{R%}эръэв INTER-V ;        ! to infuse
 @U.V.iv@ииԓгэтык:@U.V.iv@ииԓгэт INTER-V ;        ! to go away
 @U.V.tv@р%{ы%}ӄупӄэвык:@U.V.tv@р%{ы%}ӄупӄэв INTER-V ;        ! to starve
 @U.V.iv@ӈэԓгырватык:@U.V.iv@ӈэԓгырват INTER-V ;        ! to cut straps out of skins
@@ -5921,12 +5921,12 @@ LEXICON PRE-VERBS
 @U.V.iv@ӈырапытвак:@U.V.iv@ӈырапытва INTER-V ;        ! to kneel
 @U.V.iv@рэтԓёк:@U.V.iv@рэтԓё INTER-V ;        ! to put one’s arms in one’s bosom
 @U.V.iv@йыӄатак:@U.V.iv@йыӄата INTER-V ;        ! to rush
-@U.V.tv@%{R%}амэчавык:@U.V.tv@%{R%}амэчав INTER-V ;        ! to cover
+@U.V.tv@рамэчавык:@U.V.tv@%{R%}амэчав INTER-V ;        ! to cover
 @U.V.iv@паӈъэвӈытонвэԓык:@U.V.iv@паӈъэвӈытонвэԓ INTER-V ;        ! to halt for rest
 @U.V.tv@ёк:@U.V.tv@ё INTER-V ;        ! to put in prison
 @U.V.tv@р%{ы%}чымӄэттурэвык:@U.V.tv@р%{ы%}чымӄэттурэв INTER-V ;        ! to disentangle
 @U.V.iv@чегъёргатык:@U.V.iv@чегъёргат INTER-V ;        ! to get excited
-@U.V.tv@%{R%}онмавык:@U.V.tv@%{R%}онмав INTER-V ;        ! to deepen
+@U.V.tv@ронмавык:@U.V.tv@%{R%}онмав INTER-V ;        ! to deepen
 @U.V.iv@инэԓьуткук:@U.V.iv@инэԓьутку INTER-V ;        ! to find
 @U.V.iv@инэнвиԓыткувык:@U.V.iv@инэнвиԓыткув INTER-V ;        ! to trade
 @U.V.iv@й%{ы%}ӄуйгэтык:@U.V.iv@й%{ы%}ӄуйгэт INTER-V ;        ! to adjust a handle to a knife
@@ -5956,7 +5956,7 @@ LEXICON PRE-VERBS
 @U.V.iv@э’чойпык:@U.V.iv@э’чойп INTER-V ;        ! to thrash about
 @U.V.tv@риткэнйивык:@U.V.tv@риткэнйив INTER-V ;        ! to steal a lot
 @U.V.iv@йимик:@U.V.iv@йими INTER-V ;        ! to become dry
-@U.V.tv@%{R%}эквэвык:@U.V.tv@%{R%}эквэв INTER-V ;        ! to start
+@U.V.tv@рэквэвык:@U.V.tv@%{R%}эквэв INTER-V ;        ! to start
 @U.V.iv@э’ԓевык:@U.V.iv@э’ԓев INTER-V ;        ! to put a bandage
 @U.V.iv@ӄытвинтэтык:@U.V.iv@ӄытвинтэт INTER-V ;        ! to be quite cold
 @U.V.iv@тэнйиԓетык:@U.V.iv@тэнйиԓет INTER-V ;        ! to be a phrase-monger
@@ -6043,14 +6043,14 @@ LEXICON PRE-VERBS
 @U.V.iv@рэӄыткук:@U.V.iv@рэӄытку INTER-V ;        ! to be ill (not to say to fear)
 @U.V.tv@р%{ы%}чыганчавык:@U.V.tv@р%{ы%}чыганчав INTER-V ;        ! to distribute
 @U.V.tv@таа'койӈыԓвэк:@U.V.tv@таа'койӈыԓвэ INTER-V ;        ! to smoke a pipe together with another person, not to smoke a pipe to the bottom
-@U.V.tv@%{R%}омаатык:@U.V.tv@%{R%}омаат INTER-V ;        ! to warm stoke
+@U.V.tv@ромаатык:@U.V.tv@%{R%}омаат INTER-V ;        ! to warm stoke
 @U.V.iv@о'птынпавык:@U.V.iv@о'птынпав INTER-V ;        ! to grow decrepit
 @U.V.iv@ӄыԓмавык:@U.V.iv@ӄыԓмав INTER-V ;        ! to be cold
 @U.V.iv@камԓеԓёйпык:@U.V.iv@камԓеԓёйп INTER-V ;        ! to put on a kemlilun (light protecting combination of the woman dress)
 @U.V.iv@ыԓпытаԓяк:@U.V.iv@ыԓпытаԓя INTER-V ;        ! to slap s.o.’s face
 @U.V.iv@кавытвак:@U.V.iv@кавытва INTER-V ;        ! to be in one’s element
 @U.V.iv@э’ӈтэвԓяк:@U.V.iv@э’ӈтэвԓя INTER-V ;        ! to snort
-@U.V.tv@%{R%}иӄӄэръувык:@U.V.tv@%{R%}иӄӄэръув INTER-V ;        ! ch
+@U.V.tv@риӄӄэръувык:@U.V.tv@%{R%}иӄӄэръув INTER-V ;        ! ch
 @U.V.tv@вэгыԓкук:@U.V.tv@вэгыԓку INTER-V ;        ! to carve
 @U.V.tv@п%{ы%}ӈыԓтэԓык:@U.V.tv@п%{ы%}ӈыԓтэԓ INTER-V ;        ! to tell
 @U.V.tv@ръырэвык:@U.V.tv@ръырэв INTER-V ;        ! to puddle
@@ -6070,9 +6070,9 @@ LEXICON PRE-VERBS
 @U.V.iv@чьувэтык:@U.V.iv@чьувэт INTER-V ;        ! to contract
 @U.V.tv@рыйирык:@U.V.tv@рыйир INTER-V ;        ! to organize a funeral repast
 @U.V.tv@э’ннынкавравык:@U.V.tv@э’ннынкаврав INTER-V ;        ! to wring s.o.’s neck
-@U.V.tv@%{R%}ъаԓыгатгапык:@U.V.tv@%{R%}ъаԓыгатгап INTER-V ;        ! to strike with an axe
+@U.V.tv@ръаԓыгатгапык:@U.V.tv@%{R%}ъаԓыгатгап INTER-V ;        ! to strike with an axe
 @U.V.iv@ԓыгаӈэк:@U.V.iv@ԓыгаӈэ INTER-V ;        ! ch
-@U.V.iv@%{R%}ъыԓик:@U.V.iv@%{R%}ъыԓи INTER-V ;        ! to move
+@U.V.iv@ръыԓик:@U.V.iv@%{R%}ъыԓи INTER-V ;        ! to move
 @U.V.tv@р%{ы%}рынгиивык:@U.V.tv@р%{ы%}рынгиив INTER-V ;        ! to meet
 @U.V.tv@тапатгыргыӈык:@U.V.tv@тапатгыргыӈ INTER-V ;        ! to pierce
 @U.V.iv@анӈынток:@U.V.iv@анӈынто INTER-V ;        ! to wake up from his trance
@@ -6091,7 +6091,7 @@ LEXICON PRE-VERBS
 @U.V.iv@иԓкэтык:@U.V.iv@иԓкэт INTER-V ;        ! to shut one’s eyes
 @U.V.iv@рамагатык:@U.V.iv@рамагат INTER-V ;        ! to settle on the seashore
 @U.V.tv@рыйимэвык:@U.V.tv@рыйимэв INTER-V ;        ! to soak a reindeer skin for processing
-@U.V.tv@%{R%}оԓы:@U.V.tv@%{R%}оԓ INTER-V ;        ! to gain the upper hand
+@U.V.tv@роԓы:@U.V.tv@%{R%}оԓ INTER-V ;        ! to gain the upper hand
 @U.V.tv@эԓгымаԓек:@U.V.tv@эԓгымаԓе INTER-V ;        ! to wipe
 @U.V.iv@ԓютэк:@U.V.iv@ԓютэ INTER-V ;        ! urinate (of women)
 @U.V.iv@ыӈэнатык:@U.V.iv@ыӈэнат INTER-V ;        ! to blow from the south
@@ -6130,7 +6130,7 @@ LEXICON PRE-VERBS
 @U.V.tv@кытгынтыгаԓяк:@U.V.tv@кытгынтыгаԓя INTER-V ;        ! to outdistance
 @U.V.iv@р%{ы%}кынмаԓчетавык:@U.V.iv@р%{ы%}кынмаԓчетав INTER-V ;        ! to vie
 @U.V.tv@р%{ы%}пйырэвык:@U.V.tv@р%{ы%}пйырэв INTER-V ;        ! to fasten together
-@U.V.tv@%{R%}эмгутэтык:@U.V.tv@%{R%}эмгутэт INTER-V ;        ! to take in tow
+@U.V.tv@рэмгутэтык:@U.V.tv@%{R%}эмгутэт INTER-V ;        ! to take in tow
 @U.V.tv@й%{ы%}патытвак:@U.V.tv@й%{ы%}патытва INTER-V ;        ! to stand sth., to settle
 @U.V.iv@тинэнвичыӈык:@U.V.iv@тинэнвичыӈ INTER-V ;        ! to set someone against
 @U.V.iv@ԓевԓевэтык:@U.V.iv@ԓевԓевэт INTER-V ;        ! to joke
@@ -6147,7 +6147,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ԓинтъыԓык:@U.V.iv@ԓинтъыԓ INTER-V ;        ! to be afflicted
 @U.V.iv@ачгытатыткок:@U.V.iv@ачгытатытко INTER-V ;        ! to roll
 @U.V.iv@в%{ы%}квак:@U.V.iv@в%{ы%}ква INTER-V ;        ! to run into
-@U.V.tv@%{R%}экэвкивык:@U.V.tv@%{R%}экэвкив INTER-V ;        ! to miss one’s aim
+@U.V.tv@рэкэвкивык:@U.V.tv@%{R%}экэвкив INTER-V ;        ! to miss one’s aim
 @U.V.iv@tорӄэвытатык:@U.V.iv@tорӄэвытат INTER-V ;        ! to cover abundantly with verdure
 @U.V.iv@э'ӄэчипчыӈэтык:@U.V.iv@э'ӄэчипчыӈэт INTER-V ;        ! to feel a lack of sth
 @U.V.tv@рэмытԓёвык:@U.V.tv@рэмытԓёв INTER-V ;        ! to ship water
@@ -6202,7 +6202,7 @@ LEXICON PRE-VERBS
 @U.V.iv@виԓьегук:@U.V.iv@виԓьегу INTER-V ;        ! to eat sour sea mammal flippers
 @U.V.iv@йиԓыниԓюк:@U.V.iv@йиԓыниԓю INTER-V ;        ! to chatter
 @U.V.iv@тэӄуԓьэӈык:@U.V.iv@тэӄуԓьэӈ INTER-V ;        ! to settle (of soot)
-@U.V.tv@%{R%}эмъаравык:@U.V.tv@%{R%}эмъарав INTER-V ;        ! to delay, to brake
+@U.V.tv@рэмъаравык:@U.V.tv@%{R%}эмъарав INTER-V ;        ! to delay, to brake
 @U.V.iv@р%{ы%}ӄувэвык:@U.V.iv@р%{ы%}ӄувэв INTER-V ;        ! to narrow
 @U.V.iv@эӈэӈыԓьычитык:@U.V.iv@эӈэӈыԓьычит INTER-V ;        ! play at shamans
 @U.V.tv@кэттыватык:@U.V.tv@кэттыват INTER-V ;        ! to undress, to strip s.o
@@ -6221,7 +6221,7 @@ LEXICON PRE-VERBS
 @U.V.iv@пԓегтывэк:@U.V.iv@пԓегтывэ INTER-V ;        ! to take shoes off
 @U.V.iv@тъымӄупӄэтык:@U.V.iv@тъымӄупӄэт INTER-V ;        ! to be unwell
 @U.V.iv@пытӄыйыӄэвык:@U.V.iv@пытӄыйыӄэв INTER-V ;        ! to increase one’s speed
-@U.V.tv@%{R%}анӈатык:@U.V.tv@%{R%}анӈат INTER-V ;        ! to transport
+@U.V.tv@ранӈатык:@U.V.tv@%{R%}анӈат INTER-V ;        ! to transport
 @U.V.tv@р%{ы%}вэнтэтык:@U.V.tv@р%{ы%}вэнтэт INTER-V ;        ! to open
 @U.V.iv@ӄавээръынтак:@U.V.iv@ӄавээръынта INTER-V ;        ! to fetch gifts
 @U.V.iv@гаԓгаргок:@U.V.iv@гаԓгарго INTER-V ;        ! to pluck
@@ -6312,7 +6312,7 @@ LEXICON PRE-VERBS
 @U.V.tv@рытыԓечьынӈэвык:@U.V.tv@рытыԓечьынӈэв INTER-V ;        ! to mechanize
 @U.V.iv@танчемгъотвак:@U.V.iv@танчемгъотва INTER-V ;        ! to be in a good mood
 @U.V.iv@выԓгыӄаанматык:@U.V.iv@выԓгыӄаанмат INTER-V ;        ! to celebrate the rite of slaughtering of thin-skinned reindeer
-@U.V.tv@%{R%}yк:@U.V.tv@%{R%}y INTER-V ;        ! to eat
+@U.V.tv@рyк:@U.V.tv@%{R%}y INTER-V ;        ! to eat
 @U.V.tv@пирик:@U.V.tv@пири INTER-V ;        ! produce
 @U.V.iv@ԓегынӈэк:@U.V.iv@ԓегынӈэ INTER-V ;        ! to be covered with maggots
 @U.V.iv@кычьымэвык:@U.V.iv@кычьымэв INTER-V ;        ! to rejoice
@@ -6320,7 +6320,7 @@ LEXICON PRE-VERBS
 @U.V.iv@туттымиԓгыӈык:@U.V.iv@туттымиԓгыӈ INTER-V ;        ! to make a wooden fire set
 @U.V.tv@р%{ы%}чьумэткувык:@U.V.tv@р%{ы%}чьумэткув INTER-V ;        ! to make s.o
 @U.V.tv@риԓӄыттъык:@U.V.tv@риԓӄыттъ INTER-V ;        ! to empty the contents of a slaughtered reindeer stomach
-@U.V.tv@%{R%}атӄавык:@U.V.tv@%{R%}атӄав INTER-V ;        ! to make s.o.
+@U.V.tv@ратӄавык:@U.V.tv@%{R%}атӄав INTER-V ;        ! to make s.o.
 @U.V.iv@витыткуткук:@U.V.iv@витыткутку INTER-V ;        ! to twinkle at times
 @U.V.iv@рэнъытвэяаӈык:@U.V.iv@рэнъытвэяаӈ INTER-V ;        ! to want to be rapid
 @U.V.iv@ынпэвыԓгэтык:@U.V.iv@ынпэвыԓгэт INTER-V ;        ! to look older
@@ -6426,7 +6426,7 @@ LEXICON PRE-VERBS
 @U.V.tv@т%{ы%}мык:@U.V.tv@т%{ы%}м INTER-V ;        ! to kill
 @U.V.iv@инэнтэйӈэтык:@U.V.iv@инэнтэйӈэт INTER-V ;        ! to feed
 @U.V.tv@рытвэтчавык:@U.V.tv@рытвэтчав INTER-V ;        ! to stand
-@U.V.tv@%{R%}ъумэвык:@U.V.tv@%{R%}ъумэв INTER-V ;        ! to enlarge
+@U.V.tv@ръумэвык:@U.V.tv@%{R%}ъумэв INTER-V ;        ! to enlarge
 @U.V.iv@тэгрык:@U.V.iv@тэгр INTER-V ;        ! to throw a spear or a harpoon
 @U.V.iv@энакэтъатык:@U.V.iv@энакэтъат INTER-V ;        ! to recollect
 @U.V.iv@мыкыԓтэтык:@U.V.iv@мыкыԓтэт INTER-V ;        ! to be superfluous, too numerous
@@ -6436,7 +6436,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ынатэԓгыгэчек:@U.V.iv@ынатэԓгыгэче INTER-V ;        ! to go and gather leaves of knotweed
 @U.V.iv@гынникгиԓик:@U.V.iv@гынникгиԓи INTER-V ;        ! to hunt
 @U.V.iv@тагъеӈыӈӈок:@U.V.iv@тагъеӈыӈӈо INTER-V ;        ! to catch a cold
-@U.V.tv@%{R%}эрмэвык:@U.V.tv@%{R%}эрмэв INTER-V ;        ! to speed up
+@U.V.tv@рэрмэвык:@U.V.tv@%{R%}эрмэв INTER-V ;        ! to speed up
 @U.V.tv@п%{ы%}ԓёк:@U.V.tv@п%{ы%}ԓё INTER-V ;        ! то polish
 @U.V.tv@ринъэнӈык:@U.V.tv@ринъэнӈ INTER-V ;        ! to break down
 @U.V.tv@ӈэвук:@U.V.tv@ӈэву INTER-V ;        ! to take away s.o.’s wife
@@ -6470,7 +6470,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ёргыпык:@U.V.iv@ёргып INTER-V ;        ! to go mad
 @U.V.iv@вуԓвэтык:@U.V.iv@вуԓвэт INTER-V ;        ! to stand across
 @U.V.tv@ринник:@U.V.tv@ринни INTER-V ;        ! to tie up with straps
-@U.V.tv@%{R%}айыԓгавык:@U.V.tv@%{R%}айыԓгав INTER-V ;        ! to frighten
+@U.V.tv@райыԓгавык:@U.V.tv@%{R%}айыԓгав INTER-V ;        ! to frighten
 @U.V.iv@риӈэԓейвык:@U.V.iv@риӈэԓейв INTER-V ;        ! migrate
 @U.V.tv@а’рак:@U.V.tv@а’ра INTER-V ;        ! to prevent
 @U.V.iv@рэтыркыԓяк:@U.V.iv@рэтыркыԓя INTER-V ;        ! to follow /the indications of/ one’s dream
@@ -6536,7 +6536,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ԓ%{ы%}ԓенпыткэвык:@U.V.iv@ԓ%{ы%}ԓенпыткэв INTER-V ;        ! to prick s.o.’s eyes
 @U.V.tv@ԓьэйвэтык:@U.V.tv@ԓьэйвэт INTER-V ;        ! to fasten to a reindeer neck a stick instead of a hobble
 @U.V.iv@тымӈъатчак:@U.V.iv@тымӈъатча INTER-V ;        ! to wait without doing anything
-@U.V.tv@%{R%}эпъэрэвык:@U.V.tv@%{R%}эпъэрэв INTER-V ;        ! to make splash
+@U.V.tv@рэпъэрэвык:@U.V.tv@%{R%}эпъэрэв INTER-V ;        ! to make splash
 @U.V.iv@пэтчынԓьатэтык:@U.V.iv@пэтчынԓьатэт INTER-V ;        ! to take food with oneself
 @U.V.iv@иӈвиӈэтык:@U.V.iv@иӈвиӈэт INTER-V ;        ! to be hospitable, attentive
 @U.V.tv@рычайпаватык:@U.V.tv@рычайпават INTER-V ;        ! to serve tea
@@ -6560,7 +6560,7 @@ LEXICON PRE-VERBS
 @U.V.iv@эткэвык:@U.V.iv@эткэв INTER-V ;        ! to be offended
 @U.V.tv@таткынъек:@U.V.tv@таткынъе INTER-V ;        ! to spoil
 @U.V.iv@рынгиивык:@U.V.iv@рынгиив INTER-V ;        ! to meet
-@U.V.tv@%{R%}увэвык:@U.V.tv@%{R%}увэв INTER-V ;        ! to blacken
+@U.V.tv@рувэвык:@U.V.tv@%{R%}увэв INTER-V ;        ! to blacken
 @U.V.iv@тавтавръок:@U.V.iv@тавтавръо INTER-V ;        ! to bark
 @U.V.iv@р%{ы%}магтык:@U.V.iv@р%{ы%}магт INTER-V ;        ! to step over
 @U.V.iv@пыԓмыёа’тык:@U.V.iv@пыԓмыёа’т INTER-V ;        ! to get dark
@@ -6599,7 +6599,7 @@ LEXICON PRE-VERBS
 @U.V.tv@чеӈкъаԓярэк:@U.V.tv@чеӈкъаԓярэ INTER-V ;        ! to wet with saliva
 @U.V.iv@энапытвак:@U.V.iv@энапытва INTER-V ;        ! to be stuck into
 @U.V.iv@имтиткук:@U.V.iv@имтитку INTER-V ;        ! то load on one’s back
-@U.V.tv@%{R%}иԓьэтык:@U.V.tv@%{R%}иԓьэт INTER-V ;        ! to sing a lullaby
+@U.V.tv@риԓьэтык:@U.V.tv@%{R%}иԓьэт INTER-V ;        ! to sing a lullaby
 @U.V.tv@р%{ы%}тыԓевыткук:@U.V.tv@р%{ы%}тыԓевытку INTER-V ;        ! to rule, to manage
 @U.V.iv@пъуԓтык:@U.V.iv@пъуԓт INTER-V ;        ! turn
 @U.V.iv@урэйгэтык:@U.V.iv@урэйгэт INTER-V ;        ! to blow for a long time
@@ -6623,10 +6623,10 @@ LEXICON PRE-VERBS
 @U.V.iv@а’йӈачгатык:@U.V.iv@а’йӈачгат INTER-V ;        ! to hoot
 @U.V.tv@ванвок:@U.V.tv@ванво INTER-V ;        ! to expel
 @U.V.tv@гыԓгытвык:@U.V.tv@гыԓгытв INTER-V ;        ! to take off a skin
-@U.V.tv@%{R%}эпъэравык:@U.V.tv@%{R%}эпъэрав INTER-V ;        ! to splash
+@U.V.tv@рэпъэравык:@U.V.tv@%{R%}эпъэрав INTER-V ;        ! to splash
 @U.V.tv@р%{ы%}йъончаӈкаавык:@U.V.tv@р%{ы%}йъончаӈкаав INTER-V ;        ! to teach to forecast the weather
 @U.V.iv@э’гнопытвак:@U.V.iv@э’гнопытва INTER-V ;        ! to remain with one’s head down
-@U.V.tv@%{R%}интыткук:@U.V.tv@%{R%}интытку INTER-V ;        ! to offer
+@U.V.tv@ринтыткук:@U.V.tv@%{R%}интытку INTER-V ;        ! to offer
 @U.V.iv@увыркик:@U.V.iv@увырки INTER-V ;        ! to cut firewood
 @U.V.iv@кэӈиԓыкэтык:@U.V.iv@кэӈиԓыкэт INTER-V ;        ! to lie down aslant
 @U.V.iv@мыркутыԓек:@U.V.iv@мыркутыԓе INTER-V ;        ! to walk lightly
@@ -6752,11 +6752,11 @@ LEXICON PRE-VERBS
 @U.V.iv@тыԓенэӈэткук:@U.V.iv@тыԓенэӈэтку INTER-V ;        ! to sail
 @U.V.iv@анӈэнӈынваӈэк:@U.V.iv@анӈэнӈынваӈэ INTER-V ;        ! to grumble
 @U.V.tv@г%{ы%}йивӄэвык:@U.V.tv@г%{ы%}йивӄэв INTER-V ;        ! to mark
-@U.V.tv@%{R%}оратвавъяак:@U.V.tv@%{R%}оратвавъяа INTER-V ;        ! ch
+@U.V.tv@роратвавъяак:@U.V.tv@%{R%}оратвавъяа INTER-V ;        ! ch
 @U.V.tv@кыԓвыкэԓик:@U.V.tv@кыԓвыкэԓи INTER-V ;        ! to draw
 @U.V.tv@р%{ы%}въентовык:@U.V.tv@р%{ы%}въентов INTER-V ;        ! let air out
 @U.V.iv@а'ԓяёк:@U.V.iv@а'ԓяё INTER-V ;        ! to defecate
-@U.V.tv@%{R%}иԓгитык:@U.V.tv@%{R%}иԓгит INTER-V ;        ! to hang
+@U.V.tv@риԓгитык:@U.V.tv@%{R%}иԓгит INTER-V ;        ! to hang
 @U.V.iv@кымԓергатык:@U.V.iv@кымԓергат INTER-V ;        ! to be covered with underfur
 @U.V.iv@торпэԓятык:@U.V.iv@торпэԓят INTER-V ;        ! to remain for the first time
 @U.V.iv@ӄивчек:@U.V.iv@ӄивче INTER-V ;        ! to hurry up
@@ -6768,7 +6768,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ръэԓянток:@U.V.iv@ръэԓянто INTER-V ;        ! to gallop out
 @U.V.iv@рэчьэтык:@U.V.iv@рэчьэт INTER-V ;        ! to get entangled
 @U.V.iv@к%{ы%}тыйгытватык:@U.V.iv@к%{ы%}тыйгытват INTER-V ;        ! to sow the wind, to put a hood on
-@U.V.tv@%{R%}ъыттъыёԓявык:@U.V.tv@%{R%}ъыттъыёԓяв INTER-V ;        ! to bode
+@U.V.tv@ръыттъыёԓявык:@U.V.tv@%{R%}ъыттъыёԓяв INTER-V ;        ! to bode
 @U.V.tv@р%{ы%}мэрынрэвык:@U.V.tv@р%{ы%}мэрынрэв INTER-V ;        ! to slow down
 @U.V.iv@инэнтигыԓгыръувык:@U.V.iv@инэнтигыԓгыръув INTER-V ;        ! to bite, to harass
 @U.V.iv@тымгыпэчгатык:@U.V.iv@тымгыпэчгат INTER-V ;        ! to feel a lump in one’s throat
@@ -6825,7 +6825,7 @@ LEXICON PRE-VERBS
 @U.V.tv@тэгрысӄычетык:@U.V.tv@тэгрысӄычет INTER-V ;        ! to harpoon
 @U.V.iv@инэвуԓӄытвик:@U.V.iv@инэвуԓӄытви INTER-V ;        ! to come (of the night)
 @U.V.tv@ӄитыръук:@U.V.tv@ӄитыръу INTER-V ;        ! to be caught by the first frost
-@U.V.tv@%{R%}этйивык:@U.V.tv@%{R%}этйив INTER-V ;        ! to bring lots of
+@U.V.tv@рэтйивык:@U.V.tv@%{R%}этйив INTER-V ;        ! to bring lots of
 @U.V.iv@тыӄэчгытрыпэрак:@U.V.iv@тыӄэчгытрыпэра INTER-V ;        ! to glimmer
 @U.V.iv@вэтгавйыръатык:@U.V.iv@вэтгавйыръат INTER-V ;        ! to have negotiations
 @U.V.tv@р%{ы%}вэннэвык:@U.V.tv@р%{ы%}вэннэв INTER-V ;        ! to deprive
@@ -6948,7 +6948,7 @@ LEXICON PRE-VERBS
 @U.V.iv@э’ԓемӄутэткучитык:@U.V.iv@э’ԓемӄутэткучит INTER-V ;        ! to push aside one another
 @U.V.tv@р%{ы%}гпиԓьэвык:@U.V.tv@р%{ы%}гпиԓьэв INTER-V ;        ! ch
 @U.V.iv@куԓюмкэтык:@U.V.iv@куԓюмкэт INTER-V ;        ! to agglutinate
-@U.V.tv@%{R%}увичвэвык:@U.V.tv@%{R%}увичвэв INTER-V ;        ! to ask s.o
+@U.V.tv@рувичвэвык:@U.V.tv@%{R%}увичвэв INTER-V ;        ! to ask s.o
 @U.V.tv@р%{ы%}вирык:@U.V.tv@р%{ы%}вир INTER-V ;        ! to squeeze out
 @U.V.iv@кырӈэвык:@U.V.iv@кырӈэв INTER-V ;        ! to become an adult
 @U.V.tv@матак:@U.V.tv@мата INTER-V ;        ! take one’s share (of an animal that has been killed)
@@ -7062,7 +7062,7 @@ LEXICON PRE-VERBS
 @U.V.tv@рэнаачьыторавык:@U.V.tv@рэнаачьыторав INTER-V ;        ! to forgive
 @U.V.iv@ачгытык:@U.V.iv@ачгыт INTER-V ;        ! to fall into a line
 @U.V.iv@у’рэтык:@U.V.iv@у’рэт INTER-V ;        ! to be born
-@U.V.tv@%{R%}ирвъиӈэвык:@U.V.tv@%{R%}ирвъиӈэв INTER-V ;        ! to sharpen
+@U.V.tv@рирвъиӈэвык:@U.V.tv@%{R%}ирвъиӈэв INTER-V ;        ! to sharpen
 @U.V.iv@вэԓёгаԓяк:@U.V.iv@вэԓёгаԓя INTER-V ;        ! to pay no attention, to ignore
 @U.V.iv@ӄораԓьатык:@U.V.iv@ӄораԓьат INTER-V ;        ! to pasture reindeer
 @U.V.tv@kэвэйвык:@U.V.tv@kэвэйв INTER-V ;        ! to rub off
@@ -7077,7 +7077,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ԓяԓёпaрэк:@U.V.iv@ԓяԓёпaрэ INTER-V ;        ! to shave
 @U.V.iv@имԓюӄэтык:@U.V.iv@имԓюӄэт INTER-V ;        ! to be agitated (of water)
 @U.V.tv@а'ԓынток:@U.V.tv@а'ԓынто INTER-V ;        ! to enlarge
-@U.V.tv@%{R%}эвмэвэтык:@U.V.tv@%{R%}эвмэвэт INTER-V ;        ! to dispose in s.o.’s favour, to cause attachment
+@U.V.tv@рэвмэвэтык:@U.V.tv@%{R%}эвмэвэт INTER-V ;        ! to dispose in s.o.’s favour, to cause attachment
 @U.V.iv@мыргок:@U.V.iv@мырго INTER-V ;        ! to eat seaweeds
 @U.V.tv@ԓейвык:@U.V.tv@ԓейв INTER-V ;        ! to go over
 @U.V.iv@тымӄэтйивык:@U.V.iv@тымӄэтйив INTER-V ;        ! to agglomerate
@@ -7122,8 +7122,8 @@ LEXICON PRE-VERBS
 @U.V.tv@рыкычьымэвык:@U.V.tv@рыкычьымэв INTER-V ;        ! to fulfil with blessings: to gladden
 @U.V.iv@инэтиӈук:@U.V.iv@инэтиӈу INTER-V ;        ! to inhale
 @U.V.iv@паԓӄъатчак:@U.V.iv@паԓӄъатча INTER-V ;        ! to wait for death
-@U.V.tv@%{R%}анӈэԓёвык:@U.V.tv@%{R%}анӈэԓёв INTER-V ;        ! to sway
-@U.V.tv@%{R%}иръытвыӈэтык:@U.V.tv@%{R%}иръытвыӈэт INTER-V ;        ! not to be allowed to undress
+@U.V.tv@ранӈэԓёвык:@U.V.tv@%{R%}анӈэԓёв INTER-V ;        ! to sway
+@U.V.tv@риръытвыӈэтык:@U.V.tv@%{R%}иръытвыӈэт INTER-V ;        ! not to be allowed to undress
 @U.V.iv@пэӄыркагтатык:@U.V.iv@пэӄыркагтат INTER-V ;        ! to splash
 @U.V.tv@р%{ы%}ӄивъевык:@U.V.tv@р%{ы%}ӄивъев INTER-V ;        ! to make s.o
 @U.V.iv@рупчинӈык:@U.V.iv@рупчинӈ INTER-V ;        ! to try to raise a stone
@@ -7139,7 +7139,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}рэӄэвык:@U.V.tv@р%{ы%}рэӄэв INTER-V ;        ! to have the upper hand
 @U.V.tv@р%{ы%}тэвиминӈытурэвык:@U.V.tv@р%{ы%}тэвиминӈытурэв INTER-V ;        ! to free from violence
 @U.V.iv@эвъянватык:@U.V.iv@эвъянват INTER-V ;        ! to say an incantation
-@U.V.tv@%{R%}итӄыевык:@U.V.tv@%{R%}итӄыев INTER-V ;        ! to pour water over
+@U.V.tv@ритӄыевык:@U.V.tv@%{R%}итӄыев INTER-V ;        ! to pour water over
 @U.V.tv@мумкыԓтипык:@U.V.tv@мумкыԓтип INTER-V ;        ! to sew a button
 @U.V.iv@пъоӈпъоӈок:@U.V.iv@пъоӈпъоӈо INTER-V ;        ! to eat mushrooms
 @U.V.iv@инэнэйычгыръувык:@U.V.iv@инэнэйычгыръув INTER-V ;        ! to raise waves
@@ -7226,7 +7226,7 @@ LEXICON PRE-VERBS
 @U.V.iv@аръаткэк:@U.V.iv@аръаткэ INTER-V ;        ! to smell of broth
 @U.V.iv@а'ӄаткэк:@U.V.iv@а'ӄаткэ INTER-V ;        ! to stink
 @U.V.tv@р%{ы%}такаӈатык:@U.V.tv@р%{ы%}такаӈат INTER-V ;        ! to make s.o
-@U.V.tv@%{R%}ъэтйивык:@U.V.tv@%{R%}ъэтйив INTER-V ;        ! to retort
+@U.V.tv@ръэтйивык:@U.V.tv@%{R%}ъэтйив INTER-V ;        ! to retort
 @U.V.tv@рываӈэйпыръовык:@U.V.tv@рываӈэйпыръов INTER-V ;        ! to make s.o
 @U.V.iv@энагтатык:@U.V.iv@энагтат INTER-V ;        ! to go and fetch
 @U.V.tv@рагтачгавык:@U.V.tv@рагтачгав INTER-V ;        ! to enclose
@@ -7310,7 +7310,7 @@ LEXICON PRE-VERBS
 @U.V.tv@рымъэйӈэк:@U.V.tv@рымъэйӈэ INTER-V ;        ! to cheer up with one’s voice
 @U.V.iv@увъэԓетык:@U.V.iv@увъэԓет INTER-V ;        ! turn black
 @U.V.iv@туԓьынгынтэвэтык:@U.V.iv@туԓьынгынтэвэт INTER-V ;        ! to plunder
-@U.V.tv@%{R%}онмыёчгавык:@U.V.tv@%{R%}онмыёчгав INTER-V ;        ! to hollow
+@U.V.tv@ронмыёчгавык:@U.V.tv@%{R%}онмыёчгав INTER-V ;        ! to hollow
 @U.V.iv@тэнангагчыӈӈык:@U.V.iv@тэнангагчыӈӈ INTER-V ;        ! to urge on
 @U.V.tv@таӄэчгыӈык:@U.V.tv@таӄэчгыӈ INTER-V ;        ! to meet
 @U.V.iv@ӄитывъик:@U.V.iv@ӄитывъи INTER-V ;        ! to freeze to death
@@ -7339,7 +7339,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}тэйӈэтэвык:@U.V.tv@р%{ы%}тэйӈэтэв INTER-V ;        ! to feed
 @U.V.iv@рэԓпэрак:@U.V.iv@рэԓпэра INTER-V ;        ! to look like wings
 @U.V.tv@ӄучик:@U.V.tv@ӄучи INTER-V ;        ! to shout out
-@U.V.iv@%{R%}оԓятытвак:@U.V.iv@%{R%}оԓятытва INTER-V ;        ! to be leaning
+@U.V.iv@роԓятытвак:@U.V.iv@%{R%}оԓятытва INTER-V ;        ! to be leaning
 @U.V.iv@aймысӄытвак:@U.V.iv@aймысӄытва INTER-V ;        ! to stick, to adhere
 @U.V.iv@э'ӄэрэк:@U.V.iv@э'ӄэрэ INTER-V ;        ! to get worse
 @U.V.tv@кымгытэԓгатык:@U.V.tv@кымгытэԓгат INTER-V ;        ! to sew on straps at the bottom of a kerker’s trousers
@@ -7361,7 +7361,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}пынчиръувык:@U.V.tv@р%{ы%}пынчиръув INTER-V ;        ! to undo
 @U.V.iv@ӄаврыткынатык:@U.V.iv@ӄаврыткынат INTER-V ;        ! to be heard (of rustle)
 @U.V.tv@танмайӈык:@U.V.tv@танмайӈ INTER-V ;        ! to fold
-@U.V.tv@%{R%}эвык:@U.V.tv@%{R%}эв INTER-V ;        ! to pierce
+@U.V.tv@рэвык:@U.V.tv@%{R%}эв INTER-V ;        ! to pierce
 @U.V.iv@ӈыԓгыԓятык:@U.V.iv@ӈыԓгыԓят INTER-V ;        ! to be smoked up
 @U.V.iv@ымыԓьавык:@U.V.iv@ымыԓьав INTER-V ;        ! to be intact
 @U.V.iv@й%{ы%}ӄыԓек:@U.V.iv@й%{ы%}ӄыԓе INTER-V ;        ! to pass quickly
@@ -7486,7 +7486,7 @@ LEXICON PRE-VERBS
 @U.V.tv@чеӈӄайвык:@U.V.tv@чеӈӄайв INTER-V ;        ! to rain /arrows on s.o./
 @U.V.iv@къаԓетвак:@U.V.iv@къаԓетва INTER-V ;        ! to wear a cap
 @U.V.tv@итчыгитэк:@U.V.tv@итчыгитэ INTER-V ;        ! to gauge the weight of sth
-@U.V.tv@%{R%}эԓюк:@U.V.tv@%{R%}эԓю INTER-V ;        ! to chew
+@U.V.tv@рэԓюк:@U.V.tv@%{R%}эԓю INTER-V ;        ! to chew
 @U.V.iv@тэтыӈгитэткук:@U.V.iv@тэтыӈгитэтку INTER-V ;        ! to despise
 @U.V.iv@ринӈэвык:@U.V.iv@ринӈэв INTER-V ;        ! to rejoice for s.o
 @U.V.tv@р%{ы%}пык:@U.V.tv@р%{ы%}п INTER-V ;        ! to set out into position
@@ -7514,7 +7514,7 @@ LEXICON PRE-VERBS
 @U.V.tv@а’мэнранъаватык:@U.V.tv@а’мэнранъават INTER-V ;        ! to load a gun
 @U.V.iv@инэнмэԓевэтык:@U.V.iv@инэнмэԓевэт INTER-V ;        ! to heal
 @U.V.iv@г%{ы%}ръок:@U.V.iv@г%{ы%}ръо INTER-V ;        ! to lay eggs
-@U.V.tv@%{R%}ъаравык:@U.V.tv@%{R%}ъарав INTER-V ;        ! to ruin one’s health
+@U.V.tv@ръаравык:@U.V.tv@%{R%}ъарав INTER-V ;        ! to ruin one’s health
 @U.V.iv@импэтвик:@U.V.iv@импэтви INTER-V ;        ! to slow down
 @U.V.iv@ӄаарымъайӈаткок:@U.V.iv@ӄаарымъайӈатко INTER-V ;        ! to shout in order to gather the reindeer
 @U.V.tv@э’ӄэгитэк:@U.V.tv@э’ӄэгитэ INTER-V ;        ! to despise
@@ -7556,7 +7556,7 @@ LEXICON PRE-VERBS
 @U.V.iv@э’ԓючитык:@U.V.iv@э’ԓючит INTER-V ;        ! to play with dolls
 @U.V.iv@ӈэԓвыԓьыйиквик:@U.V.iv@ӈэԓвыԓьыйикви INTER-V ;        ! to go from one herd to another
 @U.V.iv@эвык:@U.V.iv@эв INTER-V ;        ! to become full of holes
-@U.V.tv@%{R%}эймысӄытурэвык:@U.V.tv@%{R%}эймысӄытурэв INTER-V ;        ! to unstick, loosen
+@U.V.tv@рэймысӄытурэвык:@U.V.tv@%{R%}эймысӄытурэв INTER-V ;        ! to unstick, loosen
 @U.V.iv@гагԓынток:@U.V.iv@гагԓынто INTER-V ;        ! to run out
 @U.V.tv@эԓвык:@U.V.tv@эԓв INTER-V ;        ! to skin a sea-mammal
 @U.V.iv@в%{ы%}етвытвак:@U.V.iv@в%{ы%}етвытва INTER-V ;        ! to keep quiet
@@ -7573,7 +7573,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ԓевтыниԓюткук:@U.V.iv@ԓевтыниԓютку INTER-V ;        ! to move one’s head
 @U.V.tv@кэтъок:@U.V.tv@кэтъо INTER-V ;        ! to remember
 @U.V.tv@тэӄэӈик:@U.V.tv@тэӄэӈи INTER-V ;        ! to praise
-@U.V.tv@%{R%}иквэвык:@U.V.tv@%{R%}иквэв INTER-V ;        ! to heighten
+@U.V.tv@риквэвык:@U.V.tv@%{R%}иквэв INTER-V ;        ! to heighten
 @U.V.tv@м%{ы%}рытвык:@U.V.tv@м%{ы%}рытв INTER-V ;        ! to clean
 @U.V.tv@р%{ы%}ткивэтык:@U.V.tv@р%{ы%}ткивэт INTER-V ;        ! to pass a night
 @U.V.tv@рачгытык:@U.V.tv@рачгыт INTER-V ;        ! to catch
@@ -7605,9 +7605,9 @@ LEXICON PRE-VERBS
 @U.V.iv@э’ԓыпыткук:@U.V.iv@э’ԓыпытку INTER-V ;        ! to stumble
 @U.V.iv@тэгйивыԓьыӈык:@U.V.iv@тэгйивыԓьыӈ INTER-V ;        ! to give o.s
 @U.V.iv@миԓгынъюнэвык:@U.V.iv@миԓгынъюнэв INTER-V ;        ! to light a fire
-@U.V.iv@%{R%}уткук:@U.V.iv@%{R%}утку INTER-V ;        ! to destroy
+@U.V.iv@руткук:@U.V.iv@%{R%}утку INTER-V ;        ! to destroy
 @U.V.iv@равэвык:@U.V.iv@равэв INTER-V ;        ! to get used to one’s home
-@U.V.tv@%{R%}эԓюпык:@U.V.tv@%{R%}эԓюп INTER-V ;        ! to chew tobacco
+@U.V.tv@рэԓюпык:@U.V.tv@%{R%}эԓюп INTER-V ;        ! to chew tobacco
 @U.V.tv@р%{ы%}пэԓӄувык:@U.V.tv@р%{ы%}пэԓӄув INTER-V ;        ! to have the last word
 @U.V.tv@р%{ы%}чаатытковык:@U.V.tv@р%{ы%}чаатытков INTER-V ;        ! to throw a lasso
 @U.V.iv@йыръатытвак:@U.V.iv@йыръатытва INTER-V ;        ! to be full
@@ -7650,7 +7650,7 @@ LEXICON PRE-VERBS
 @U.V.iv@кыниԓьэтык:@U.V.iv@кыниԓьэт INTER-V ;        ! to rock a baby, to sing a lullaby
 @U.V.iv@эйгынԓик:@U.V.iv@эйгынԓи INTER-V ;        ! to turn (of the wind)
 @U.V.tv@рырыԓытвавык:@U.V.tv@рырыԓытвав INTER-V ;        ! to let lying
-@U.V.tv@%{R%}ирэтык:@U.V.tv@%{R%}ирэт INTER-V ;        ! to hit
+@U.V.tv@рирэтык:@U.V.tv@%{R%}ирэт INTER-V ;        ! to hit
 @U.V.iv@aйпытвак:@U.V.iv@aйпытва INTER-V ;        ! to be hidden
 @U.V.tv@кытԓьок:@U.V.tv@кытԓьо INTER-V ;        ! to see suddenly
 @U.V.iv@ръынтоёпатык:@U.V.iv@ръынтоёпат INTER-V ;        ! to look for edible clay
@@ -7693,11 +7693,11 @@ LEXICON PRE-VERBS
 @U.V.iv@э’ӄэԓьук:@U.V.iv@э’ӄэԓьу INTER-V ;        ! to look at s.o
 @U.V.iv@и'нныниԓюк:@U.V.iv@и'нныниԓю INTER-V ;        ! to move one’s neck and head without moving one’s trunk
 @U.V.iv@кытчынъёк:@U.V.iv@кытчынъё INTER-V ;        ! to lie in ambush
-@U.V.tv@%{R%}ининивык:@U.V.tv@%{R%}ининив INTER-V ;        ! to appear
+@U.V.tv@рининивык:@U.V.tv@%{R%}ининив INTER-V ;        ! to appear
 @U.V.tv@таӄымԓяӈык:@U.V.tv@таӄымԓяӈ INTER-V ;        ! to prepare marrow
 @U.V.iv@рыкаԓыровыткок:@U.V.iv@рыкаԓыровытко INTER-V ;        ! to prove
 @U.V.iv@тэрӈыԓьатык:@U.V.iv@тэрӈыԓьат INTER-V ;        ! to weep a long time
-@U.V.tv@%{R%}эйычгивык:@U.V.tv@%{R%}эйычгив INTER-V ;        ! to arouse waves
+@U.V.tv@рэйычгивык:@U.V.tv@%{R%}эйычгив INTER-V ;        ! to arouse waves
 @U.V.iv@ԓьэԓенръук:@U.V.iv@ԓьэԓенръу INTER-V ;        ! to begin (of winter)
 @U.V.iv@энанрыԓпэрык:@U.V.iv@энанрыԓпэр INTER-V ;        ! to make s.o
 @U.V.iv@у’мэтык:@U.V.iv@у’мэт INTER-V ;        ! to widen
@@ -7755,14 +7755,14 @@ LEXICON PRE-VERBS
 @U.V.iv@гынникук:@U.V.iv@гыннику INTER-V ;        ! to catch or to kill wild beasts
 @U.V.tv@kыргэймитык:@U.V.tv@kыргэймит INTER-V ;        ! to kill at once
 @U.V.tv@рыԓпууръыткувык:@U.V.tv@рыԓпууръыткув INTER-V ;        ! to exchange
-@U.V.tv@%{R%}эгынтовык:@U.V.tv@%{R%}эгынтов INTER-V ;        ! to air, to refresh
+@U.V.tv@рэгынтовык:@U.V.tv@%{R%}эгынтов INTER-V ;        ! to air, to refresh
 @U.V.iv@ръэԓеӈик:@U.V.iv@ръэԓеӈи INTER-V ;        ! to talk about everything
 @U.V.tv@в%{ы%}ятык:@U.V.tv@в%{ы%}ят INTER-V ;        ! to unharness
 @U.V.iv@ԓывээръынток:@U.V.iv@ԓывээръынто INTER-V ;        ! to run (of milk)
 @U.V.iv@рынпычьетык:@U.V.iv@рынпычьет INTER-V ;        ! not to take into account others' opinions
 @U.V.iv@ӄэптиюргук:@U.V.iv@ӄэптиюргу INTER-V ;        ! to eat fillet of fish
 @U.V.tv@р%{ы%}кымгытчирэвык:@U.V.tv@р%{ы%}кымгытчирэв INTER-V ;        ! to wrinkle
-@U.V.tv@%{R%}эйпыткувык:@U.V.tv@%{R%}эйпыткув INTER-V ;        ! to cover, to conceal
+@U.V.tv@рэйпыткувык:@U.V.tv@%{R%}эйпыткув INTER-V ;        ! to cover, to conceal
 @U.V.iv@омръоԓгатык:@U.V.iv@омръоԓгат INTER-V ;        ! to sweat a little
 @U.V.iv@ӄэргыԓьатык:@U.V.iv@ӄэргыԓьат INTER-V ;        ! to gleam
 @U.V.iv@умкычыкутык:@U.V.iv@умкычыкут INTER-V ;        ! to go deep into a forest, into bushes
@@ -7931,7 +7931,7 @@ LEXICON PRE-VERBS
 @U.V.tv@aгтатвак:@U.V.tv@aгтатва INTER-V ;        ! to separate
 @U.V.iv@роԓьаӄанӈэнавычгатык:@U.V.iv@роԓьаӄанӈэнавычгат INTER-V ;        ! to fume with rage out of weakness
 @U.V.iv@увикыпчыткук:@U.V.iv@увикыпчытку INTER-V ;        ! to grow up
-@U.V.tv@%{R%}агтатык:@U.V.tv@%{R%}агтат INTER-V ;        ! to bring sth
+@U.V.tv@рагтатык:@U.V.tv@%{R%}агтат INTER-V ;        ! to bring sth
 @U.V.tv@вочвыпэнрык:@U.V.tv@вочвыпэнр INTER-V ;        ! to attack from aside, to bar s.o.’s way
 @U.V.iv@инэнкуврэтэвык:@U.V.iv@инэнкуврэтэв INTER-V ;        ! to materialize, to put sth
 @U.V.tv@р%{ы%}вэтгысӄавык:@U.V.tv@р%{ы%}вэтгысӄав INTER-V ;        ! to level
@@ -7963,7 +7963,7 @@ LEXICON PRE-VERBS
 @U.V.tv@р%{ы%}руԓтэтык:@U.V.tv@р%{ы%}руԓтэт INTER-V ;        ! to turn aside
 @U.V.tv@рымысӄыԓявык:@U.V.tv@рымысӄыԓяв INTER-V ;        ! to bring to deep water
 @U.V.tv@рынэӈантовык:@U.V.tv@рынэӈантов INTER-V ;        ! to remove the snow
-@U.V.tv@%{R%}интык:@U.V.tv@%{R%}инт INTER-V ;        ! to abandon
+@U.V.tv@ринтык:@U.V.tv@%{R%}инт INTER-V ;        ! to abandon
 @U.V.iv@гынритыткук:@U.V.iv@гынритытку INTER-V ;        ! to take care of
 @U.V.iv@нутэсӄычыкутык:@U.V.iv@нутэсӄычыкут INTER-V ;        ! to sink, to settle
 @U.V.iv@пчакъарэк:@U.V.iv@пчакъарэ INTER-V ;        ! to take one’s shoes off
@@ -7992,7 +7992,7 @@ LEXICON PRE-VERBS
 @U.V.iv@рэръэӈык:@U.V.iv@рэръэӈ INTER-V ;        ! ch.
 @U.V.iv@т%{ы%}ԓичьэтык:@U.V.iv@т%{ы%}ԓичьэт INTER-V ;        ! to turn aside
 @U.V.iv@понтатъыԓык:@U.V.iv@понтатъыԓ INTER-V ;        ! to ache (of liver)
-@U.V.tv@%{R%}эгрыпэтык:@U.V.tv@%{R%}эгрыпэт INTER-V ;        ! to send down colic to s.o
+@U.V.tv@рэгрыпэтык:@U.V.tv@%{R%}эгрыпэт INTER-V ;        ! to send down colic to s.o
 @U.V.iv@ынрэтвик:@U.V.iv@ынрэтви INTER-V ;        ! to slow down
 @U.V.tv@к%{ы%}ԓек:@U.V.tv@к%{ы%}ԓе INTER-V ;        ! to imitate
 @U.V.iv@ӄоченток:@U.V.iv@ӄоченто INTER-V ;        ! to shout
@@ -8002,7 +8002,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тэкъэԓиӈык:@U.V.iv@тэкъэԓиӈ INTER-V ;        ! to sew fur caps
 @U.V.iv@игыпэтык:@U.V.iv@игыпэт INTER-V ;        ! to feel shy
 @U.V.iv@пынԓёк:@U.V.iv@пынԓё INTER-V ;        ! to ask a question
-@U.V.tv@%{R%}ъэвытԓявык:@U.V.tv@%{R%}ъэвытԓяв INTER-V ;        ! to draw
+@U.V.tv@ръэвытԓявык:@U.V.tv@%{R%}ъэвытԓяв INTER-V ;        ! to draw
 @U.V.iv@кээԓьыткук:@U.V.iv@кээԓьытку INTER-V ;        ! to pursue
 @U.V.iv@чотатытвак:@U.V.iv@чотатытва INTER-V ;        ! ch
 @U.V.iv@инэнпэӈъивэтык:@U.V.iv@инэнпэӈъивэт INTER-V ;        ! to tire
@@ -8055,7 +8055,7 @@ LEXICON PRE-VERBS
 @U.V.iv@м%{ы%}ԓек:@U.V.iv@м%{ы%}ԓе INTER-V ;        ! to break
 @U.V.iv@тыгагтыткок:@U.V.iv@тыгагтытко INTER-V ;        ! to jump like a seaworm
 @U.V.tv@ԓьусӄычетык:@U.V.tv@ԓьусӄычет INTER-V ;        ! to catch a fleeting glimpse
-@U.V.tv@%{R%}инэԓьувык:@U.V.tv@%{R%}инэԓьув INTER-V ;        ! to hunt
+@U.V.tv@ринэԓьувык:@U.V.tv@%{R%}инэԓьув INTER-V ;        ! to hunt
 @U.V.iv@ԓыԓептиԓвыԓгык:@U.V.iv@ԓыԓептиԓвыԓг INTER-V ;        ! перегԓядываться
 @U.V.iv@ирвъиӈэтык:@U.V.iv@ирвъиӈэт INTER-V ;        ! to become sharp
 @U.V.iv@пэԓгырачвыӈык:@U.V.iv@пэԓгырачвыӈ INTER-V ;        ! to vie in songs
@@ -8078,7 +8078,7 @@ LEXICON PRE-VERBS
 @U.V.iv@таа'въэк:@U.V.iv@таа'въэ INTER-V ;        ! to die due to tobacco, to faint from suffocation
 @U.V.iv@киӈэтык:@U.V.iv@киӈэт INTER-V ;        ! to fall asleep
 @U.V.iv@импэԓтэтык:@U.V.iv@импэԓтэт INTER-V ;        ! to react slowly
-@U.V.tv@%{R%}ъирэтык:@U.V.tv@%{R%}ъирэт INTER-V ;        ! to tranship, to transfer
+@U.V.tv@ръирэтык:@U.V.tv@%{R%}ъирэт INTER-V ;        ! to tranship, to transfer
 @U.V.tv@рыкээвык:@U.V.tv@рыкээв INTER-V ;        ! to accustom
 @U.V.iv@инэԓюк:@U.V.iv@инэԓю INTER-V ;        ! to chew
 @U.V.iv@а'ӄапэратвэк:@U.V.iv@а'ӄапэратвэ INTER-V ;        ! to grow decrepit
@@ -8186,7 +8186,7 @@ LEXICON PRE-VERBS
 @U.V.iv@а'ԓятыёткок:@U.V.iv@а'ԓятыётко INTER-V ;        ! to defecate
 @U.V.tv@р%{ы%}камчавык:@U.V.tv@р%{ы%}камчав INTER-V ;        ! to tousle
 @U.V.iv@камэԓгык:@U.V.iv@камэԓг INTER-V ;        ! to success in going everywhere
-@U.V.tv@%{R%}ирвэвык:@U.V.tv@%{R%}ирвэв INTER-V ;        ! to grind
+@U.V.tv@рирвэвык:@U.V.tv@%{R%}ирвэв INTER-V ;        ! to grind
 @U.V.iv@тэнӈысӄивык:@U.V.iv@тэнӈысӄив INTER-V ;        ! to burst into laughter
 @U.V.iv@ԓыгъэтгъук:@U.V.iv@ԓыгъэтгъу INTER-V ;        ! to wait with impatience
 @U.V.iv@эԓкытвак:@U.V.iv@эԓкытва INTER-V ;        ! to keep one’s eyes shut
@@ -8227,7 +8227,7 @@ LEXICON PRE-VERBS
 @U.V.iv@ринэнтэйӈэтык:@U.V.iv@ринэнтэйӈэт INTER-V ;        ! to feed
 @U.V.tv@рыԓгэвык:@U.V.tv@рыԓгэв INTER-V ;        ! to calculate, to recount
 @U.V.iv@тармачьыӈӄаанматык:@U.V.iv@тармачьыӈӄаанмат INTER-V ;        ! to slaughter reindeer with cruelty
-@U.V.tv@%{R%}эювык:@U.V.tv@%{R%}эюв INTER-V ;        ! to resuscitate
+@U.V.tv@рэювык:@U.V.tv@%{R%}эюв INTER-V ;        ! to resuscitate
 @U.V.tv@упичгэтык:@U.V.tv@упичгэт INTER-V ;        ! to block
 @U.V.iv@тымԓыйӈаръок:@U.V.iv@тымԓыйӈаръо INTER-V ;        ! to come (of a thick fog)
 @U.V.iv@кԓючетык:@U.V.iv@кԓючет INTER-V ;        ! to lock
@@ -8277,7 +8277,7 @@ LEXICON PRE-VERBS
 @U.V.iv@чьэтԓыӄатык:@U.V.iv@чьэтԓыӄат INTER-V ;        ! to curve on the side
 @U.V.iv@кытӄаяватык:@U.V.iv@кытӄаяват INTER-V ;        ! to be completely covered with frost
 @U.V.iv@чимгъунӈэк:@U.V.iv@чимгъунӈэ INTER-V ;        ! to come to one’s senses
-@U.V.tv@%{R%}импывэтык:@U.V.tv@%{R%}импывэт INTER-V ;        ! to make s.o
+@U.V.tv@римпывэтык:@U.V.tv@%{R%}импывэт INTER-V ;        ! to make s.o
 @U.V.iv@эпырӄагтатык:@U.V.iv@эпырӄагтат INTER-V ;        ! to spray
 @U.V.iv@эмутвык:@U.V.iv@эмутв INTER-V ;        ! to grate roots
 @U.V.iv@эӈэӈытвик:@U.V.iv@эӈэӈытви INTER-V ;        ! to become a shaman
@@ -8315,7 +8315,7 @@ LEXICON PRE-VERBS
 @U.V.iv@тымгытвак:@U.V.iv@тымгытва INTER-V ;        ! to be calm (of the weather)
 @U.V.iv@э’ӄэткук:@U.V.iv@э’ӄэтку INTER-V ;        ! to die during an epidemic
 @U.V.iv@ԓьутԓепыԓьэтык:@U.V.iv@ԓьутԓепыԓьэт INTER-V ;        ! to look constantly аround
-@U.V.tv@%{R%}эԓкык:@U.V.tv@%{R%}эԓк INTER-V ;        ! to immerse
+@U.V.tv@рэԓкык:@U.V.tv@%{R%}эԓк INTER-V ;        ! to immerse
 @U.V.iv@мигчирыткук:@U.V.iv@мигчирытку INTER-V ;        ! to work
 @U.V.iv@вуԓвыниԓюк:@U.V.iv@вуԓвыниԓю INTER-V ;        ! to swing, to sway
 @U.V.iv@раӄытвак:@U.V.iv@раӄытва INTER-V ;        ! ch
@@ -8332,11 +8332,11 @@ LEXICON PRE-VERBS
 @U.V.iv@ӄэвйиԓюк:@U.V.iv@ӄэвйиԓю INTER-V ;        ! to swing
 @U.V.iv@моԓԓытъыӈӈок:@U.V.iv@моԓԓытъыӈӈо INTER-V ;        ! to begin to bleed
 @U.V.tv@й%{ы%}кыргыкыԓтык:@U.V.tv@й%{ы%}кыргыкыԓт INTER-V ;        ! to gag
-@U.V.tv@%{R%}ъатчавык:@U.V.tv@%{R%}ъатчав INTER-V ;        ! to keep s.o
+@U.V.tv@ръатчавык:@U.V.tv@%{R%}ъатчав INTER-V ;        ! to keep s.o
 @U.V.tv@ымыпчакык:@U.V.tv@ымыпчак INTER-V ;        ! to immerse s.o
 @U.V.iv@рарэрык:@U.V.iv@рарэр INTER-V ;        ! to find a yaranga
 @U.V.iv@чеԓгыръок:@U.V.iv@чеԓгыръо INTER-V ;        ! to redden
-@U.V.tv@%{R%}имэтык:@U.V.tv@%{R%}имэт INTER-V ;        ! to shave
+@U.V.tv@римэтык:@U.V.tv@%{R%}имэт INTER-V ;        ! to shave
 @U.V.iv@а’мйытчак:@U.V.iv@а’мйытча INTER-V ;        ! to stretch oneself
 @U.V.tv@р%{ы%}матаӈатык:@U.V.tv@р%{ы%}матаӈат INTER-V ;        ! to give a girl in marriage
 @U.V.tv@рыраԓкотвак:@U.V.tv@рыраԓкотва INTER-V ;        ! to keep (to leave) in the inner tent
@@ -8404,5 +8404,5 @@ LEXICON PRE-VERBS
 @U.V.iv@пэԓӄынтытыԓек:@U.V.iv@пэԓӄынтытыԓе INTER-V ;        ! to turn back
 @U.V.iv@кэймитык:@U.V.iv@кэймит INTER-V ;        ! to deliver (a mother in childbirth)
 @U.V.iv@каԓготкэԓьатык:@U.V.iv@каԓготкэԓьат INTER-V ;        ! to brag
-@U.V.tv@%{R%}ъувэвык:@U.V.tv@%{R%}ъувэв INTER-V ;        ! to narrow
+@U.V.tv@ръувэвык:@U.V.tv@%{R%}ъувэв INTER-V ;        ! to narrow
 @U.V.tv@вэтгавтааӈык:@U.V.tv@вэтгавтааӈ INTER-V ;        ! to tease

@@ -249,6 +249,7 @@ IRR%.2%/3SG%.S
 @P.VPR.vb_neg@ @R.VPR.vb_neg@
 @P.VPR.vb_neg2@ @R.VPR.vb_neg2@
 @P.VPR.imposs@ @R.VPR.imposs@
+@P.VPR.nil@ @R.VPR.nil@
 @D.VPR@
 @D.TENSE@
 @U.V.iv@ @R.V.iv@ @P.V.iv@

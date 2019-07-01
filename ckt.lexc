@@ -249,6 +249,7 @@ IRR%.2%/3SG%.S
 @P.VPR.vb_neg@ @R.VPR.vb_neg@
 @P.VPR.vb_neg2@ @R.VPR.vb_neg2@
 @P.VPR.imposs@ @R.VPR.imposs@
+@P.VPR.nil@ @R.VPR.nil@
 @D.VPR@
 @D.TENSE@
 @U.V.iv@ @R.V.iv@ @P.V.iv@
@@ -8197,15 +8198,15 @@ LEXICON V-IV-AFFIX
 LEXICON V-IV-NEUT
 
 ! LEXICON V-IV-NEUT-AOR
-@R.VPR.t@%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;
-@R.VPR.myt@%-1PL%.S%/O:@R.VPR.myt@%>%{ы%}мык # ;
-@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
+@R.VPR.t@%-1SG%.S:@R.VPR.t@%>%{ы%}к # ;   ! +
+@R.VPR.myt@%-1PL%.S%/O:@R.VPR.myt@%>%{ы%}мык # ;      ! +
+@R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;       ! -
 @R.VPR.nil@%-2PL%.S%/O:@R.VPR.nil@%>%{ы%}тык # ;
 @R.VPR.nil@%-2%/3SG%.S:@R.VPR.nil@%>и # ;
 @R.VPR.nil@%-PL:@R.VPR.nil@%>%{ы%}т # ;
 ! +thematic suff
-@R.VPR.t@%-TH%-1SG%.S:@R.VPR.t@%>%{ы%}гъ%{Æ%}к # ;
-@R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
+@R.VPR.t@%-TH%-1SG%.S:@R.VPR.t@%>%{ы%}гъ%{Æ%}к # ;     ! +
+@R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;    ! -
 ! @R.VPR.nil@%-TH%-2%/3SG%.S:@R.VPR.nil@%>%{ы%}гъи # ;
 @R.VPR.nil@%-TH%-PL:@R.VPR.nil@%>%{ы%}гъ%{Æ%}т # ;
 
