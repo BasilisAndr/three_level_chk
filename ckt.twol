@@ -157,6 +157,7 @@ Vx:Vy <=> [ Dominant | %{⁺ⱽᴴ%}: ] :* :ч (:0) (:0) _ ;
 
 
 
+
 ! The first vowel of a pair of concurrent underlying vowels is regularly deleted
 ! (p.41)
 
@@ -247,7 +248,7 @@ V:0 <=> .#. _ %>: :Vow ;       ! same as for rec but can be written shorter
 "{и} in suffixes incl. after non-coronals"
 ! а г н о т в а н в >:0 {ы}:ы т {и}:0
 ! а й в э р э т >:0 {ы}:0 т {и}:э
-%{и%}:0 <=> [ :Cns - :Coronal | :Glottal ] (:0) (:0) %{ы%}: т _ ;
+%{и%}:0 <=> [ :Cns - :Coronal | :Glottal | :Vow ] (:0) (:0) %{ы%}: т _ ;
                                                :Vow (:0) (:0) _ ;
                   :Cns [ :Cns | :Glottal ] (:0) (:0) %{ы%}: т _ ;
 

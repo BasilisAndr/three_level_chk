@@ -16,6 +16,13 @@ Alphabet
 %[%+f%]:0
 %[%+restr%]:0
 %[%+auth%]:0
+%[%+imposs%]:0
+%[%+vb%-approx%]:0
+%[%+vb%-com%]:0
+%[%+vb%-intens%]:0
+%[%+vb%-neg%]:0
+%[%+vb%-neg2%]:0
+%[%+vb%-restr%]:0
 
 %<n%>:%<n%>                     ! Noun
 %<prn%>:%<prn%>                   ! Pronoun
@@ -266,3 +273,34 @@ Rules
 "Auth"
 %[%+auth%]:0 <=> _ :* %[%+auth%]:0 ;
                 %[%+auth%]:0 :* _ ;
+
+
+"Impossibilitive"
+%[%+imposs%]:0 <=> _ :* %[%+imposs%]:0 ;
+                %[%+imposs%]:0 :* _ ;
+!
+
+"Verb base approximative"
+%[%+vb%-approx%]:0 <=> _ :* %[%+vb%-approx%]:0 ;
+                %[%+vb%-approx%]:0 :* _ ;
+!
+"Verb base commitative"
+%[%+vb%-com%]:0 <=> _ :* %[%+vb%-com%]:0 ;
+                %[%+vb%-com%]:0 :* _ ;
+!
+"Verb base intensifier"
+%[%+vb%-intens%]:0 <=> _ :* %[%+vb%-intens%]:0 ;
+                %[%+vb%-intens%]:0 :* _ ;
+!
+"Verb base negation"
+%[%+vb%-neg%]:0 <=> _ :* %[%+vb%-neg%]:0 ;
+                %[%+vb%-neg%]:0 :* _ ;
+!
+"Verb base negation 2"
+%[%+vb%-neg2%]:0 <=> _ :* %[%+vb%-neg2%]:0 ;
+                %[%+vb%-neg2%]:0 :* _ ;
+!
+"Verb base vb-restrictive"
+%[%+vb%-restr%]:0 <=> _ :* %[%+vb%-restr%]:0 ;
+                %[%+vb%-restr%]:0 :* _ ;
+!

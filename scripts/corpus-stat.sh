@@ -56,4 +56,5 @@ cat $F | cut -f2 -d'^' | cut -f1 -d'/' | sort -f | uniq -c | sort -gr  > ../corp
 bash hitparade.sh > ../corpora/hitparade.txt
 
 # Update unknown list
-cat ../corpora/hitparade.txt | grep '/\*[^0-9]' > ../corpora/unknown.txt
+# cat ../corpora/hitparade.txt | grep '/\*[^0-9]' > ../corpora/unknown.txt
+cat $F | grep '\*' | sort -f | uniq -c | sort -gr > ../corpora/unknown.txt

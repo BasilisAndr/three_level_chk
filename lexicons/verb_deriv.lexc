@@ -3,6 +3,11 @@
 !!!!!! Derivational prefixes
 
 LEXICON V-DERIV-PREFIXES
+: V-DERIV-PREFIXES-F ;
+: V-DERIV-PREFIXES-T ;
+: V-DERIV-PREFIXES-TH ;
+
+LEXICON V-DERIV-PREFIXES-F
 
 %<approx%>:м%{Æ%}ч%{ы%}%> Verbs ;
 %<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-T ;
@@ -14,7 +19,6 @@ TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-T ;
 MUT%-:пыԓ%{ы%}%> V-DERIV-PREFIXES-T ;
 MUT%-:пыс%{ы%}%> V-DERIV-PREFIXES-T ;
 FIN%-:пԓ%{ы%}%> V-DERIV-PREFIXES-T ;
-: V-DERIV-PREFIXES-FIN ;
 
 LEXICON V-DERIV-PREFIXES-T
 
@@ -23,23 +27,25 @@ LEXICON V-DERIV-PREFIXES-T
 [%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-TH ;
 %<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-TH ;
 TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-TH ;
-: V-DERIV-PREFIXES-TH ;
+: V-DERIV-PREFIXES-FIN ;
 
 LEXICON V-DERIV-PREFIXES-TH
 
 ! Verb bases
-@P.VPR.vb_com@%<%>:@P.VPR.vb_com@г%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@P.VPR.vb_restr@%<%>:@P.VPR.vb_restr@%{Æ%}м%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@P.VPR.vb_intens@%<%>:@P.VPR.vb_intens@т%{Æ%}ԓв%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@P.VPR.vb_approx@%<%>:@P.VPR.vb_approx@м%{Æ%}ч%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@P.VPR.vb_neg@NEG.PFV%-:@P.VPR.vb_neg@ԓюн%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@P.VPR.vb_neg2@CAR%-:@P.VPR.vb_neg2@%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@R.VPR.imposs@%<%>:@R.VPR.imposs@%{Æ%}ʼӄ%{Æ%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-com@%<com%>:@D.VPR@@P.VPR.vb-com@г%{Æ%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-restr@%<restr%>:@D.VPR@@P.VPR.vb-restr@%{Æ%}м%{ы%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-intens@%<intens%>:@D.VPR@@P.VPR.vb-intens@т%{Æ%}ԓв%{Æ%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-approx@%<approx%>:@D.VPR@@P.VPR.vb-approx@м%{Æ%}ч%{ы%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-neg@NEG.PFV%-:@D.VPR@@P.VPR.vb-neg@ԓюн%{ы%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-neg2@CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-neg2@PREF%-CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}вн%>%{Æ%}%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.imposs@%<imposs%>:@D.VPR@@P.VPR.imposs@%{ʔ%}%{Æ%}ʼӄ%{Æ%}%> V-DERIV-PREFIXES-FIN ;
 %<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-FIN ;
 %<ints2%>:ԓ%{ы%}ги%> V-DERIV-PREFIXES-FIN ;
 [%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-FIN ;
 %<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-FIN ;
 TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-FIN ;
+CHECK%-:see%> V-DERIV-PREFIXES-FIN ;
 : V-DERIV-PREFIXES-FIN ;
 
 
@@ -54,10 +60,17 @@ LEXICON V-DERIV-PREFIXES-FIN
 !!!!!! Derivational suffixes
 !
 LEXICON V-DERIV
+: V-DERIV-F ;
+: V-DERIV-TH ;
+: V-DERIV-TH-T ;
+: V-DERIV-TH-TH ;
+
+
+LEXICON V-DERIV-F
 ! prefix tags
 ! %<approx%>%[%+approx%]: V-IV-AFFIX ;
 ! ! thematic smth
-%<th%>:%>въи # ;
+@D.VPR@%<th%>:@D.VPR@%>въи # ;
 
 ! incompatible w/others (probably)
 %<punct%>:%>%{ы%}чӄыч%{Æ%}т V-DERIV-FIN ;
@@ -88,7 +101,7 @@ LEXICON V-DERIV
 %-GRAD:%>%{ы%}тыԓ%{Æ%} V-DERIV-TH ;
 %-LIBER:%>%{ы%}тур%{Æ%} V-DERIV-TH ;
 %-REC:%>%{ы%}выԓг V-DERIV-TH ;
-: V-DERIV-TH ;
+: V-DERIV-FIN ;
 
 LEXICON V-DERIV-TH
 %-VB:%>%{Æ%}т V-DERIV-TH-T ;
@@ -150,7 +163,7 @@ LEXICON V-DERIV-TH-TH
 
 LEXICON V-DERIV-FIN
 ! these form nouns from verbs
-%<ptcp%>: V-DERIV-PTCP ;
+%.ptcp: V-DERIV-PTCP ;
 @D.VPR@%<ger%>:@D.VPR@%>%{ы%}ԓӄыԓ N-Ia-AATGYR ;
 @D.VPR@%-NMLZ:@D.VPR@%>%{ы%}гырг%{⁺ⱽᴴ%} N-III-AVYNRAL ;
 @D.VPR@%<ger%>:@D.VPR@%>%{ы%}н%{⁺ⱽᴴ%} N-Vv-AVEEN ;       ! locative nom
@@ -160,13 +173,13 @@ LEXICON V-DERIV-FIN
 @D.VPR@%<ger%>:@D.VPR@ POSS ;       ! possessive nominalisation
 @D.VPR@%<ger%>:@D.VPR@ REL ;       ! relational nominalisation
 ! ! these are verb bases
-@R.VPR.vb_com@%<com%>%<vb%>:@R.VPR.vb_com@%>%{T%}%{Æ%} # ;
-@R.VPR.vb_com@%<com%>%<vb%>:@R.VPR.vb_com@%>%{ы%}ма # ;
-@R.VPR.vb_restr@%<restr%>%<vb%>:@R.VPR.vb_restr@%>%{T%}%{Æ%} # ;
-@R.VPR.vb_intens@%<ints%>%<vb%>:@R.VPR.vb_intens@%>%{T%}%{Æ%} # ;
-@R.VPR.vb_approx@%<approx%>%<vb%>:@R.VPR.vb_approx@%>%{T%}%{Æ%} # ;
-@R.VPR.vb_neg@%-INS:@R.VPR.vb_neg@%>%{T%}%{Æ%} # ;
-@R.VPR.vb_neg2@%-CAR%-INS:@R.VPR.vb_neg2@%>%{ы%}к%{Æ%} # ;
+@R.VPR.vb-com@%<com%>%<vb%>:@R.VPR.vb-com@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-com@%<com%>%<vb%>:@R.VPR.vb-com@%>%{ы%}ма # ;
+@R.VPR.vb-restr@%<restr%>%<vb%>:@R.VPR.vb-restr@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-intens@%<ints%>%<vb%>:@R.VPR.vb-intens@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-approx@%<approx%>%<vb%>:@R.VPR.vb-approx@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-neg@%-INS:@R.VPR.vb-neg@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-neg2@%-CAR%-INS:@R.VPR.vb-neg2@%>%{ы%}к%{Æ%} # ;
 @D.VPR@%<vb%>:@D.VPR@%>%{T%}%{Æ%} # ;
 @D.VPR@%<vb%>:@D.VPR@%>%{G%}ты%{⁺ⱽᴴ%} # ;
 @D.VPR@%<vb%>:@D.VPR@%>%{ы%}ӈ%{⁺ⱽᴴ%} # ;
@@ -181,13 +194,13 @@ LEXICON V-DERIV-FIN
 LEXICON V-DERIV-PTCP
 ! active (intr only)
 !! positive polarity
-@U.V.iv@@D.VPR@%<act%>:@U.V.iv@@D.VPR@%>%{ы%}ԓь N-III-AVYNRAL ; ! INTO-N-III ;
+@U.V.iv@%<act%>:@U.V.iv@%>%{ы%}ԓь N-DERIV-III ; ! INTO-N-III ;
 !! negative polarity
-@U.V.iv@@R.VPR.vb_neg@%-INS:@U.V.iv@@R.VPR.vb_neg@%>%{T%}%{Æ%}%>%{ы%}ԓь N-Ia-AATGYR ; ! INTO-N-I ;
-@U.V.iv@@R.VPR.vb_neg2@%-CAR%-INS:@U.V.iv@@R.VPR.vb_neg2@%>%{ы%}к%{Æ%}%>%{ы%}ԓь INTO-N-NEG-PART ;
+@U.V.iv@@R.VPR.vb-neg@%-INS%-ATTR:@U.V.iv@@R.VPR.vb-neg@%>%{T%}%{Æ%}%>%{ы%}ԓь INTO-N-NEG-PART ; ! INTO-N-I ;
+@U.V.iv@@R.VPR.vb-neg2@%-CAR%-ATTR:@U.V.iv@@R.VPR.vb-neg2@%>%{ы%}к%>%{ы%}ԓь INTO-N-NEG-PART ;
 ! passive (tr only)
 !! negative polarity
-@U.V.tv@@R.VPR.vb_neg@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb_neg@%>%{ы%}ԓь%>%{T%}%{Æ%} N-Ia-AATGYR ; ! INTO-N-I ;
-@U.V.tv@@R.VPR.vb_neg2@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb_neg2@%>%{ы%}ԓь%>%{Æ%} INTO-N-NEG-PART ;
+@U.V.tv@@R.VPR.vb-neg@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb-neg@%>%{ы%}ԓь%>%{T%}%{Æ%} INTO-N-NEG-PART ; ! INTO-N-I ;
+@U.V.tv@@R.VPR.vb-neg2@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb-neg2@%>%{ы%}ԓь%>%{Æ%} INTO-N-NEG-PART ;
 !! positive polarity
-@U.V.tv@@D.VPR@%<pass%>:@U.V.tv@@D.VPR@%>%{ы%}ё%{T%} N-Ia-AATGYR ; ! INTO-N-I ;
+@U.V.tv@%<pass%>:@U.V.tv@%>%{ы%}ё%{T%} INTO-N-NEG-PART ; ! INTO-N-I ;

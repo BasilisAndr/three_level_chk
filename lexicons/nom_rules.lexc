@@ -3,7 +3,8 @@ LEXICON Case-prefixes
 
 @P.CASE.com@COM%-:@P.CASE.com@г%{Æ%}%> N-deriv-prefixes ;
 @P.CASE.assoc@ASSOC%-:@P.CASE.assoc@га%> N-deriv-prefixes ;
-@P.CASE.prv@PRV%-:@P.CASE.prv@%{Æ%}%> N-deriv-prefixes ;
+@P.CASE.prv@CAR%-:@P.CASE.prv@%{Æ%}%> N-deriv-prefixes ;
+@P.CASE.prv@PREF%-CAR%-:@P.CASE.prv@%{Æ%}вн%>%{Æ%}%> N-deriv-prefixes ;
 
 
 LEXICON N-deriv-prefixes
@@ -47,7 +48,7 @@ LEXICON CASES-ANIM
 
 LEXICON CASES-OBL                             !!
 
-@D.CASE@%-NOM%.PL:@D.CASE@%>%{ы%}т%{и%} K ;
+@D.CASE@%-PL:@D.CASE@%>%{ы%}т%{и%} K ;
 @D.CASE@%-INS:@D.CASE@%>%{T%}%{Æ%} K ;
 @D.CASE@%-EQU:@D.CASE@%>у K ;
 @D.CASE@%-LOC:@D.CASE@%>%{ы%}к K ;
@@ -63,7 +64,8 @@ LEXICON CASES-OBL                             !!
 ! circumfixes
 @R.CASE.com@%-COM:@R.CASE.com@%>%{T%}%{Æ%} K ;
 @R.CASE.assoc@%-ASSOC:@R.CASE.assoc@%>%{ы%}ма%{⁺ⱽᴴ%} K ;
-@R.CASE.prv@%-PRV:@R.CASE.prv@%>%{ы%}к%{Æ%} K ;
+@R.CASE.prv@%-CAR:@R.CASE.prv@%>%{ы%}к%{Æ%} K ;
+@R.CASE.prv@%-CAR:@R.CASE.prv@%>%{ы%}к NEG-NOUN-PART ;
 
 
 
@@ -225,6 +227,16 @@ LEXICON N-DERIV-SUFF-T
 @D.CASE@@R.itsa.adj@:@D.CASE@@R.itsa.adj@ ADJ ;
 ! адвербные деривации
 @D.CASE@%-ADV%.PROL:@D.CASE@%>ата ADV ;
+
+
+LEXICON NEG-NOUN-PART
+! причастия
+! %<act%>:%>%{ы%}ԓь N-III-AVYNRAL ; ! INTO-N-III ;
+! %-INS%-ATTR:%>%{T%}%{Æ%}%>%{ы%}ԓь N-NEG-PART ; ! INTO-N-I ;
+%-ATTR:%>%{ы%}ԓь N-NEG-PART ;
+! %<pass%>%<neg%>:%>%{ы%}ԓь%>%{T%}%{Æ%} N-Ia-AATGYR ; ! INTO-N-I ;
+! %<pass%>%<neg%>:%>%{ы%}ԓь%>%{Æ%} N-NEG-PART ;
+
 ! : N-DERIV-SPACIAL ;
 !
 !
@@ -250,18 +262,35 @@ LEXICON N-DERIV-SUFF-T
 
 LEXICON POSS
 ! different possessed, mark on the possessor
-%<poss%>%<1sg%>:%>ин%{Æ%}гым N-DERIV-I ;
-%<poss%>%<2sg%>:%>ин%{Æ%}гыт N-DERIV-I ;
-%<poss%>%<3sg%>:%>ин%{Æ%} N-DERIV-Ic ;
-%<poss%>%<1pl%>:%>ин%{Æ%}мури N-DERIV-I ;
-%<poss%>%<2pl%>:%>ин%{Æ%}тури N-DERIV-I ;
-%<poss%>%<3pl%>:%>ин%{Æ%}т%{и%} N-DERIV-I ;
-%<pl%>%<poss%>%<1sg%>:%>%{ы%}ргин%{Æ%}гым N-DERIV-I ;
-%<pl%>%<poss%>%<2sg%>:%>%{ы%}ргин%{Æ%}гыт N-DERIV-I ;
-%<pl%>%<poss%>%<3sg%>:%>%{ы%}ргин N-DERIV-I ;
-%<pl%>%<poss%>%<1pl%>:%>%{ы%}ргин%{Æ%}мури N-DERIV-I ;
-%<pl%>%<poss%>%<2pl%>:%>%{ы%}ргин%{Æ%}тури N-DERIV-I ;
-%<pl%>%<poss%>%<3pl%>:%>%{ы%}ргин%{Æ%}т%{и%} N-DERIV-I ;
+%-POSS%-1SG:%>ин%{Æ%}%>%{ы%}гым N-DERIV-I ;
+%-POSS%-2SG:%>ин%{Æ%}%>%{ы%}гыт N-DERIV-I ;
+%-POSS%-3SG:%>ин%{Æ%} N-DERIV-Ic ;
+%-POSS%-1PL:%>ин%{Æ%}%{ы%}%>мури N-DERIV-I ;
+%-POSS%-2PL:%>ин%{Æ%}%{ы%}%>тури N-DERIV-I ;
+%-POSS%-PL:%>ин%{Æ%}%>%{ы%}т%{и%} N-DERIV-I ;
+%<pl%>%-POSS%-1SG:%>%{ы%}рг%>ин%{Æ%}%>гым N-DERIV-I ;
+%<pl%>%-POSS%-2SG:%>%{ы%}рг%>ин%{Æ%}%>гыт N-DERIV-I ;
+%<pl%>%-POSS%-3SG:%>%{ы%}рг%>ин N-DERIV-I ;
+%<pl%>%-POSS%-1PL:%>%{ы%}рг%>ин%{Æ%}%>мури N-DERIV-I ;
+%<pl%>%-POSS%-2PL:%>%{ы%}рг%>ин%{Æ%}%>тури N-DERIV-I ;
+%<pl%>%-POSS%-PL:%>%{ы%}рг%>ин%{Æ%}%>т%{и%} N-DERIV-I ;
+
+
+LEXICON POSS-PTCP
+! different possessed, mark on the possessor
+%-POSS%-1SG:%>ин%{Æ%}%>%{ы%}гым N-PTCP-I ;
+%-POSS%-2SG:%>ин%{Æ%}%>%{ы%}гыт N-PTCP-I ;
+%-POSS%-3SG:%>ин%{Æ%} N-PTCP-Ic ;
+%-POSS%-1PL:%>ин%{Æ%}%>%{ы%}мури N-PTCP-I ;
+%-POSS%-2PL:%>ин%{Æ%}%>%{ы%}тури N-PTCP-I ;
+%-POSS%-PL:%>ин%{Æ%}%>%{ы%}т%{и%} N-PTCP-I ;
+%<pl%>%-POSS%-1SG:%>%{ы%}рг%>ин%{Æ%}%>гым N-PTCP-I ;
+%<pl%>%-POSS%-2SG:%>%{ы%}рг%>ин%{Æ%}%>гыт N-PTCP-I ;
+%<pl%>%-POSS%-3SG:%>%{ы%}рг%>ин N-PTCP-I ;
+%<pl%>%-POSS%-1PL:%>%{ы%}рг%>ин%{Æ%}%>мури N-PTCP-I ;
+%<pl%>%-POSS%-2PL:%>%{ы%}рг%>ин%{Æ%}%>тури N-PTCP-I ;
+%<pl%>%-POSS%-PL:%>%{ы%}рг%>ин%{Æ%}%>т%{и%} N-PTCP-I ;
+
 
 ! different possessors, mark on the possessed
 %<px1sg%>%<abs%>:%>%{ы%}гым K ;
@@ -287,16 +316,25 @@ LEXICON PERS-NUM-CLITICS
 
 !!! FIXME
 
+LEXICON N-PTCP-I
+: K ;
+: N-OBL ;
+
+LEXICON N-PTCP-Ic
+:%{·%} K ;
+: N-OBL ;
+
+
 LEXICON N-DERIV-I
-@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+@D.CASE@@U.itsa.noun@:@D.CASE@@U.itsa.noun@ K ;
 : N-OBL ;
 
 LEXICON N-DERIV-Ic
-@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%{·%} K ;
+@D.CASE@@U.itsa.noun@:@D.CASE@@U.itsa.noun@%{·%} K ;
 : N-OBL ;
 
 LEXICON N-DERIV-III
-@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}н K ;
+@D.CASE@@U.itsa.noun@:@D.CASE@@U.itsa.noun@%>%{ы%}н K ;
 : N-OBL ;
 
 ! LEXICON INTO-N-I
@@ -307,8 +345,11 @@ LEXICON N-DERIV-III
 ! @D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}н K ;
 ! : N-OBL ;
 
+LEXICON N-NEG-PART
+: POSS-PTCP ;
+
 LEXICON INTO-N-NEG-PART
-@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>ин K ;
+@D.CASE@@U.itsa.noun@:@D.CASE@@U.itsa.noun@ POSS-PTCP ;
 @U.itsa.noun@:@U.itsa.noun@%>ин%{Æ%} N-OBL ;
 !
 ! LEXICON INTO-N-Vv                                   ! irregular; в-oblique

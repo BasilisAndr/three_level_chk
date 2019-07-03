@@ -27,6 +27,7 @@ Multichar_Symbols
 %.cm
 %.apos
 %.quot
+%.par
 
 
 %.iv                    ! Intransitive
@@ -91,6 +92,8 @@ INCH
 COMPL
 INS
 CAR
+NMLZ
+ATTR
 
 1SG%.S%/A
 1PL%.S%/A
@@ -112,6 +115,10 @@ LOC
 TOOL
 CONC
 PURP
+PREF
+
+
+CHECK
 
 NP%.1SG
 NP%.1PL
@@ -208,6 +215,12 @@ IRR%.2%/3SG%.S
 %<p3%>                    ! Third person
 %<der%>
 %<subst%>
+%<imposs%>
+
+%<com%>
+%<restr%>
+%<intens%>
+%<approx%>
 
 %{Æ%}                     ! э or а
 %{T%}                     ! latin; erg & com т ot 0
@@ -242,12 +255,12 @@ IRR%.2%/3SG%.S
 @P.VPR.yn@ @R.VPR.yn@
 @P.VPR.perf@ @R.VPR.perf@
 @P.VPR.hab@ @R.VPR.hab@
-@P.VPR.vb_com@ @R.VPR.vb_com@
-@P.VPR.vb_restr@ @R.VPR.vb_restr@
-@P.VPR.vb_intens@ @R.VPR.vb_intens@
-@P.VPR.vb_approx@ @R.VPR.vb_approx@
-@P.VPR.vb_neg@ @R.VPR.vb_neg@
-@P.VPR.vb_neg2@ @R.VPR.vb_neg2@
+@P.VPR.vb-com@ @R.VPR.vb-com@
+@P.VPR.vb-restr@ @R.VPR.vb-restr@
+@P.VPR.vb-intens@ @R.VPR.vb-intens@
+@P.VPR.vb-approx@ @R.VPR.vb-approx@
+@P.VPR.vb-neg@ @R.VPR.vb-neg@
+@P.VPR.vb-neg2@ @R.VPR.vb-neg2@
 @P.VPR.imposs@ @R.VPR.imposs@
 @P.VPR.nil@ @R.VPR.nil@
 @D.VPR@
@@ -274,6 +287,13 @@ IRR%.2%/3SG%.S
 %[%+restr%]
 %[%+approx%]
 %[%+auth%]
+%[%+imposs%]
+%[%+vb%-approx%]
+%[%+vb%-com%]
+%[%+vb%-intens%]
+%[%+vb%-neg%]
+%[%+vb%-neg2%]
+%[%+vb%-restr%]
 
 
 
@@ -284,6 +304,7 @@ IRR%.2%/3SG%.S
 LEXICON Root
 
 !Temp ;
+! Negation ;
 Case-prefixes ;
 Adj-prefixes ;
 Intensifiers ;
@@ -305,6 +326,10 @@ V-Tense-Prefixes ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+! LEXICON Negation
+! CAR%[%+neg%]:%{Æ%}%> Case-prefixes ;
+! CAR%[%+neg%]:%{Æ%}%> Verb-prefixes ;
+
 
 LEXICON ADV
 %.adv: # ;
@@ -314,7 +339,7 @@ LEXICON ADV
 LEXICON ADJ
 ! @U.itsa.verb@%<v%>%<iv%>:@U.itsa.verb@ V-IV ;
 : ADJ-FIN ;
-%.adj%.3sg: # ;
+@D.VPR@%.adj%.3sg:@D.VPR@ # ;
 
 
 LEXICON ADJ-FIN
@@ -423,3 +448,4 @@ LEXICON Punctuation
 %)%.rpar:%) # ;
 %\%.sent:%\ # ;
 %/%.sent:%/ # ;
+¶%.par:¶ # ;
