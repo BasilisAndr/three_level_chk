@@ -7,9 +7,9 @@
 
 
 #CMD="cat corpa/en.crp.txt"
-CMD="cat ../corpora/ckt.crp.txt"
+CMD="cat ../../corpora/ckt.crp.txt"
 
-F=../corpora/corpus-stat-res.txt
+F=../../corpora/corpus-stat-res.txt
 # for fil in `ls ../corpora/corporatxt`; do
 #   echo "$fil";
 #   $CMD="cat ../corpora/corporatxt/$fil";
