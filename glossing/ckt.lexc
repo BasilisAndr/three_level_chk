@@ -358,7 +358,7 @@ LEXICON ADJ-FIN
 
 @R.ADJ.n@%.adj:@R.ADJ.n@ PERS-NUM-CLITICS ;
 %.adj: PERS-NUM-CLITICS ;
-@R.ADJ.n@%.adj%-DIM3:@R.ADJ.n@%>ӄин%{Æ%}%>ӄ%{Æ%}й # ;
+@R.ADJ.n@%.adj%-DIM.3:@R.ADJ.n@%>ӄин%{Æ%}%>ӄ%{Æ%}й # ;
 @R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэначгын # ;
 @R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэнайӈын # ;
 @R.ADJ.n@%.adj%<aug%>3pl:@R.ADJ.n@%>ӄэначгыт # ;
@@ -7419,7 +7419,7 @@ LEXICON Case-prefixes
 LEXICON N-deriv-prefixes
 FEM%-:ӈ%{Æ%}в%{ы%}%> NOMINALS ;
 INTS%-:ԓ%{ы%}ги%> NOMINALS ;
-INTS%-:т%{Æ%}%> NOMINALS ;
+INTS%-:т%{Æ%}ӈ%> NOMINALS ;
 RESTR%-:%{Æ%}м%> NOMINALS ;
 SEEM%-:м%{Æ%}ԓ%> NOMINALS ;
 APPR%-:м%{Æ%}ч%> NOMINALS ;
@@ -7710,7 +7710,7 @@ LEXICON POSS-PTCP
 %<px3pl%>%<abs%>:%>%{ы%}т%{и%} K ;
 
 LEXICON REL
-%<rel%>:%>%{ы%}кин N-DERIV-I ;
+%-REL:%>%{ы%}кин N-DERIV-I ;
 
 LEXICON PERS-NUM-CLITICS
 %<1sg%>:%>%{I%}гым K ;
@@ -7886,8 +7886,8 @@ LEXICON PRON-YMYLJO
 
 %<prn%>%<quant%>%<sg%>: # ;
 %<prn%>%<quant%>: CASES-ANIM ;
+%<prn%>%<quant%>: CASES-OBL ;
 %<prn%>%<quant%>: POSS ;
-
 
 LEXICON PRON-QOL-SG
 

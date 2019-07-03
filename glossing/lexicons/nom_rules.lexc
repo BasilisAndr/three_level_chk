@@ -10,7 +10,7 @@ LEXICON Case-prefixes
 LEXICON N-deriv-prefixes
 FEM%-:ӈ%{Æ%}в%{ы%}%> NOMINALS ;
 INTS%-:ԓ%{ы%}ги%> NOMINALS ;
-INTS%-:т%{Æ%}%> NOMINALS ;
+INTS%-:т%{Æ%}ӈ%> NOMINALS ;
 RESTR%-:%{Æ%}м%> NOMINALS ;
 SEEM%-:м%{Æ%}ԓ%> NOMINALS ;
 APPR%-:м%{Æ%}ч%> NOMINALS ;

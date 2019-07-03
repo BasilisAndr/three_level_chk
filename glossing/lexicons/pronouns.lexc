@@ -107,8 +107,8 @@ LEXICON PRON-YMYLJO
 
 %<prn%>%<quant%>%<sg%>: # ;
 %<prn%>%<quant%>: CASES-ANIM ;
+%<prn%>%<quant%>: CASES-OBL ;
 %<prn%>%<quant%>: POSS ;
-
 
 LEXICON PRON-QOL-SG
 
