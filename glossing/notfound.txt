@@ -1,0 +1,117 @@
+@R.ADJ.n@.adj<dim>3:@R.ADJ.n@>ӄин{Æ}ӄ{Æ}й # ;
+@R.ADJ.n@.adj<aug>3sg:@R.ADJ.n@>ӄэначгын # ;
+@R.ADJ.n@.adj<aug>3sg:@R.ADJ.n@>ӄэнайӈын # ;
+@R.ADJ.n@.adj<aug>3pl:@R.ADJ.n@>ӄэначгыт # ;
+@R.ADJ.n@.adj<aug><3pl>:@R.ADJ.n@>ӄэнайӈыт # ;
+@R.ADJ.n@.adj<ints-adv[+ints2]:@R.ADJ.n@>{ʔ}{Æ}ʼв # ;
+@D.ADJ@.adj<ints-adv[+ints3]:@D.ADJ@>{ы}ӈ # ;
+@R.ADJ.e@.adj<vb-neg:@R.ADJ.e@>{ы}к{Æ} # ;
+@D.CASE@<ine>:@D.CASE@>{ы}чыку K ;
+@D.CASE@<sub>:@D.CASE@>{ы}йиӈкы K ;
+<rel_n>:>{ы}ԓь N-DERIV-SUFF-T ;
+<nmzr>:>{ы}ԓӄыԓ N-DERIV-SUFF-T ;
+<nmzr>:>{ы}чь N-DERIV-SUFF-T ;
+<nmzr>:>{ы}ёԓг N-DERIV-SUFF-T ;
+<pers_n>:>{ы}вйи N-DERIV-SUFF-T ;
+<dim>:>{ы}ӄ{Æ}й N-DERIV-SUFF-T ;
+<aug>:>{ы}ч{ы}{N} N-DERIV-SUFF-T ;
+<rel_n>:>{ы}ԓь N-DERIV-III ;
+<nmzr>:>{ы}ԓӄыԓ N-DERIV-I ;
+<nmzr>:>{ы}чь N-DERIV-III ;
+<nmzr>:>{ы}ёԓг N-DERIV-III ;
+<pers_n>:>{ы}вйи N-DERIV-I ;
+<dim>:>{ы}ӄ{Æ}й N-DERIV-I ;
+<aug>:>{ы}ч{ы}{N} N-DERIV-III ;
+<top>:>{ы}ткын{⁺ⱽᴴ} N-DERIV-I ;
+<near>:>{ы}ӈӄача N-DERIV-Ic ;
+<near>:>{ы}ӈӄаса N-DERIV-Ic ;
+<edge>:>{ы}ԓг N-DERIV-III ;
+<edge>:>{ы}ԓэӈ N-DERIV-III ;
+<side>:>{ы}чурм N-DERIV-III ;
+<side>:>{ы}cурм N-DERIV-III ;
+<bottom>:>{ы}йиӈ N-DERIV-III ;
+<bottom>:>{ы}гиӈ N-DERIV-III ;
+<ext>:>{ы}йикви N-DERIV-III ;
+<among>:>{ы}ԓыку N-DERIV-III ;
+<in>:>{ы}сыку N-DERIV-III ;
+<surf>:>{ы}сӄ N-DERIV-III ;
+<front>:>{ы}тэгн N-DERIV-III ;
+LEXICON POSS
+! different possessed, mark on the possessor
+<poss><1sg>:>ин{Æ}гым N-DERIV-I ;
+<poss><2sg>:>ин{Æ}гыт N-DERIV-I ;
+<poss><3sg>:>ин{Æ} N-DERIV-Ic ;
+<poss><1pl>:>ин{Æ}мури N-DERIV-I ;
+<poss><2pl>:>ин{Æ}тури N-DERIV-I ;
+<poss><3pl>:>ин{Æ}т{и} N-DERIV-I ;
+<pl><poss><1sg>:>{ы}ргин{Æ}гым N-DERIV-I ;
+<pl><poss><2sg>:>{ы}ргин{Æ}гыт N-DERIV-I ;
+<pl><poss><3sg>:>{ы}ргин N-DERIV-I ;
+<pl><poss><1pl>:>{ы}ргин{Æ}мури N-DERIV-I ;
+<pl><poss><2pl>:>{ы}ргин{Æ}тури N-DERIV-I ;
+<pl><poss><3pl>:>{ы}ргин{Æ}т{и} N-DERIV-I ;
+
+! different possessors, mark on the possessed
+<px1sg><abs>:>{ы}гым K ;
+<px2sg><abs>:>{ы}гыт K ;
+<px3sg><abs>:>{ы}н K ;
+<px1pl><abs>:>{ы}мури K ;
+<px2pl><abs>:>{ы}тури K ;
+<px3pl><abs>:>{ы}т{и} K ;
+
+LEXICON REL
+<rel>:>{ы}кин N-DERIV-I ;
+
+LEXICON PERS-NUM-CLITICS
+<1sg>:>{I}гым K ;
+<2sg>:>{I}гыт K ;
+<3sg>:>{ы}ӄин K ;
+<3sg>:>{ы}кин K ;
+<1pl>:>{ы}мури K ;
+<2pl>:>{ы}тури K ;
+<3pl>:>{ы}ӄин{Æ}т K ;
+<3pl>:>{ы}кин{Æ}т K ;
+
+! глагольное
+<ints>:т{Æ}{N}{ы}> V-DERIV-PREFIXES-TH ;
+<ints2>:ԓ{ы}ги> V-DERIV-PREFIXES-TH ;
+<ap>:ин{Æ}> V-DERIV-PREFIXES-TH ;
+<th>:>въи # ;
+<punct>:>{ы}чӄыч{Æ}т V-DERIV-FIN ;
+<dim>:>{ы}ӄ{Æ}{Æ}т V-DERIV-FIN ;
+<aug>:>{ы}чгат V-DERIV-FIN ;
+<purp>:>{ы}чӄив V-DERIV-TH ;
+<utilit>:>{ы}тку V-DERIV-TH ;
+
+<ptcp>: V-DERIV-PTCP ;
+@D.VPR@<ger>:@D.VPR@>{ы}ԓӄыԓ N-Ia-AATGYR ;
+@D.VPR@-NMLZ:@D.VPR@>{ы}гырг{⁺ⱽᴴ} N-III-AVYNRAL ;
+@D.VPR@<ger>:@D.VPR@>{ы}н{⁺ⱽᴴ} N-Vv-AVEEN ;       ! locative nom
+@D.VPR@<ger>:@D.VPR@>{ы}я N-III-AVYNRAL ;       ! 'age' nominalisation
+@D.VPR@<ger>:@D.VPR@>{и}н{Æ}ӈ{Æ} N-Ic-AJKOL ;       ! instrumental nominalisation
+@D.VPR@<ger>:@D.VPR@>{ы}ёԓг N-III-AVYNRAL ;       ! 'container' nominalisation
+@D.VPR@<ger>:@D.VPR@ POSS ;       ! possessive nominalisation
+@D.VPR@<ger>:@D.VPR@ REL ;       ! relational nominalisation
+! ! these are verb bases
+@R.VPR.vb_com@<com><vb>:@R.VPR.vb_com@>{T}{Æ} # ;
+@R.VPR.vb_com@<com><vb>:@R.VPR.vb_com@>{ы}ма # ;
+@R.VPR.vb_restr@<restr><vb>:@R.VPR.vb_restr@>{T}{Æ} # ;
+@R.VPR.vb_intens@<ints><vb>:@R.VPR.vb_intens@>{T}{Æ} # ;
+@R.VPR.vb_approx@<approx><vb>:@R.VPR.vb_approx@>{T}{Æ} # ;
+@R.VPR.vb_neg@-INS:@R.VPR.vb_neg@>{T}{Æ} # ;
+@R.VPR.vb_neg2@-CAR-INS:@R.VPR.vb_neg2@>{ы}к{Æ} # ;
+@D.VPR@<vb>:@D.VPR@>{T}{Æ} # ;
+@D.VPR@<vb>:@D.VPR@>{G}ты{⁺ⱽᴴ} # ;
+@D.VPR@<vb>:@D.VPR@>{ы}ӈ{⁺ⱽᴴ} # ;
+@R.VPR.imposs@<imposs><vb>:@R.VPR.imposs@>{ы}ӈ{⁺ⱽᴴ} # ;
+
+LEXICON V-DERIV-PTCP
+! active (intr only)
+!! positive polarity
+<act>:>{ы}ԓь N-III-AVYNRAL ;
+! passive (tr only)
+!! negative polarity
+<pass><neg>:>{ы}ԓь>{T}{Æ} N-Ia-AATGYR ;
+<pass><neg>:>{ы}ԓь>{Æ} INTO-N-NEG-PART ;
+!! positive polarity
+<pass>:>{ы}ё{T} N-Ia-AATGYR ;
