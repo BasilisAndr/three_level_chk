@@ -141,6 +141,18 @@ IRR%.2%&3SG%.S
 2PL%.A%.3%.O
 3SG%.A%.3%.O
 
+TOP
+NEAR
+BOTTOM
+EDGE
+SIDE
+EXT
+AMONG
+IN
+SURF
+FRONT
+
+
 
 
 %<pl%>                    ! Plural

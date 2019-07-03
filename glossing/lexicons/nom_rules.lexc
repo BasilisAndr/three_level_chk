@@ -229,6 +229,29 @@ LEXICON N-DERIV-SUFF-T
 @D.CASE@%-ADV%.PROL:@D.CASE@%>ата ADV ;
 
 
+
+! : N-DERIV-SPACIAL ;
+!
+!
+! LEXICON N-DERIV-SPACIAL
+%-TOP:%>%{ы%}ткын%{⁺ⱽᴴ%} N-DERIV-I ;
+%-NEAR:%>%{ы%}ӈӄача N-DERIV-Ic ;
+! %<near%>:%>%{ы%}ӈӄаса N-DERIV-Ic ;
+%-EDGE:%>%{ы%}ԓг N-DERIV-III ;
+%-EDGE:%>%{ы%}ԓэӈ N-DERIV-III ;
+%-SIDE:%>%{ы%}чурм N-DERIV-III ;
+! %<side%>:%>%{ы%}cурм N-DERIV-III ;
+%-BOTTOM:%>%{ы%}йиӈ N-DERIV-III ;
+%-BOTTOM:%>%{ы%}гиӈ N-DERIV-III ;
+%-EXT:%>%{ы%}йикви N-DERIV-III ;
+%-AMONG:%>%{ы%}ԓыку N-DERIV-III ;
+%-IN:%>%{ы%}чыку N-DERIV-III ;
+%-SURF:%>%{ы%}чӄ N-DERIV-III ;
+%-FRONT:%>%{ы%}тэгн N-DERIV-III ;
+
+
+
+
 LEXICON NEG-NOUN-PART
 ! причастия
 ! %<act%>:%>%{ы%}ԓь N-III-AVYNRAL ; ! INTO-N-III ;
@@ -236,29 +259,6 @@ LEXICON NEG-NOUN-PART
 %-ATTR:%>%{ы%}ԓь N-NEG-PART ;
 ! %<pass%>%<neg%>:%>%{ы%}ԓь%>%{T%}%{Æ%} N-Ia-AATGYR ; ! INTO-N-I ;
 ! %<pass%>%<neg%>:%>%{ы%}ԓь%>%{Æ%} N-NEG-PART ;
-
-! : N-DERIV-SPACIAL ;
-!
-!
-! LEXICON N-DERIV-SPACIAL
-%<top%>:%>%{ы%}ткын%{⁺ⱽᴴ%} N-DERIV-I ;
-%<near%>:%>%{ы%}ӈӄача N-DERIV-Ic ;
-! %<near%>:%>%{ы%}ӈӄаса N-DERIV-Ic ;
-%<edge%>:%>%{ы%}ԓг N-DERIV-III ;
-%<edge%>:%>%{ы%}ԓэӈ N-DERIV-III ;
-%<side%>:%>%{ы%}чурм N-DERIV-III ;
-! %<side%>:%>%{ы%}cурм N-DERIV-III ;
-%<bottom%>:%>%{ы%}йиӈ N-DERIV-III ;
-%<bottom%>:%>%{ы%}гиӈ N-DERIV-III ;
-%<ext%>:%>%{ы%}йикви N-DERIV-III ;
-%<among%>:%>%{ы%}ԓыку N-DERIV-III ;
-%<in%>:%>%{ы%}чыку N-DERIV-III ;
-%<surf%>:%>%{ы%}чӄ N-DERIV-III ;
-%<front%>:%>%{ы%}тэгн N-DERIV-III ;
-
-
-
-
 
 LEXICON POSS
 ! different possessed, mark on the possessor
@@ -301,7 +301,7 @@ LEXICON POSS-PTCP
 %<px3pl%>%<abs%>:%>%{ы%}т%{и%} K ;
 
 LEXICON REL
-%<rel%>:%>%{ы%}кин N-DERIV-I ;
+%-REL:%>%{ы%}кин N-DERIV-I ;
 
 LEXICON PERS-NUM-CLITICS
 %<1sg%>:%>%{I%}гым K ;
