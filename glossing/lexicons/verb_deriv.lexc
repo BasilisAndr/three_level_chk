@@ -17,7 +17,7 @@ LEXICON V-DERIV-PREFIXES-F
 %<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-T ;
 TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-T ;
 MUT%-:пыԓ%{ы%}%> V-DERIV-PREFIXES-T ;
-MUT%-:пыс%{ы%}%> V-DERIV-PREFIXES-T ;
+MUT%-:пыч%{ы%}%> V-DERIV-PREFIXES-T ;
 FIN%-:пԓ%{ы%}%> V-DERIV-PREFIXES-T ;
 
 LEXICON V-DERIV-PREFIXES-T
@@ -92,12 +92,12 @@ LEXICON V-DERIV-F
 %-GO.DO:%>%{ы%}ӈыта V-DERIV-TH ;
 %-GO.DO:%>%{ы%}нта V-DERIV-TH ;
 %-CATCH:%>%{ы%}ӈытт V-DERIV-TH ;
-%-MULT:%>%{ы%}са V-DERIV-TH ;
-%-PLUR:%>%{ы%}сир V-DERIV-TH ;
-%-COMB:%>%{ы%}сит V-DERIV-TH ;
-%-FREQ:%>%{ы%}сыʼт V-DERIV-TH ;
-%-MCP:%>%{ы%}сӄив V-DERIV-TH ;
-%-RAPID:%>%{ы%}сӄыс%{Æ%}т V-DERIV-TH ;
+%-MULT:%>%{ы%}ча V-DERIV-TH ;
+%-PLUR:%>%{ы%}чир V-DERIV-TH ;
+%-COMB:%>%{ы%}чит V-DERIV-TH ;
+%-FREQ:%>%{ы%}чыʼт V-DERIV-TH ;
+%-MCP:%>%{ы%}чӄив V-DERIV-TH ;
+%-RAPID:%>%{ы%}чӄыч%{Æ%}т V-DERIV-TH ;
 %-GRAD:%>%{ы%}тыԓ%{Æ%} V-DERIV-TH ;
 %-LIBER:%>%{ы%}тур%{Æ%} V-DERIV-TH ;
 %-REC:%>%{ы%}выԓг V-DERIV-TH ;

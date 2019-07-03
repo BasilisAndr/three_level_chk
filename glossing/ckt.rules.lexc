@@ -95,11 +95,11 @@ CAR
 NMLZ
 ATTR
 
-1SG%.S%/A
-1PL%.S%/A
-2%.S%/A%.SUBJ
-3%.S%/A%.SUBJ
-2%/3%.S%/A
+1SG%.S%&A
+1PL%.S%&A
+2%.S%&A%.SUBJ
+3%.S%&A%.SUBJ
+2%&3%.S%&A
 LOW%.A
 LOW%.A%.SUBJ
 PF
@@ -127,13 +127,13 @@ NP%.2PL
 
 TH
 1SG%.S
-1PL%.S%/O
-2%/3SG%.S
-2PL%.S%/O
-2%/3SG%.S
+1PL%.S%&O
+2%&3SG%.S
+2PL%.S%&O
+2%&3SG%.S
 PL
 IRR
-IRR%.2%/3SG%.S
+IRR%.2%&3SG%.S
 1SG%.O
 1PL%.O
 2SG%.O
