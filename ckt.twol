@@ -169,7 +169,7 @@ Vx:Vy <=> [ Dominant | %{⁺ⱽᴴ%}: ] :* :ч (:0) (:0) _ ;
 V:0 <=> .#. _ %>: :Vow ;
        :Cns _ (:0) (:0) %>: :Vow ;
        except
-           :Cns _ (:0) (:0) %>: [ V: | :Vd ] %>: ;     ! for one-vowel suffixes
+           :Cns _ (:0) (:0) %>: [ V: | :Vd ] [%>: | .#. ] ;     ! for one-vowel suffixes
             %>: _ (:0) (:0) %>: [ V: | :Vd ] ;
        where
            V in ( е и у ю %{Æ%} )
