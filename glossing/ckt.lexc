@@ -345,8 +345,8 @@ V-Tense-Prefixes ;
 
 
 LEXICON ADV
-@D.ADJ@@D.itsa@%.adv:@D.ADJ@@D.itsa@ # ;
-@D.ADJ@%.adv%.rel:@D.ADJ@%>%{ы%}ԓь N-DERIV-III ;
+%.adv: # ;
+%.adv%.rel:%>%{ы%}ԓь N-DERIV-III ;
 
 
 ! LEXICON ADJ
