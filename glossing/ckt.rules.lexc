@@ -140,6 +140,7 @@ IRR%.2%&3SG%.S
 3SG%.O
 2PL%.A%.3%.O
 3SG%.A%.3%.O
+ST%.3SG
 
 TOP
 NEAR
@@ -348,16 +349,25 @@ LEXICON ADV
 @D.ADJ@%.adv%.rel:@D.ADJ@%>%{ы%}ԓь N-DERIV-III ;
 
 
+! LEXICON ADJ
+! ! @U.itsa.verb@%<v%>%<iv%>:@U.itsa.verb@ V-IV ;
+! : ADJ-FIN ;
+! @D.VPR@%.adj%.3sg:@D.VPR@ # ;
+
+
 LEXICON ADJ
-! @U.itsa.verb@%<v%>%<iv%>:@U.itsa.verb@ V-IV ;
-: ADJ-FIN ;
-@D.VPR@%.adj%.3sg:@D.VPR@ # ;
+
+@R.ADJ.n@@D.itsa@%.adj%-ST:@R.ADJ.n@@D.itsa@%>ӄин PERS-NUM-CLITICS ;
+@R.ADJ.n@%.adj%-ST%.3SG:@R.ADJ.n@%>ӄин # ;
+@D.ADJ@@D.itsa@%.adj:@D.ADJ@@D.itsa@ PERS-NUM-CLITICS ;
+@D.itsa@:@D.itsa@ OTHER-ADJ ;
+
+@D.ADJ@@U.itsa.verb@%-VB:@D.ADJ@@U.itsa.verb@%>%{Æ%}т V ;
+@D.ADJ@@U.itsa.verb@%-CS:@D.ADJ@@U.itsa.verb@%>%{Æ%}в V ;
 
 
-LEXICON ADJ-FIN
+LEXICON OTHER-ADJ
 
-@R.ADJ.n@%.adj:@R.ADJ.n@%>ӄин PERS-NUM-CLITICS ;
-%.adj: PERS-NUM-CLITICS ;
 @R.ADJ.n@%.adj%-DIM.3:@R.ADJ.n@%>ӄин%{Æ%}%>ӄ%{Æ%}й # ;
 @R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэначгын # ;
 @R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэнайӈын # ;
@@ -382,9 +392,6 @@ LEXICON ADJ-FIN
 @D.ADJ@%.adj%<rel_n:@D.ADJ@%>%{ы%}чь N-III-AVYNRAL ; ! INTO-N-III ;
 @D.ADJ@%.adj%-NMLZ:@D.ADJ@%>%{ы%}гырг%{⁺ⱽᴴ%} N-III-AVYNRAL ; ! INTO-N-III ;
 @D.ADJ@%.adj%<ger:@D.ADJ@%>я N-III-AVYNRAL ; ! INTO-N-III ;       ! 'age' nominalisation
-
-@D.ADJ@@U.itsa.verb@%-VB:@D.ADJ@@U.itsa.verb@%>%{Æ%}т V ;
-@D.ADJ@@U.itsa.verb@%-CS:@D.ADJ@@U.itsa.verb@%>%{Æ%}в V ;
 
 
 
