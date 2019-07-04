@@ -637,6 +637,7 @@ $(LANG1).lexc: $(LANG1).rules.lexc
 	cat lexicons/verbt.lexc >> $(LANG1).lexc
 	cat lexicons/verbu.lexc >> $(LANG1).lexc
 	cat lexicons/verbv.lexc >> $(LANG1).lexc
+	cat lexicons/verbw.lexc >> $(LANG1).lexc
 
 $(LANG1).lexc.hfst: $(LANG1).lexc
 	hfst-lexc --Werror $(LANG1).lexc -o $(LANG1).lexc.hfst

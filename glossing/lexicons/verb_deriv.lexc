@@ -51,7 +51,7 @@ CHECK%-:see%> V-DERIV-PREFIXES-FIN ;
 
 LEXICON V-DERIV-PREFIXES-FIN
 : Verbs ;
-: Adjectives ;
+! : Adjectives ;
 : Nouns ;
 
 ! %<root here%>
