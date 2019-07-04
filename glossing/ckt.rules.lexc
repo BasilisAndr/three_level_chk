@@ -344,8 +344,8 @@ V-Tense-Prefixes ;
 
 
 LEXICON ADV
-%.adv: # ;
-%.adv%.rel:%>%{ы%}ԓь N-DERIV-III ;
+@D.ADJ@@D.itsa@%.adv:@D.ADJ@@D.itsa@ # ;
+@D.ADJ@%.adv%.rel:@D.ADJ@%>%{ы%}ԓь N-DERIV-III ;
 
 
 LEXICON ADJ
@@ -356,7 +356,7 @@ LEXICON ADJ
 
 LEXICON ADJ-FIN
 
-@R.ADJ.n@%.adj:@R.ADJ.n@ PERS-NUM-CLITICS ;
+@R.ADJ.n@%.adj:@R.ADJ.n@%>ӄин PERS-NUM-CLITICS ;
 %.adj: PERS-NUM-CLITICS ;
 @R.ADJ.n@%.adj%-DIM.3:@R.ADJ.n@%>ӄин%{Æ%}%>ӄ%{Æ%}й # ;
 @R.ADJ.n@%.adj%<aug%>3sg:@R.ADJ.n@%>ӄэначгын # ;

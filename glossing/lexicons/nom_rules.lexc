@@ -23,6 +23,7 @@ LEXICON NOMINALS
 : PRE-NOUNS ;
 : Nouns ;
 : Pronouns ;
+: Adverbs ;
 
 
 LEXICON INTER-NOUNS

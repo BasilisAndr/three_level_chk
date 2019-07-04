@@ -2,50 +2,50 @@
 
 LEXICON PRON-GYM
 
-%<prn%>%<pers%>%<p1%>%<sg%>%<abs%>:о # ;
-%<prn%>%<pers%>%<p1%>%<sg%>%<abs%>: # ;
-! %<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:ык # ;
-! %<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:ыкы # ;
-! %<prn%>%<pers%>%<p1%>%<sg%>%<all%>:ыкагты # ;
-! %<prn%>%<pers%>%<p1%>%<sg%>%<equ%>:ыгмил # ;
-%<prn%>%<pers%>%<p1%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
-%<prn%>%<pers%>%<p1%>%<sg%>: PRON-PERS-CASES ;
-%<prn%>%<pers%>%<p1%>%<sg%>:н POSS ;
+.prn%<pers%>%<p1%>%<sg%>%<abs%>:о # ;
+.prn%<pers%>%<p1%>%<sg%>%<abs%>: # ;
+! .prn%<pers%>%<p1%>%<sg%>%<loc%>:ык # ;
+! .prn%<pers%>%<p1%>%<sg%>%<dat%>:ыкы # ;
+! .prn%<pers%>%<p1%>%<sg%>%<all%>:ыкагты # ;
+! .prn%<pers%>%<p1%>%<sg%>%<equ%>:ыгмил # ;
+.prn%<pers%>%<p1%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
+.prn%<pers%>%<p1%>%<sg%>: PRON-PERS-CASES ;
+.prn%<pers%>%<p1%>%<sg%>:н POSS ;
 
 LEXICON PRON-GYT
 
-%<prn%>%<pers%>%<p2%>%<sg%>%<abs%>:то # ;
-%<prn%>%<pers%>%<p2%>%<sg%>%<abs%>:т # ;
-! %<prn%>%<pers%>%<p2%>%<sg%>%<erg%>:тнан # ;
-! %<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:тык # ;
-! %<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:тыкы # ;
-! %<prn%>%<pers%>%<p2%>%<sg%>%<all%>:тыкагты # ;
-! %<prn%>%<pers%>%<p2%>%<sg%>%<equ%>:тыгмил # ;
-%<prn%>%<pers%>%<p2%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
-%<prn%>%<pers%>%<p2%>%<sg%>:н PRON-PERS-CASES ;
+.prn%<pers%>%<p2%>%<sg%>%<abs%>:то # ;
+.prn%<pers%>%<p2%>%<sg%>%<abs%>:т # ;
+! .prn%<pers%>%<p2%>%<sg%>%<erg%>:тнан # ;
+! .prn%<pers%>%<p2%>%<sg%>%<loc%>:тык # ;
+! .prn%<pers%>%<p2%>%<sg%>%<dat%>:тыкы # ;
+! .prn%<pers%>%<p2%>%<sg%>%<all%>:тыкагты # ;
+! .prn%<pers%>%<p2%>%<sg%>%<equ%>:тыгмил # ;
+.prn%<pers%>%<p2%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
+.prn%<pers%>%<p2%>%<sg%>:н PRON-PERS-CASES ;
 
 LEXICON PRON-YTLJON
 
-@D.CASE@%<prn%>%<pers%>%<p3%>%<sg%>%<abs%>:@D.CASE@тԓён # ;
-! %<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:нык # ;
-! %<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ныкагты # ;
+@D.CASE@.prn%<pers%>%<p3%>%<sg%>%<abs%>:@D.CASE@тԓён # ;
+! .prn%<pers%>%<p3%>%<sg%>%<loc%>:нык # ;
+! .prn%<pers%>%<p3%>%<sg%>%<abl%>:ныкагты # ;
 @D.CASE@%<abl%>:@D.CASE@%>нка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
 @D.CASE@%<ori%>:@D.CASE@%>нк%{Æ%}%>%{ы%}гйит # ;
-%<prn%>%<pers%>%<p3%>%<sg%>:н PRON-PERS-CASES ;
+.prn%<pers%>%<p3%>%<sg%>:н PRON-PERS-CASES ;
 
 LEXICON PRON-MURI
-%<prn%>%<pers%>%<p1%>%<pl%>%<abs%>:и # ;
-%<prn%>%<pers%>%<p1%>%<pl%>: PRON-PERS-CASES ;
+.prn%<pers%>%<p1%>%<pl%>%<abs%>:и # ;
+.prn%<pers%>%<p1%>%<pl%>: PRON-PERS-CASES ;
 
 LEXICON PRON-TURI
-%<prn%>%<pers%>%<p2%>%<pl%>%<abs%>:и # ;
-%<prn%>%<pers%>%<p2%>%<pl%>: PRON-PERS-CASES ;
+.prn%<pers%>%<p2%>%<pl%>%<abs%>:и # ;
+.prn%<pers%>%<p2%>%<pl%>: PRON-PERS-CASES ;
 
 LEXICON PRON-YCCI-ABS
-%<prn%>%<pers%>%<p3%>%<pl%>%<abs%>:и # ;
+.prn%<pers%>%<p3%>%<pl%>%<abs%>:и # ;
 
 LEXICON PRON-YCCI-OBL
-%<prn%>%<pers%>%<p3%>%<pl%>: PRON-PERS-CASES ;
+.prn%<pers%>%<p3%>%<pl%>: PRON-PERS-CASES ;
 
 
 LEXICON PRON-PERS-CASES
@@ -78,70 +78,70 @@ LEXICON PRON-REL
 
 LEXICON PRON-RXENUT-ABS
 
-@D.CASE@%<prn%>%<itg%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+@D.CASE@.prn%<itg%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
 
 LEXICON PRON-RXENUT-OBL
 
-%<prn%>%<itg%>: CASES-OBL ;
-%<prn%>%<itg%>: CASES-ANIM ;
+.prn%<itg%>: CASES-OBL ;
+.prn%<itg%>: CASES-ANIM ;
 
 
 LEXICON PRON-IMYRXENUT-ABS
 
-@D.CASE@%<prn%>%<ind%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+@D.CASE@.prn%<ind%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
 
 LEXICON PRON-IMYRXENUT-OBL
 
-%<prn%>%<ind%>: CASES-OBL ;
-%<prn%>%<ind%>: CASES-ANIM ;
+.prn%<ind%>: CASES-OBL ;
+.prn%<ind%>: CASES-ANIM ;
 
 LEXICON PRON-YNQEN
 
-@D.CASE@%<prn%>%<dem%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
-%<prn%>%<dem%>: CASES-OBL ;
-%<prn%>%<dem%>: CASES-ANIM ;
-%<prn%>%<dem%>: POSS ;
+@D.CASE@.prn%<dem%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+.prn%<dem%>: CASES-OBL ;
+.prn%<dem%>: CASES-ANIM ;
+.prn%<dem%>: POSS ;
 
 
 LEXICON PRON-YMYLJO
 
-%<prn%>%<quant%>%<sg%>: # ;
-%<prn%>%<quant%>: CASES-ANIM ;
-%<prn%>%<quant%>: CASES-OBL ;
-%<prn%>%<quant%>: POSS ;
+.prn%<quant%>%<sg%>: # ;
+.prn%<quant%>: CASES-ANIM ;
+.prn%<quant%>: CASES-OBL ;
+.prn%<quant%>: POSS ;
 
 LEXICON PRON-QOL-SG
 
-%<prn%>%<quant%>%<sg%>%<abs%>: # ;
+.prn%<quant%>%<sg%>%<abs%>: # ;
 
 LEXICON PRON-QOL ! p.173 Inenlikei
 
-%<prn%>%<quant%>: CASES-OBL ;
+.prn%<quant%>: CASES-OBL ;
 
 
 LEXICON PRON-CINIT
 
-%<prn%>%<ref%>%<sg%>%<abs%>: # ;
-%<prn%>%<ref%>: CASES-OBL ;
+.prn%<ref%>%<sg%>%<abs%>: # ;
+.prn%<ref%>: CASES-OBL ;
 
 
 LEXICON PRON-AMYNAN
 
-%<prn%>%<restr%>%<p1%>%<sg%>:гымнан # ;
-%<prn%>%<restr%>%<p2%>%<sg%>:гынан # ;
-%<prn%>%<restr%>%<p3%>%<sg%>:ынан # ;
-%<prn%>%<restr%>%<p1%>%<pl%>:моргынан # ;
-%<prn%>%<restr%>%<p2%>%<pl%>:торгынан # ;
-%<prn%>%<restr%>%<p3%>%<pl%>:ыргынан # ;
-%<prn%>%<restr%>%<p3%>%<pl%>:ыччынан # ;
+.prn%<restr%>%<p1%>%<sg%>:гымнан # ;
+.prn%<restr%>%<p2%>%<sg%>:гынан # ;
+.prn%<restr%>%<p3%>%<sg%>:ынан # ;
+.prn%<restr%>%<p1%>%<pl%>:моргынан # ;
+.prn%<restr%>%<p2%>%<pl%>:торгынан # ;
+.prn%<restr%>%<p3%>%<pl%>:ыргынан # ;
+.prn%<restr%>%<p3%>%<pl%>:ыччынан # ;
 
 
 LEXICON PRON-ITG
-%<prn%>%<itg%>: # ;
+.prn%<itg%>: # ;
 
 ! LEXICON PRON                                 !! Generic pronoun [to be categorised]
 
-! %<prn%>: # ;
+! .prn: # ;
 
 
 
