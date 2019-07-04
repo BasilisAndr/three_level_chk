@@ -44,9 +44,10 @@ LEXICON V-INV
 @P.itsa.verb@:@P.itsa.verb@ V-DERIV-PREFIXES ;
 ! : Verbs ;
 : PRE-VERBS ;
+: ADJ ;
 
 LEXICON INTER-V
-: Verbs ;
+%+: Verbs ;
 
 ! LEXICON V-INTO-TMP
 ! : Adjectives ;
@@ -150,7 +151,7 @@ LEXICON V-IV-NEUT
 
 @R.VPR.q@%-IRR%-2%&3SG%.S:@R.VPR.q@%>%{ы%}ги # ;
 @R.VPR.q@%-2PL%.S%&O:@R.VPR.q@%>%{ы%}тык # ;
-@R.VPR.n@%IRR%.2%&3SG%.S:@R.VPR.n@%>%{ы%}н # ;
+@R.VPR.n@%-IRR%.2%&3SG%.S:@R.VPR.n@%>%{ы%}н # ;
 @R.VPR.n@%-IRR%.2%&3SG%.S%-PL:@R.VPR.n@%>%{ы%}н%{Æ%}т # ;
 ! +thematic suff
 @R.VPR.m@%-TH%-1SG.S:@R.VPR.m@%>%{ы%}гъ%{Æ%}к # ;
