@@ -9,7 +9,7 @@ F=../corpora/surf-splitted.txt
 #   $F="/tmp/$fil"
 # Calculate the number of tokenised words in the corpus:
 # for some reason putting the newline in directly doesn't work, so two seds
-$CMD | cut -d'/' -f2- | rev | cut -d'$' -f2 | rev | tr '/' ' ' | sed 's/.*/^&$/g' | sed 's/ /$ ^/g' | apertium-destxt | hfst-proc -X ckt.surf_split.hfstol | apertium-retxt | sed 's/\$[^^]*\^/$^/g' | sed 's/\$\^/$\
+$CMD | cut -d'/' -f2- | rev | cut -d'$' -f2 | rev | tr '/' ' ' | sed 's/.*/^&$/g' | sed 's/ /$ ^/g' | apertium-destxt | hfst-proc  --weight-classes 1 -X ckt.surf_split.hfstol | apertium-retxt | sed 's/\$[^^]*\^/$^/g' | sed 's/\$\^/$\
 ^/g' > $F
 
 # first=$CMD | apertium-destxt | hfst-lookup ckt.hfst

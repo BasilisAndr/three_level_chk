@@ -16,7 +16,7 @@ F=../../corpora/corpus-stat-res.txt
 #   $F="/tmp/$fil"
 # Calculate the number of tokenised words in the corpus:
 # for some reason putting the newline in directly doesn't work, so two seds
-$CMD | apertium-destxt | hfst-proc ../ckt.mor.hfstol | apertium-retxt | sed 's/\$[^^]*\^/$^/g' | sed 's/\$\^/$\
+$CMD | apertium-destxt | hfst-proc --weight-classes 1 ../ckt.mor.hfstol | apertium-retxt | sed 's/\$[^^]*\^/$^/g' | sed 's/\$\^/$\
 ^/g' > $F
 
 # first=$CMD | apertium-destxt | hfst-lookup ckt.hfst

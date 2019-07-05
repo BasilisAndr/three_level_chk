@@ -345,7 +345,7 @@ V-Tense-Prefixes ;
 
 
 LEXICON ADV
-%.adv: # ;
+@D.CASE@%.adv:@D.CASE@ # ;
 %.adv%.rel:%>%{ы%}ԓь N-DERIV-III ;
 
 

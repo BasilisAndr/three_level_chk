@@ -44,10 +44,10 @@ LEXICON V-INV
 @P.itsa.verb@:@P.itsa.verb@ V-DERIV-PREFIXES ;
 ! : Verbs ;
 : PRE-VERBS ;
-: ADJ ;
+@R.VPR.hab@:@R.VPR.hab@ ADJ ;
 
 LEXICON INTER-V
-%+: Verbs ;
+%+: Verbs "weight: 0.5" ;
 
 ! LEXICON V-INTO-TMP
 ! : Adjectives ;
@@ -56,8 +56,8 @@ LEXICON INTER-V
 
 LEXICON V
 
-%.v%.iv: V-IV ;
-%.v%.tv: V-TV ;
+%.iv: V-IV ;
+%.tv: V-TV ;
 
 
 

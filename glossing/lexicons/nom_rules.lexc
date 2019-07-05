@@ -56,9 +56,9 @@ LEXICON CASES-OBL                             !!
 @D.CASE@%-DAT:@D.CASE@%>%{G%}ты%{⁺ⱽᴴ%} K ;
 @D.CASE@%-ABL:@D.CASE@%>%{G%}%{ы%}пы%{⁺ⱽᴴ%} K ;
 @D.CASE@%-ORI:@D.CASE@%>%{ы%}гйит K ;
-@D.CASE@%<ine%>:@D.CASE@%>%{ы%}чыку K ;
+@D.CASE@%-IN:@D.CASE@%>%{ы%}чыку K ;
 @D.CASE@%-PROL:@D.CASE@%>%{ы%}еквэ%{⁺ⱽᴴ%} K ;
-@D.CASE@%<sub%>:@D.CASE@%>%{ы%}йиӈкы K ;
+@D.CASE@%-BOTTOM:@D.CASE@%>%{ы%}йиӈкы K ;
 @D.CASE@:@D.CASE@ POSS ;
 @D.CASE@:@D.CASE@ REL ;
 
@@ -73,91 +73,91 @@ LEXICON CASES-OBL                             !!
 
 LEXICON N-Ia-AATGYR                                   ! bare stem
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
-%.n: N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+: N-OBL ;
 
 
 ! LEXICON N-Ia-JYNYR                                ! bare stem with n/ng alteration
 !
-! @D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
-! %.n: N-OBL ;
+! @D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+! : N-OBL ;
 
 
 LEXICON N-Ib-ANGKY                                   ! stem-final vowel reduction
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%{°%} K ;
-%.n: N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%{°%} K ;
+: N-OBL ;
 
 
 LEXICON N-Ic-AJKOL                                   ! stem-final vowel deletion
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%{·%} K ;
-%.n: N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%{·%} K ;
+: N-OBL ;
 
 
 ! LEXICON N-Ic-EJNETKUNEN                          ! vowel deletion with n/ng alteration
 !
-! @D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%{·%} K ;
-! %.n: N-OBL ;
+! @D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%{·%} K ;
+! : N-OBL ;
 
 
 LEXICON N-II-VIIL-ABS ! a-VIIL-ABS                               ! full reduplication
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
 
 
 ! LEXICON N-IIb-VAJP-ABS                               ! partial reduplication
 !
-! @D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+! @D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
 
 
 LEXICON N-III-AVYNRAL                                   ! n absolutive
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}н K ;
-%.n: N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}н K ;
+: N-OBL ;
 
 
 LEXICON N-IV-ARAPA                                   ! ngy absolutive
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}ӈы K ;
-%.n: N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}ӈы K ;
+: N-OBL ;
 
 
 ! LEXICON N-IV-QORA                                ! qora-qaa
 !
-! @D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}ӈы K ;
-! %.n: N-OBL ;
+! @D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@%>%{ы%}ӈы K ;
+! : N-OBL ;
 
 
 LEXICON N-Vv-AVEEN                                   ! irregular; в-oblique
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
-%.n:в N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+:в N-OBL ;
 
 
 LEXICON N-Vvy-AGNOTVAN                               ! irregular; в-oblique; ы-abs
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ы K ;
-%.n:в N-OBL ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ы K ;
+:в N-OBL ;
 
 
 LEXICON N-SING-AJOPYCH                               ! lg singulative
 
-@D.CASE@@U.itsa.noun@%.n%-NOM%.SING:@D.CASE@@U.itsa.noun@%>%{ы%}ԓгын%{⁺ⱽᴴ%} K ;
-@U.itsa.noun@%.n:@U.itsa.noun@ CASES-OBL ;
-%.n: N-DERIV-SUFF ;
+@D.CASE@@U.itsa.noun@%-NOM%.SING:@D.CASE@@U.itsa.noun@%>%{ы%}ԓгын%{⁺ⱽᴴ%} K ;
+@U.itsa.noun@:@U.itsa.noun@ CASES-OBL ;
+: N-DERIV-SUFF ;
 
 
 LEXICON N-SING-EPEEPEG                               ! lyng singulative
 
-@D.CASE@@U.itsa.noun@%.n%-NOM%.SING:@D.CASE@@U.itsa.noun@%>%{ы%}ԓыӈын%{⁺ⱽᴴ%} K ;
-@U.itsa.noun@%.n:@U.itsa.noun@ CASES-OBL ;
-%.n: N-DERIV-SUFF ;
+@D.CASE@@U.itsa.noun@%-NOM%.SING:@D.CASE@@U.itsa.noun@%>%{ы%}ԓыӈын%{⁺ⱽᴴ%} K ;
+@U.itsa.noun@:@U.itsa.noun@ CASES-OBL ;
+: N-DERIV-SUFF ;
 
 
 LEXICON N-VANGQASQOR-ABS
 
-@D.CASE@@U.itsa.noun@%.n%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
+@D.CASE@@U.itsa.noun@%.NOM%.SG:@D.CASE@@U.itsa.noun@ K ;
 
 
 LEXICON N-OBL
@@ -222,8 +222,8 @@ LEXICON N-DERIV-SUFF-T
 ! compounds
 ! @D.complex@@P.complex.cmp@%<cmp%>%+:@D.complex@@P.complex.cmp@%>%{ы%} Nouns ;
 ! Incorporation
-! %<incorp%>%+:%>%{ы%} Verbs ;
-@D.CASE@@R.itsa.verb@%<incorp%/%>%+:@D.CASE@@R.itsa.verb@%>%{ы%} Verbs ;
+! %<incorp%>%+:%>%{ы%} Verbs "weight: 0.5" ;
+@D.CASE@@R.itsa.verb@%<incorp%/%>%+:@D.CASE@@R.itsa.verb@%>%{ы%} Verbs "weight: -0.5" ;
 ! cross to adj
 @D.CASE@@R.itsa.adj@:@D.CASE@@R.itsa.adj@ V-IV-AFFIX ;
 ! адвербные деривации
