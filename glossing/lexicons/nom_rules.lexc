@@ -179,21 +179,21 @@ LEXICON N-OBL
 
 LEXICON N-DERIV-SUFF
 
-%<rel_n%>:%>%{ы%}ԓь N-DERIV-SUFF-T ;
-%<nmzr%>:%>%{ы%}ԓӄыԓ N-DERIV-SUFF-T ;
-%<nmzr%>:%>%{ы%}чь N-DERIV-SUFF-T ;
-%<nmzr%>:%>%{ы%}ёԓг N-DERIV-SUFF-T ;
-%-FEM:%>%{ы%}ӈ%{Æ%}выт N-DERIV-SUFF-T ;
-%-FEM:%>%{ы%}ӈ%{Æ%}в N-DERIV-SUFF-T ;
-%<pers_n%>:%>%{ы%}вйи N-DERIV-SUFF-T ;
-%<dim%>:%>%{ы%}ӄ%{Æ%}й N-DERIV-SUFF-T ;
-%<aug%>:%>%{ы%}ч%{ы%}%{N%} N-DERIV-SUFF-T ;
-%-AUG:%>%{ы%}йӈ N-DERIV-SUFF-T ;
-%-COLL:%>%{ы%}мк N-DERIV-SUFF-T ;
-%-NUMBER:%>%{ы%}тку N-DERIV-SUFF-T ;
-%-GROUP:%>%{ы%}гинив N-DERIV-SUFF-T ;
-%-PIECE:%>%{ы%}тъуԓ N-DERIV-SUFF-T ;
-%-NMLZ:%>%{ы%}гырг%{⁺ⱽᴴ%} N-DERIV-SUFF-T ;
+%<rel_n%>:%>%{ы%}ԓь N-DERIV-SUFF-T "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}ԓӄыԓ N-DERIV-SUFF-T "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}чь N-DERIV-SUFF-T "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}ёԓг N-DERIV-SUFF-T "weight: 0.5" ;
+%-FEM:%>%{ы%}ӈ%{Æ%}выт N-DERIV-SUFF-T "weight: 0.5" ;
+%-FEM:%>%{ы%}ӈ%{Æ%}в N-DERIV-SUFF-T "weight: 0.5" ;
+%<pers_n%>:%>%{ы%}вйи N-DERIV-SUFF-T "weight: 0.5" ;
+%<dim%>:%>%{ы%}ӄ%{Æ%}й N-DERIV-SUFF-T "weight: 0.5" ;
+%<aug%>:%>%{ы%}ч%{ы%}%{N%} N-DERIV-SUFF-T "weight: 0.5" ;
+%-AUG:%>%{ы%}йӈ N-DERIV-SUFF-T "weight: 0.5" ;
+%-COLL:%>%{ы%}мк N-DERIV-SUFF-T "weight: 0.5" ;
+%-NUMBER:%>%{ы%}тку N-DERIV-SUFF-T "weight: 0.5" ;
+%-GROUP:%>%{ы%}гинив N-DERIV-SUFF-T "weight: 0.5" ;
+%-PIECE:%>%{ы%}тъуԓ N-DERIV-SUFF-T "weight: 0.5" ;
+%-NMLZ:%>%{ы%}гырг%{⁺ⱽᴴ%} N-DERIV-SUFF-T "weight: 0.5" ;
 : N-DERIV-SUFF-T ;
 
 
@@ -201,21 +201,21 @@ LEXICON N-DERIV-SUFF
 LEXICON N-DERIV-SUFF-T
 
 ! : N-DERIV-PREF ;
-%<rel_n%>:%>%{ы%}ԓь N-DERIV-III ;
-%<nmzr%>:%>%{ы%}ԓӄыԓ N-DERIV-I ;
-%<nmzr%>:%>%{ы%}чь N-DERIV-III ;
-%<nmzr%>:%>%{ы%}ёԓг N-DERIV-III ;
-%-FEM:%>%{ы%}ӈ%{Æ%}выт N-DERIV-I ;
-%-FEM:%>%{ы%}ӈ%{Æ%}в N-DERIV-I ;
-%<pers_n%>:%>%{ы%}вйи N-DERIV-I ;
-%<dim%>:%>%{ы%}ӄ%{Æ%}й N-DERIV-I ;
-%<aug%>:%>%{ы%}ч%{ы%}%{N%} N-DERIV-III ;
-%-AUG:%>%{ы%}йӈ N-DERIV-III ;
-%-COLL:%>%{ы%}мк N-DERIV-I ;
-%-NUMBER:%>%{ы%}тку N-DERIV-III ;
-%-GROUP:%>%{ы%}гинив N-DERIV-I ;
-%-PIECE:%>%{ы%}тъуԓ N-DERIV-I ;
-%-NMLZ:%>%{ы%}гырг%{⁺ⱽᴴ%} N-DERIV-III ;
+%<rel_n%>:%>%{ы%}ԓь N-DERIV-III "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}ԓӄыԓ N-DERIV-I "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}чь N-DERIV-III "weight: 0.5" ;
+%<nmzr%>:%>%{ы%}ёԓг N-DERIV-III "weight: 0.5" ;
+%-FEM:%>%{ы%}ӈ%{Æ%}выт N-DERIV-I "weight: 0.5" ;
+%-FEM:%>%{ы%}ӈ%{Æ%}в N-DERIV-I "weight: 0.5" ;
+%<pers_n%>:%>%{ы%}вйи N-DERIV-I "weight: 0.5" ;
+%<dim%>:%>%{ы%}ӄ%{Æ%}й N-DERIV-I "weight: 0.5" ;
+%<aug%>:%>%{ы%}ч%{ы%}%{N%} N-DERIV-III "weight: 0.5" ;
+%-AUG:%>%{ы%}йӈ N-DERIV-III "weight: 0.5" ;
+%-COLL:%>%{ы%}мк N-DERIV-I "weight: 0.5" ;
+%-NUMBER:%>%{ы%}тку N-DERIV-III "weight: 0.5" ;
+%-GROUP:%>%{ы%}гинив N-DERIV-I "weight: 0.5" ;
+%-PIECE:%>%{ы%}тъуԓ N-DERIV-I "weight: 0.5" ;
+%-NMLZ:%>%{ы%}гырг%{⁺ⱽᴴ%} N-DERIV-III "weight: 0.5" ;
 ! cross to verbs
 @D.CASE@@R.itsa.verb@%-VB:@D.CASE@@R.itsa.verb@%>%{Æ%}т V-IV ;
 @D.CASE@@R.itsa.verb@%-CS:@D.CASE@@R.itsa.verb@%>%{Æ%}в V-IV ;
@@ -223,7 +223,7 @@ LEXICON N-DERIV-SUFF-T
 ! @D.complex@@P.complex.cmp@%<cmp%>%+:@D.complex@@P.complex.cmp@%>%{ы%} Nouns ;
 ! Incorporation
 ! %<incorp%>%+:%>%{ы%} Verbs "weight: 0.5" ;
-@D.CASE@@R.itsa.verb@%<incorp%/%>%+:@D.CASE@@R.itsa.verb@%>%{ы%} Verbs "weight: -0.5" ;
+@D.CASE@@R.itsa.verb@%<incorp%/%>%+:@D.CASE@@R.itsa.verb@%>%{ы%} Verbs "weight: 0.5" ;
 ! cross to adj
 @D.CASE@@R.itsa.adj@:@D.CASE@@R.itsa.adj@ V-IV-AFFIX ;
 ! адвербные деривации
@@ -235,20 +235,20 @@ LEXICON N-DERIV-SUFF-T
 !
 !
 ! LEXICON N-DERIV-SPACIAL
-%-TOP:%>%{ы%}ткын%{⁺ⱽᴴ%} N-DERIV-I ;
-%-NEAR:%>%{ы%}ӈӄача N-DERIV-Ic ;
-! %<near%>:%>%{ы%}ӈӄаса N-DERIV-Ic ;
-%-EDGE:%>%{ы%}ԓг N-DERIV-III ;
-%-EDGE:%>%{ы%}ԓэӈ N-DERIV-III ;
-%-SIDE:%>%{ы%}чурм N-DERIV-III ;
-! %<side%>:%>%{ы%}cурм N-DERIV-III ;
-%-BOTTOM:%>%{ы%}йиӈ N-DERIV-III ;
-%-BOTTOM:%>%{ы%}гиӈ N-DERIV-III ;
-%-EXT:%>%{ы%}йикви N-DERIV-III ;
-%-AMONG:%>%{ы%}ԓыку N-DERIV-III ;
-%-IN:%>%{ы%}чыку N-DERIV-III ;
-%-SURF:%>%{ы%}чӄ N-DERIV-III ;
-%-FRONT:%>%{ы%}тэгн N-DERIV-III ;
+%-TOP:%>%{ы%}ткын%{⁺ⱽᴴ%} N-DERIV-I "weight: 0.5" ;
+%-NEAR:%>%{ы%}ӈӄача N-DERIV-Ic "weight: 0.5" ;
+! %<near%>:%>%{ы%}ӈӄаса N-DERIV-Ic "weight: 0.5" ;
+%-EDGE:%>%{ы%}ԓг N-DERIV-III "weight: 0.5" ;
+%-EDGE:%>%{ы%}ԓэӈ N-DERIV-III "weight: 0.5" ;
+%-SIDE:%>%{ы%}чурм N-DERIV-III "weight: 0.5" ;
+! %<side%>:%>%{ы%}cурм N-DERIV-III "weight: 0.5" ;
+%-BOTTOM:%>%{ы%}йиӈ N-DERIV-III "weight: 0.5" ;
+%-BOTTOM:%>%{ы%}гиӈ N-DERIV-III "weight: 0.5" ;
+%-EXT:%>%{ы%}йикви N-DERIV-III "weight: 0.5" ;
+%-AMONG:%>%{ы%}ԓыку N-DERIV-III "weight: 0.5" ;
+%-IN:%>%{ы%}чыку N-DERIV-III "weight: 0.5" ;
+%-SURF:%>%{ы%}чӄ N-DERIV-III "weight: 0.5" ;
+%-FRONT:%>%{ы%}тэгн N-DERIV-III "weight: 0.5" ;
 
 
 

@@ -9,43 +9,42 @@ LEXICON V-DERIV-PREFIXES
 
 LEXICON V-DERIV-PREFIXES-F
 
-%<approx%>:м%{Æ%}ч%{ы%}%> Verbs ;
-%<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-T ;
-%<ints2%>:ԓ%{ы%}ги%> V-DERIV-PREFIXES-T ;
+APPROX%-:м%{Æ%}ч%{ы%}%> Verbs "weight: 0.5" ;
+INTS%-:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+INTS%-:ԓ%{ы%}ги%> V-DERIV-PREFIXES-T "weight: 0.5" ;
 
-[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-T ;
-%<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-T ;
-TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-T ;
-MUT%-:пыԓ%{ы%}%> V-DERIV-PREFIXES-T ;
-MUT%-:пыч%{ы%}%> V-DERIV-PREFIXES-T ;
-FIN%-:пԓ%{ы%}%> V-DERIV-PREFIXES-T ;
+[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+AP%-:ин%{Æ%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+MUT%-:пыԓ%{ы%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+MUT%-:пыч%{ы%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
+FIN%-:пԓ%{ы%}%> V-DERIV-PREFIXES-T "weight: 0.5" ;
 
 LEXICON V-DERIV-PREFIXES-T
 
-%<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-TH ;
-%<ints2%>:ԓ%{ы%}ги%> V-DERIV-PREFIXES-TH ;
-[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-TH ;
-%<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-TH ;
-TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-TH ;
-: V-DERIV-PREFIXES-FIN ;
+%<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-TH "weight: 0.5" ;
+%<ints2%>:ԓ%{ы%}ги%> V-DERIV-PREFIXES-TH "weight: 0.5" ;
+[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-TH "weight: 0.5" ;
+AP%-:ин%{Æ%}%> V-DERIV-PREFIXES-TH "weight: 0.5" ;
+TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-TH "weight: 0.5" ;
+: V-DERIV-PREFIXES-FIN "weight: 0.5" ;
 
 LEXICON V-DERIV-PREFIXES-TH
 
 ! Verb bases
-@D.VPR@@P.VPR.vb-com@%<com%>:@D.VPR@@P.VPR.vb-com@г%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-restr@%<restr%>:@D.VPR@@P.VPR.vb-restr@%{Æ%}м%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-intens@%<intens%>:@D.VPR@@P.VPR.vb-intens@т%{Æ%}ԓв%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-approx@%<approx%>:@D.VPR@@P.VPR.vb-approx@м%{Æ%}ч%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-neg@NEG.PFV%-:@D.VPR@@P.VPR.vb-neg@ԓюн%{ы%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-neg2@CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.vb-neg2@PREF%-CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}вн%>%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-@D.VPR@@P.VPR.imposs@%<imposs%>:@D.VPR@@P.VPR.imposs@%{ʔ%}%{Æ%}ʼӄ%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-%<ints%>:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-FIN ;
-%<ints2%>:ԓ%{ы%}ги%> V-DERIV-PREFIXES-FIN ;
-[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-%<ap%>:ин%{Æ%}%> V-DERIV-PREFIXES-FIN ;
-TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-FIN ;
-CHECK%-:see%> V-DERIV-PREFIXES-FIN ;
+@D.VPR@@P.VPR.vb-com@%COM%-:@D.VPR@@P.VPR.vb-com@г%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-restr@RESTR%-:@D.VPR@@P.VPR.vb-restr@%{Æ%}м%{ы%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-intens@%-INTS:@D.VPR@@P.VPR.vb-intens@т%{Æ%}ԓв%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-approx@APPROX%-:@D.VPR@@P.VPR.vb-approx@м%{Æ%}ч%{ы%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-neg@NEG.PFV%-:@D.VPR@@P.VPR.vb-neg@ԓюн%{ы%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-neg2@CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.vb-neg2@PREF%-CAR%-:@D.VPR@@P.VPR.vb-neg2@%{Æ%}вн%>%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+@D.VPR@@P.VPR.imposs@%<imposs%>:@D.VPR@@P.VPR.imposs@%{ʔ%}%{Æ%}ʼӄ%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+INTS%-:т%{Æ%}%{N%}%{ы%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+INTS%-:ԓ%{ы%}ги%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+[%+desid%]DES%-:р%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+AP%-:ин%{Æ%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
+TR%-:%{R%}%{ы%}%> V-DERIV-PREFIXES-FIN "weight: 0.5" ;
 : V-DERIV-PREFIXES-FIN ;
 
 
@@ -70,94 +69,94 @@ LEXICON V-DERIV-F
 ! prefix tags
 ! %<approx%>%[%+approx%]: V-IV-AFFIX ;
 ! ! thematic smth
-@D.VPR@%<th%>:@D.VPR@%>въи # ;
+@D.VPR@%-TH:@D.VPR@%>въи # ;
 
 ! incompatible w/others (probably)
-%<punct%>:%>%{ы%}чӄыч%{Æ%}т V-DERIV-FIN ;
-%<dim%>:%>%{ы%}ӄ%{Æ%}%{Æ%}т V-DERIV-FIN ;
-%<aug%>:%>%{ы%}чгат V-DERIV-FIN ;
+%-PUNCT:%>%{ы%}чӄыч%{Æ%}т V-DERIV-FIN "weight: 0.5" ;
+%-DIM:%>%{ы%}ӄ%{Æ%}%{Æ%}т V-DERIV-FIN "weight: 0.5" ;
+%-AUG:%>%{ы%}чгат V-DERIV-FIN "weight: 0.5" ;
 ! attach right to the stem
-%-RES:%>%{ы%}тва V-DERIV-TH ;
-%-REV:%>%{ы%}тв V-DERIV-TH ;
-%-TRSF:%>%{ы%}тви V-DERIV-TH ;
-%<purp%>:%>%{ы%}чӄив V-DERIV-TH ;
-%-EAT:%>у V-DERIV-TH ;
-%<utilit%>:%>%{ы%}тку V-DERIV-TH ;
-%-SEARCH:%>%{ы%}гиԓи V-DERIV-TH ;
-%-DRAG.OUT:%>%{ы%}гыркы V-DERIV-TH ;
-%-GO.TO:%>%{ы%}гт%{⁺ⱽᴴ%} V-DERIV-TH ;
-%-VERS:%>ё V-DERIV-TH ;
-%-GET:%>%{ы%}нӈ%{Æ%} V-DERIV-TH ;
-%-FUND:%>%{ы%}нт V-DERIV-TH ;
-%-GO.DO:%>%{ы%}ӈыта V-DERIV-TH ;
-%-GO.DO:%>%{ы%}нта V-DERIV-TH ;
-%-CATCH:%>%{ы%}ӈытт V-DERIV-TH ;
-%-MULT:%>%{ы%}ча V-DERIV-TH ;
-%-PLUR:%>%{ы%}чир V-DERIV-TH ;
-%-COMB:%>%{ы%}чит V-DERIV-TH ;
-%-FREQ:%>%{ы%}чыʼт V-DERIV-TH ;
-%-MCP:%>%{ы%}чӄив V-DERIV-TH ;
-%-RAPID:%>%{ы%}чӄыч%{Æ%}т V-DERIV-TH ;
-%-GRAD:%>%{ы%}тыԓ%{Æ%} V-DERIV-TH ;
-%-LIBER:%>%{ы%}тур%{Æ%} V-DERIV-TH ;
-%-REC:%>%{ы%}выԓг V-DERIV-TH ;
+%-RES:%>%{ы%}тва V-DERIV-TH "weight: 0.5" ;
+%-REV:%>%{ы%}тв V-DERIV-TH "weight: 0.5" ;
+%-TRSF:%>%{ы%}тви V-DERIV-TH "weight: 0.5" ;
+%-PURP:%>%{ы%}чӄив V-DERIV-TH "weight: 0.5" ;
+%-EAT:%>у V-DERIV-TH "weight: 0.5" ;
+%<utilit%>:%>%{ы%}тку V-DERIV-TH "weight: 0.5" ;
+%-SEARCH:%>%{ы%}гиԓи V-DERIV-TH "weight: 0.5" ;
+%-DRAG.OUT:%>%{ы%}гыркы V-DERIV-TH "weight: 0.5" ;
+%-GO.TO:%>%{ы%}гт%{⁺ⱽᴴ%} V-DERIV-TH "weight: 0.5" ;
+%-VERS:%>ё V-DERIV-TH "weight: 0.5" ;
+%-GET:%>%{ы%}нӈ%{Æ%} V-DERIV-TH "weight: 0.5" ;
+%-FUND:%>%{ы%}нт V-DERIV-TH "weight: 0.5" ;
+%-GO.DO:%>%{ы%}ӈыта V-DERIV-TH "weight: 0.5" ;
+%-GO.DO:%>%{ы%}нта V-DERIV-TH "weight: 0.5" ;
+%-CATCH:%>%{ы%}ӈытт V-DERIV-TH "weight: 0.5" ;
+%-MULT:%>%{ы%}ча V-DERIV-TH "weight: 0.5" ;
+%-PLUR:%>%{ы%}чир V-DERIV-TH "weight: 0.5" ;
+%-COMB:%>%{ы%}чит V-DERIV-TH "weight: 0.5" ;
+%-FREQ:%>%{ы%}чыʼт V-DERIV-TH "weight: 0.5" ;
+%-MCP:%>%{ы%}чӄив V-DERIV-TH "weight: 0.5" ;
+%-RAPID:%>%{ы%}чӄыч%{Æ%}т V-DERIV-TH "weight: 0.5" ;
+%-GRAD:%>%{ы%}тыԓ%{Æ%} V-DERIV-TH "weight: 0.5" ;
+%-LIBER:%>%{ы%}тур%{Æ%} V-DERIV-TH "weight: 0.5" ;
+%-REC:%>%{ы%}выԓг V-DERIV-TH "weight: 0.5" ;
 : V-DERIV-FIN ;
 
 LEXICON V-DERIV-TH
-%-VB:%>%{Æ%}т V-DERIV-TH-T ;
-%-CS:%>%{Æ%}в V-DERIV-TH-T ;
-%<th%>:%>%{Æ%}%{Æ%} V-DERIV-TH-T ;
-%<th%>:%>ъ%{Æ%} V-DERIV-TH-T ;
-%-ITER:%>%{ы%}тку V-DERIV-TH-T ;
-%-DES%[%+desid%]:%>ӈ V-DERIV-TH-T ;
-%-ITER:%>%{ы%}тку V-DERIV-TH-T ;
-%-DISTR.S:%>%{ы%}ръу V-DERIV-TH-T ;
-%-DISTR.O:%>%{ы%}йв V-DERIV-TH-T ;
-%-DISTR.O:%>ив V-DERIV-TH-T ;
-%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-TH-T ;
-%-INCH:%>%{ы%}ӈӈо V-DERIV-TH-T ;
-%-INCH:%>%{ы%}ӈоо V-DERIV-TH-T ;
-%-INCH:%>%{ы%}мго V-DERIV-TH-T ;
-%-COMPL:%>%{ы%}пԓытку V-DERIV-TH-T ;
+%-VB:%>%{Æ%}т V-DERIV-TH-T "weight: 0.5" ;
+%-CS:%>%{Æ%}в V-DERIV-TH-T "weight: 0.5" ;
+%-TH:%>%{Æ%}%{Æ%} V-DERIV-TH-T "weight: 0.5" ;
+%-TH:%>ъ%{Æ%} V-DERIV-TH-T "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-TH-T "weight: 0.5" ;
+%-DES%[%+desid%]:%>ӈ V-DERIV-TH-T "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-TH-T "weight: 0.5" ;
+%-DISTR%.S:%>%{ы%}ръу V-DERIV-TH-T "weight: 0.5" ;
+%-DISTR%.O:%>%{ы%}йв V-DERIV-TH-T "weight: 0.5" ;
+%-DISTR%.O:%>ив V-DERIV-TH-T "weight: 0.5" ;
+%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-TH-T "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈӈо V-DERIV-TH-T "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈоо V-DERIV-TH-T "weight: 0.5" ;
+%-INCH:%>%{ы%}мго V-DERIV-TH-T "weight: 0.5" ;
+%-COMPL:%>%{ы%}пԓытку V-DERIV-TH-T "weight: 0.5" ;
 : V-DERIV-FIN ;
 
 
 LEXICON V-DERIV-TH-T
-%-VB:%>%{Æ%}т V-DERIV-TH-TH ;
-%-CS:%>%{Æ%}в V-DERIV-TH-TH ;
-%<th%>:%>%{Æ%}%{Æ%} V-DERIV-TH-TH ;
-%<th%>:%>ъ%{Æ%} V-DERIV-TH-TH ;
-%-ITER:%>%{ы%}тку V-DERIV-TH-TH ;
-%-DES%[%+desid%]:%>ӈ V-DERIV-TH-TH ;
-%-ITER:%>%{ы%}тку V-DERIV-TH-TH ;
-%-DISTR.S:%>%{ы%}ръу V-DERIV-TH-TH ;
-%-DISTR.O:%>%{ы%}йв V-DERIV-TH-TH ;
-%-DISTR.O:%>ив V-DERIV-TH-TH ;
-%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-TH-TH ;
-%-INCH:%>%{ы%}ӈӈо V-DERIV-TH-TH ;
-%-INCH:%>%{ы%}ӈоо V-DERIV-TH-TH ;
-%-INCH:%>%{ы%}мго V-DERIV-TH-TH ;
-%-COMPL:%>%{ы%}пԓытку V-DERIV-TH-TH ;
+%-VB:%>%{Æ%}т V-DERIV-TH-TH "weight: 0.5" ;
+%-CS:%>%{Æ%}в V-DERIV-TH-TH "weight: 0.5" ;
+%-TH:%>%{Æ%}%{Æ%} V-DERIV-TH-TH "weight: 0.5" ;
+%-TH:%>ъ%{Æ%} V-DERIV-TH-TH "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-TH-TH "weight: 0.5" ;
+%-DES%[%+desid%]:%>ӈ V-DERIV-TH-TH "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-TH-TH "weight: 0.5" ;
+%-DISTR.S:%>%{ы%}ръу V-DERIV-TH-TH "weight: 0.5" ;
+%-DISTR.O:%>%{ы%}йв V-DERIV-TH-TH "weight: 0.5" ;
+%-DISTR.O:%>ив V-DERIV-TH-TH "weight: 0.5" ;
+%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-TH-TH "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈӈо V-DERIV-TH-TH "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈоо V-DERIV-TH-TH "weight: 0.5" ;
+%-INCH:%>%{ы%}мго V-DERIV-TH-TH "weight: 0.5" ;
+%-COMPL:%>%{ы%}пԓытку V-DERIV-TH-TH "weight: 0.5" ;
 : V-DERIV-FIN ;
 
 
 LEXICON V-DERIV-TH-TH
 
-%-VB:%>%{Æ%}т V-DERIV-FIN ;
-%-CS:%>%{Æ%}в V-DERIV-FIN ;
-%<th%>:%>%{Æ%}%{Æ%} V-DERIV-FIN ;
-%<th%>:%>ъ%{Æ%} V-DERIV-FIN ;
-%-ITER:%>%{ы%}тку V-DERIV-FIN ;
-%-DES%[%+desid%]:%>ӈ V-DERIV-FIN ;
-%-ITER:%>%{ы%}тку V-DERIV-FIN ;
-%-DISTR.S:%>%{ы%}ръу V-DERIV-FIN ;
-%-DISTR.O:%>%{ы%}йв V-DERIV-FIN ;
-%-DISTR.O:%>ив V-DERIV-FIN ;
-%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-FIN ;
-%-INCH:%>%{ы%}ӈӈо V-DERIV-FIN ;
-%-INCH:%>%{ы%}ӈоо V-DERIV-FIN ;
-%-INCH:%>%{ы%}мго V-DERIV-FIN ;
-%-COMPL:%>%{ы%}пԓытку V-DERIV-FIN ;
+%-VB:%>%{Æ%}т V-DERIV-FIN "weight: 0.5" ;
+%-CS:%>%{Æ%}в V-DERIV-FIN "weight: 0.5" ;
+%-TH:%>%{Æ%}%{Æ%} V-DERIV-FIN "weight: 0.5" ;
+%-TH:%>ъ%{Æ%} V-DERIV-FIN "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-FIN "weight: 0.5" ;
+%-DES%[%+desid%]:%>ӈ V-DERIV-FIN "weight: 0.5" ;
+%-ITER:%>%{ы%}тку V-DERIV-FIN "weight: 0.5" ;
+%-DISTR.S:%>%{ы%}ръу V-DERIV-FIN "weight: 0.5" ;
+%-DISTR.O:%>%{ы%}йв V-DERIV-FIN "weight: 0.5" ;
+%-DISTR.O:%>ив V-DERIV-FIN "weight: 0.5" ;
+%-PLAC:%>%{ы%}ԓъ%{Æ%}т V-DERIV-FIN "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈӈо V-DERIV-FIN "weight: 0.5" ;
+%-INCH:%>%{ы%}ӈоо V-DERIV-FIN "weight: 0.5" ;
+%-INCH:%>%{ы%}мго V-DERIV-FIN "weight: 0.5" ;
+%-COMPL:%>%{ы%}пԓытку V-DERIV-FIN "weight: 0.5" ;
 : V-DERIV-FIN ;
 
 
@@ -176,7 +175,7 @@ LEXICON V-DERIV-FIN
 @R.VPR.vb-com@%<com%>%<vb%>:@R.VPR.vb-com@%>%{T%}%{Æ%} # ;
 @R.VPR.vb-com@%<com%>%<vb%>:@R.VPR.vb-com@%>%{ы%}ма # ;
 @R.VPR.vb-restr@%<restr%>%<vb%>:@R.VPR.vb-restr@%>%{T%}%{Æ%} # ;
-@R.VPR.vb-intens@%<ints%>%<vb%>:@R.VPR.vb-intens@%>%{T%}%{Æ%} # ;
+@R.VPR.vb-intens@%-INTS.vb:@R.VPR.vb-intens@%>%{T%}%{Æ%} # ;
 @R.VPR.vb-approx@%<approx%>%<vb%>:@R.VPR.vb-approx@%>%{T%}%{Æ%} # ;
 @R.VPR.vb-neg@%-INS:@R.VPR.vb-neg@%>%{T%}%{Æ%} # ;
 @R.VPR.vb-neg2@%-CAR%-INS:@R.VPR.vb-neg2@%>%{ы%}к%{Æ%} # ;
