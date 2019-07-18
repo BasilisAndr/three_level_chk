@@ -203,6 +203,7 @@ V:0 <=> .#. _ %>: :Vow ;       ! same as for rec but can be written shorter
 %{ы%}:ы <=> [ :Cns | .#. ] (:0) (:0) [ :Cns | :Glottal ] ([ :0 - Vow: ]) _ (:0) (:0) :Cns ;       ! first syll/three :Cns in a row, after the second
             :Cns ([ :0 - Vow: ]) _ (:0) (:0) :Cns ([ :Glottal | :0 ]) [ :Cns | .#. ] ;       ! last syll/three :Cns in a row, after the first
        :Vow :Cns (:0) (:0) %>: %{G%}: _ ;
+       :Cns _ :Cns (:0) (:0) %{ы%}: :Cns :Vow ;
 
 
 "Epenthesis for yot"
