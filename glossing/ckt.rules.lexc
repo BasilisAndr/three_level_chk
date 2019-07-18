@@ -395,23 +395,25 @@ LEXICON ADV
 !
 
 
-! LEXICON Adj-prefixes
+LEXICON Adj-prefixes
 ! @P.ADJ.n@ST%-:@P.ADJ.n@н%{ы%}%> Adjectives ;
 ! @P.ADJ.e@:@P.ADJ.e@%{Æ%}%> Adjectives ;   !!! FIND ME
 ! @P.ADJ.n@@U.itsa.adj@ST%-:@P.ADJ.n@@U.itsa.adj@н%{ы%}%> NOMINALS ;
 ! @P.ADJ.e@@U.itsa.adj@:@P.ADJ.e@@U.itsa.adj@%{Æ%}%> NOMINALS ;
 ! @P.ADJ.ynan@SUPER%-:@P.ADJ.ynan@ынан%{ы%}%> Adjectives ;
+SUPER%-:ынан%{ы%}%> Verb-prefixes ;
+: Verb-prefixes ;
 
 LEXICON Intensifiers
-! [%+ints%]GOOD%-:т%{Æ%}%{N%}%{ы%}%> Adj-prefixes ;
+[%+ints%]GOOD%-:т%{Æ%}%{N%}%{ы%}%> Adj-prefixes ;
 [%+ints%]GOOD%-:т%{Æ%}%{N%}%{ы%}%> NOMINALS ;
 NEG%-:т%{Æ%}%{N%}%{ы%}%> NEG ;
-! [%+ints2%]INTS%-:ԓ%{ы%}ги%> Adj-prefixes ;
-! [%+approx%]SEEM%-:м%{Æ%}ԓ%> Adj-prefixes ;
+[%+ints2%]INTS%-:ԓ%{ы%}ги%> Adj-prefixes ;
+[%+approx%]SEEM%-:м%{Æ%}ԓ%> Adj-prefixes ;
 [%+ints2%]INTS%-:ԓ%{ы%}ги%> NOMINALS ;
 [%+approx%]SEEM%-:м%{Æ%}ԓ%> NOMINALS ;
 NEG%-:м%{Æ%}ԓ%> NEG ;
-! [%+ints3%]INTS%-:ныԓги%> Adj-prefixes ;
+[%+ints3%]INTS%-:ныԓги%> Adj-prefixes ;
 
 
 

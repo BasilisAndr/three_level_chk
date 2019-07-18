@@ -162,7 +162,7 @@ LEXICON V-DERIV-TH-TH
 
 LEXICON V-DERIV-FIN
 ! these form nouns from verbs
-%.ptcp: V-DERIV-PTCP ;
+: V-DERIV-PTCP ;
 @D.VPR@%<ger%>:@D.VPR@%>%{ы%}ԓӄыԓ N-Ia-AATGYR ;
 @D.VPR@%-NMLZ:@D.VPR@%>%{ы%}гырг%{⁺ⱽᴴ%} N-III-AVYNRAL ;
 @D.VPR@%<ger%>:@D.VPR@%>%{ы%}н%{⁺ⱽᴴ%} N-Vv-AVEEN ;       ! locative nom
@@ -193,13 +193,13 @@ LEXICON V-DERIV-FIN
 LEXICON V-DERIV-PTCP
 ! active (intr only)
 !! positive polarity
-@U.V.iv@%<act%>:@U.V.iv@%>%{ы%}ԓь N-DERIV-III ; ! INTO-N-III ;
+@U.V.iv@%-ATTR:@U.V.iv@%>%{ы%}ԓь N-DERIV-III ; ! INTO-N-III ;
 !! negative polarity
 @U.V.iv@@R.VPR.vb-neg@%-INS%-ATTR:@U.V.iv@@R.VPR.vb-neg@%>%{T%}%{Æ%}%>%{ы%}ԓь INTO-N-NEG-PART ; ! INTO-N-I ;
 @U.V.iv@@R.VPR.vb-neg2@%-CAR%-ATTR:@U.V.iv@@R.VPR.vb-neg2@%>%{ы%}к%>%{ы%}ԓь INTO-N-NEG-PART ;
 ! passive (tr only)
 !! negative polarity
-@U.V.tv@@R.VPR.vb-neg@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb-neg@%>%{ы%}ԓь%>%{T%}%{Æ%} INTO-N-NEG-PART ; ! INTO-N-I ;
+@U.V.tv@@R.VPR.vb-neg@%-ATTR%-INS:@U.V.tv@@R.VPR.vb-neg@%>%{ы%}ԓь%>%{T%}%{Æ%} INTO-N-NEG-PART ; ! INTO-N-I ;
 @U.V.tv@@R.VPR.vb-neg2@%<pass%>%<neg%>:@U.V.tv@@R.VPR.vb-neg2@%>%{ы%}ԓь%>%{Æ%} INTO-N-NEG-PART ;
 !! positive polarity
 @U.V.tv@%<pass%>:@U.V.tv@%>%{ы%}ё%{T%} INTO-N-NEG-PART ; ! INTO-N-I ;
