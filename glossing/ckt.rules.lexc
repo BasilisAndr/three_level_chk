@@ -243,6 +243,7 @@ FRONT
 %{N%}                     ! allophones of ng
 %{R%}                     ! р or н
 %{I%}                     ! и or й in suffixes
+%{ʔ%}                     ! Glottal stop
 
 %{⁺ⱽᴴ%}                   ! Trigger for dominant harmony
 %{·%}                     ! Trigger for stem%-final vowel deletion
