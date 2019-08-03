@@ -2,142 +2,144 @@
 
 LEXICON PRON-GYM
 
-@D.CASE@.prn%<pers%>%<p1%>%<sg%>%<abs%>:@D.CASE@о # ;
-@D.CASE@.prn%<pers%>%<p1%>%<sg%>%<abs%>:@D.CASE@ # ;
+@D.CASE@%.prn%.1SG%.ABS:@D.CASE@о # ;
+@D.CASE@%.prn%.1SG%.ABS:@D.CASE@ # ;
 ! .prn%<pers%>%<p1%>%<sg%>%<loc%>:ык # ;
 ! .prn%<pers%>%<p1%>%<sg%>%<dat%>:ыкы # ;
 ! .prn%<pers%>%<p1%>%<sg%>%<all%>:ыкагты # ;
 ! .prn%<pers%>%<p1%>%<sg%>%<equ%>:ыгмил # ;
-.prn%<pers%>%<p1%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
-.prn%<pers%>%<p1%>%<sg%>: PRON-PERS-CASES ;
-@D.CASE@.prn%<pers%>%<p1%>%<sg%>:@D.CASE@н POSS ;
+! .prn%<pers%>%<p1%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
+.prn%.1SG:%>нин N-DERIV-SUFF ; ! SPATIAL
+.prn%.1SG: PRON-PERS-CASES ;
+@D.CASE@.prn%.1SG:@D.CASE@н POSS ;
 
 LEXICON PRON-GYT
 
-@D.CASE@.prn%<pers%>%<p2%>%<sg%>%<abs%>:@D.CASE@то # ;
-@D.CASE@.prn%<pers%>%<p2%>%<sg%>%<abs%>:@D.CASE@т # ;
+@D.CASE@%.prn%.2SG%.ABS:@D.CASE@то # ;
+@D.CASE@%.prn%.2SG%.ABS:@D.CASE@т # ;
 ! .prn%<pers%>%<p2%>%<sg%>%<erg%>:тнан # ;
 ! .prn%<pers%>%<p2%>%<sg%>%<loc%>:тык # ;
 ! .prn%<pers%>%<p2%>%<sg%>%<dat%>:тыкы # ;
 ! .prn%<pers%>%<p2%>%<sg%>%<all%>:тыкагты # ;
 ! .prn%<pers%>%<p2%>%<sg%>%<equ%>:тыгмил # ;
-.prn%<pers%>%<p2%>%<sg%>%<der%>%<subst%>:%>нин N-DERIV-SUFF ; ! SPATIAL
-.prn%<pers%>%<p2%>%<sg%>:н PRON-PERS-CASES ;
+.prn%.2SG:%>нин N-DERIV-SUFF ; ! SPATIAL
+.prn%.2SG:н PRON-PERS-CASES ;
 
 LEXICON PRON-YTLJON
 
-@D.CASE@.prn%<pers%>%<p3%>%<sg%>%<abs%>:@D.CASE@тԓён # ;
+@D.CASE@.prn%.3SG%.ABS:@D.CASE@тԓён # ;
 ! .prn%<pers%>%<p3%>%<sg%>%<loc%>:нык # ;
 ! .prn%<pers%>%<p3%>%<sg%>%<abl%>:ныкагты # ;
-@D.CASE@%<abl%>:@D.CASE@%>нка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
-@D.CASE@%<ori%>:@D.CASE@%>нк%{Æ%}%>%{ы%}гйит # ;
-.prn%<pers%>%<p3%>%<sg%>:н PRON-PERS-CASES ;
+@D.CASE@%-ABL:@D.CASE@%>нка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
+@D.CASE@%-ORI:@D.CASE@%>нк%{Æ%}%>%{ы%}гйит # ;
+.prn%.3SG:н PRON-PERS-CASES ;
 
 LEXICON PRON-MURI
-@D.CASE@.prn%<pers%>%<p1%>%<pl%>%<abs%>:@D.CASE@и # ;
-.prn%<pers%>%<p1%>%<pl%>: PRON-PERS-CASES ;
+@D.CASE@.prn%.1PL%.ABS:@D.CASE@и # ;
+.prn%.1PL: PRON-PERS-CASES ;
 
 LEXICON PRON-TURI
-@D.CASE@.prn%<pers%>%<p2%>%<pl%>%<abs%>:@D.CASE@и # ;
-.prn%<pers%>%<p2%>%<pl%>: PRON-PERS-CASES ;
+@D.CASE@.prn%.2PL%.ABS:@D.CASE@и # ;
+.prn%.2PL: PRON-PERS-CASES ;
 
 LEXICON PRON-YCCI-ABS
-@D.CASE@.prn%<pers%>%<p3%>%<pl%>%<abs%>:@D.CASE@и # ;
+@D.CASE@.prn%.3PL%.ABS:@D.CASE@и # ;
 
 LEXICON PRON-YCCI-OBL
-.prn%<pers%>%<p3%>%<pl%>: PRON-PERS-CASES ;
+.prn%.3PL: PRON-PERS-CASES ;
 
 
 LEXICON PRON-PERS-CASES
-@D.CASE@%<erg%>:@D.CASE@%>нан # ;
-@D.CASE@%<erg%>:@D.CASE@%>ан # ;
-@D.CASE@%<ess%>:@D.CASE@%>%{ы%}ку # ;
-@D.CASE@%<loc%>:@D.CASE@%>%{ы%}к # ;
-@D.CASE@%<all%>:@D.CASE@%>ыкы%{⁺ⱽᴴ%} # ;
-@D.CASE@%<all%>:@D.CASE@%>ыка%>%{G%}ты%{⁺ⱽᴴ%} # ;
-@D.CASE@%<abl%>:@D.CASE@%>ыка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
-@D.CASE@%<ori%>:@D.CASE@%>ык%{Æ%}%>%{ы%}гйит # ;
-@D.CASE@%<ine%>:@D.CASE@%>ык%{Æ%}%>%{ы%}чыку # ;
-@D.CASE@%<per%>:@D.CASE@%>ык%{Æ%}%>%{ы%}йэквэ%{⁺ⱽᴴ%} # ;
-@D.CASE@%<sub%>:@D.CASE@%>ык%{Æ%}%>%{ы%}йиӈкы # ;
-@R.CASE.com@%<com%>:@R.CASE.com@%>ык%>%{T%}%{Æ%} # ;
-@R.CASE.assoc@%<assoc%>:@R.CASE.assoc@%>ыг%>%{ы%}ма%{⁺ⱽᴴ%} # ;
-@R.CASE.prv@%<prv%>:@R.CASE.prv@%>ык%>%{ы%}к%{Æ%} # ;
+@D.CASE@%-ERG:@D.CASE@%>нан # ;
+@D.CASE@%-ERG:@D.CASE@%>ан # ;
+@D.CASE@%-ESS:@D.CASE@%>%{ы%}ку # ;
+@D.CASE@%-LOC:@D.CASE@%>%{ы%}к # ;
+@D.CASE@%-ALL:@D.CASE@%>ыкы%{⁺ⱽᴴ%} # ;
+@D.CASE@%-ALL:@D.CASE@%>ыка%>%{G%}ты%{⁺ⱽᴴ%} # ;
+@D.CASE@%-ABL:@D.CASE@%>ыка%>%{G%}%{ы%}п%{ы%}%{⁺ⱽᴴ%} # ;
+@D.CASE@%-ORI:@D.CASE@%>ык%{Æ%}%>%{ы%}гйит # ;
+@D.CASE@%-INE:@D.CASE@%>ык%{Æ%}%>%{ы%}чыку # ;
+@D.CASE@%-PER:@D.CASE@%>ык%{Æ%}%>%{ы%}йэквэ%{⁺ⱽᴴ%} # ;
+@D.CASE@%-SUB:@D.CASE@%>ык%{Æ%}%>%{ы%}йиӈкы # ;
+@R.CASE.com@%-COM:@R.CASE.com@%>ык%>%{T%}%{Æ%} # ;
+@R.CASE.assoc@%-ASSOC:@R.CASE.assoc@%>ыг%>%{ы%}ма%{⁺ⱽᴴ%} # ;
+@R.CASE.prv@%-PRV:@R.CASE.prv@%>ык%>%{ы%}к%{Æ%} # ;
 @D.CASE@:@D.CASE@ POSS ;
 @D.CASE@:@D.CASE@%{ы%}к%{Æ%} REL ;
 : PRON-REL ;
 
 
 LEXICON PRON-REL
-%<rel%>%<1sg%>:нин%{Æ%}кин N-DERIV-I ;
-%<rel%>%<1pl%>:гин%{Æ%}кин N-DERIV-I ;
-%<rel%>%<2sg%>:ин%{Æ%}кин N-DERIV-I ;
-%<rel%>%<2pl%>:гин%{Æ%}кин N-DERIV-I ;
+%-1SG%-REL:нин%{Æ%}%>кин N-DERIV-I ;
+%-1PL%-REL:гин%{Æ%}%>кин N-DERIV-I ;
+%-2SG%-REL:ин%{Æ%}%>кин N-DERIV-I ;
+%-2PL%-REL:гин%{Æ%}%>кин N-DERIV-I ;
 
 
 
 LEXICON PRON-RXENUT-ABS
 
-@D.CASE@.prn%<itg%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+@D.CASE@%.prn%.SG%.ABS:@D.CASE@%{·%} # ;
 
 LEXICON PRON-RXENUT-OBL
-
-.prn%<itg%>: CASES-OBL ;
-.prn%<itg%>: CASES-ANIM ;
+! %<itg%>
+.prn: CASES-OBL ;
+.prn: CASES-ANIM ;
 
 
 LEXICON PRON-IMYRXENUT-ABS
-
-@D.CASE@.prn%<ind%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
+! %<ind%>
+@D.CASE@%.prn%.SG%.ABS:@D.CASE@%{·%} # ;
 
 LEXICON PRON-IMYRXENUT-OBL
 
-.prn%<ind%>: CASES-OBL ;
-.prn%<ind%>: CASES-ANIM ;
+.prn: CASES-OBL ;
+.prn: CASES-ANIM ;
 
 LEXICON PRON-YNQEN
-
-@D.CASE@.prn%<dem%>%<sg%>%<abs%>:@D.CASE@%{·%} # ;
-.prn%<dem%>: CASES-OBL ;
-.prn%<dem%>: CASES-ANIM ;
-.prn%<dem%>: POSS ;
+! %<dem%>
+@D.CASE@%.prn%.SG%.ABS:@D.CASE@%{·%} # ;
+.prn: CASES-OBL ;
+.prn: CASES-ANIM ;
+.prn: POSS ;
 
 
 LEXICON PRON-YMYLJO
-
-.prn%<quant%>%<sg%>: # ;
-.prn%<quant%>: CASES-ANIM ;
-.prn%<quant%>: CASES-OBL ;
-.prn%<quant%>: POSS ;
+! %<quant%>
+.prn%.SG%.ABS: # ;
+.prn: CASES-ANIM ;
+.prn: CASES-OBL ;
+.prn: POSS ;
 
 LEXICON PRON-QOL-SG
-
-.prn%<quant%>%<sg%>%<abs%>: # ;
+! quant
+.prn%.SG%.ABS: # ;
 
 LEXICON PRON-QOL ! p.173 Inenlikei
 
-.prn%<quant%>: CASES-OBL ;
+.prn: CASES-OBL ;
 
 
 LEXICON PRON-CINIT
-
-.prn%<ref%>%<sg%>%<abs%>: # ;
-.prn%<ref%>: CASES-OBL ;
+! %<ref%>
+.prn%.SG%.ABS: # ;
+.prn: CASES-OBL ;
 
 
 LEXICON PRON-AMYNAN
-
-@D.CASE@.prn%<restr%>%<p1%>%<sg%>:@D.CASE@гымнан # ;
-@D.CASE@.prn%<restr%>%<p2%>%<sg%>:@D.CASE@гынан # ;
-@D.CASE@.prn%<restr%>%<p3%>%<sg%>:@D.CASE@ынан # ;
-@D.CASE@.prn%<restr%>%<p1%>%<pl%>:@D.CASE@моргынан # ;
-@D.CASE@.prn%<restr%>%<p2%>%<pl%>:@D.CASE@торгынан # ;
-@D.CASE@.prn%<restr%>%<p3%>%<pl%>:@D.CASE@ыргынан # ;
-@D.CASE@.prn%<restr%>%<p3%>%<pl%>:@D.CASE@ыччынан # ;
+! %<restr%>
+@D.CASE@.prn%.1SG:@D.CASE@гымнан # ;
+@D.CASE@.prn%.2SG:@D.CASE@гынан # ;
+@D.CASE@.prn%.3SG:@D.CASE@ынан # ;
+@D.CASE@.prn%.1PL:@D.CASE@моргынан # ;
+@D.CASE@.prn%.2PL:@D.CASE@торгынан # ;
+@D.CASE@.prn%.3PL:@D.CASE@ыргынан # ;
+@D.CASE@.prn%.3PL:@D.CASE@ыччынан # ;
 
 
 LEXICON PRON-ITG
-@D.CASE@.prn%<itg%>:@D.CASE@ # ;
+! <itg%>
+@D.CASE@.prn%:@D.CASE@ # ;
 
 ! LEXICON PRON                                 !! Generic pronoun [to be categorised]
 
