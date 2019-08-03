@@ -47,7 +47,7 @@ LEXICON V-INV
 @R.VPR.hab@:@R.VPR.hab@ ADJ ;
 
 LEXICON INTER-V
-%+: Verbs "weight: 0.5" ;
+%+: Verbs "weight: 1.5" ;
 
 ! LEXICON V-INTO-TMP
 ! : Adjectives ;
